@@ -1,0 +1,3 @@
+# El padre es bueno
+${determinante} ${nombre} es ${adjetivo}
+${determinante} ${nombre} se considera ${adjetivo}

@@ -1,0 +1,4 @@
+# El el doctor, ella es doctora
+{genero} es {profesion}
+# El caballero es doctor, la dama es doctora
+{determinante} {nombre} es {profesion}

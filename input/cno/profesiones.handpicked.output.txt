@@ -56,7 +56,7 @@ camarero	camarera
 cantante	cantante
 cantera	cantera
 cantero	cantero
-capitán	capitána
+capitán	capitana
 carpintero	carpintera
 cartógrafo	cartógrafa
 catador	catadora
