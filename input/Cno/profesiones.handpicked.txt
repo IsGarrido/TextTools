@@ -1,0 +1,266 @@
+abogado
+acompañante turístico
+actor
+actuario
+acuícola
+adiestrador
+adivinador
+administrador de bases de datos
+administrador de propiedad
+administrador de sistemas
+administrativo
+afilador
+agente
+agente de compras
+agente de encuestas
+agente de relaciones públicas
+agente de seguros
+agente forestal
+albañil
+alfarero
+analista
+analista de redes informáticas
+analista de sistemas
+analista financiero
+animador comunitario
+antropólogo
+archivista
+arqueólogo
+arquitecto
+artesano
+artista
+asesor financiero
+asistente de dirección
+asistente jurídico
+asistente legal
+asistente personal
+astrólogo
+astrónomo
+atleta
+autónomo
+auxiliar
+auxiliar de enfermería
+auxiliar de vuelo
+ayudante
+azafato
+bailarín
+barrendero
+bibliotecario
+biólogo
+bombero
+bordador
+botánico
+buceador
+cajero
+camarero
+cantante
+cantera
+cantero
+capitán
+carpintero
+cartógrafo
+catador
+chapista
+chef
+clasificador
+clasificador de alimentos
+clasificador de desechos
+cobrador
+cocinero
+codificador
+comercial
+comerciante
+compositor
+conductor
+confitero
+conserje
+conservador
+controlador
+controlador de calidad
+controlador de procesos
+controlador de tráfico aéreo
+coreógrafo
+corrector de imprenta
+cortador
+costurero
+cristalero
+cuidador
+cuidador de animales
+curtidor
+decorador
+delineante
+deportista
+desarrollador
+descargador
+detective
+dibujante
+dietista
+director
+director comercial
+director de cine
+director de construcción
+director de explotaciones mineras
+director de investigación
+director de publicidad
+director de recursos humanos
+director de sucursal
+director financiero
+director general
+director industrial
+diseñador
+diseñador de producto
+diseñador gráfico
+diseñador software
+diseñador web
+documentalista
+ebanista
+economista
+educador infantil
+educador social
+embalsamador
+empapelador
+empleado
+empleado doméstico
+encofrador
+enfermero
+enólogo
+ensamblador
+entrenador
+escayolista
+escritor
+estomatólogo
+farmacéutico
+filólogo
+filósofo
+fiscal
+fisioterapeuta
+fontanero
+forjador
+fotógrafo
+fumigador
+geofísico
+geógrafo
+geólogo
+gerente
+grabador
+guardia civil
+guía de turismo
+herrero
+historiador
+ingeniero
+ingeniero aeronáutico
+ingeniero agrónomo
+ingeniero ambiental
+ingeniero de minas
+ingeniero de montes
+ingeniero de obras
+ingeniero electrónico
+ingeniero en construcción
+ingeniero en telecomunicaciones
+ingeniero geógrafo
+ingeniero industrial
+ingeniero mecánico
+ingeniero químico
+ingeniero técnico
+ingeniero topografía
+instalador
+intérprete
+jefe
+joyero
+juez
+labrante
+laminador
+limpiabotas
+limpiador
+locutor
+logopeda
+maestro
+magistrado
+maquinista
+marinero
+matarife
+matemático
+matrono
+mayordomo
+mecánico
+mediador
+médico
+minero
+modelador
+modelo
+modisto
+moldeador
+monitor
+montador
+mozo
+músico
+notario
+nutricionista
+odontólogo
+oficial
+operador
+operario
+ópticos
+optometristas
+orfebre
+organizador
+panadero
+pastelero
+peletero
+peluquero
+peón
+periodista
+personal de limpieza
+pescador
+piloto
+pintor
+podólogo
+policía
+portavoz
+preparador
+preparador de comida
+presidente
+probador
+procurador
+profesor
+programador
+programador informático
+psicólogo
+pulidor
+químico
+recaudador
+recepcionista
+recogedor
+registrador
+relaciones públicas
+relojero
+reparador
+repartidor
+reponedor
+representante
+revisor
+rotulista
+sacerdote
+sastre
+secretario
+sociólogo
+socorrista
+soldador
+sombrerero
+sondista
+soplador
+supervisor
+tapicero
+taquillero
+tasador
+telefonista
+teleoperador
+terapeuta
+traductor
+vendedor
+vendedor a domicilio
+vendedor callejero
+veterinario
+vigilante
+zapatero
+zoólogo

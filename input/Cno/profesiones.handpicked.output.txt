@@ -1,0 +1,266 @@
+abogado	abogada
+acompañante turístico	acompañante turístico
+actor	actriz
+actuario	actuaria
+adiestrador	adiestradora
+adivinador	adivinadora
+administrador de bases de datos	administradora de bases de datos
+administrador de propiedad	administradora de propiedad
+administrador de sistemas	administradora de sistemas
+administrativo	administrativa
+afilador	afiladora
+agente	agente
+agente de compras	agente de compras
+agente de encuestas	agente de encuestas
+agente de relaciones públicas	agente de relaciones públicas
+agente de seguros	agente de seguros
+agente forestal	agente forestal
+albañil	albañil
+alfarero	alfarera
+analista	analista
+analista de redes informáticas	analista de redes informáticas
+analista de sistemas	analista de sistemas
+analista financiero	analista financiera
+animador comunitario	animador comunitario
+antropólogo	antropóloga
+archivista	archivista
+arqueólogo	arqueóloga
+arquitecto	arquitecta
+artesano	artesana
+artista	artista
+asesor financiero	asesora financiero
+asistente	asistenta
+asistente de dirección	asistenta de dirección
+asistente jurídico	asistenta jurídico
+asistente legal	asistenta legal
+asistente personal	asistenta personal
+astrólogo	astróloga
+astrónomo	astrónoma
+atleta	atleta
+autónomo	autónoma
+auxiliar	auxiliar
+auxiliar de enfermería	auxiliar de enfermería
+auxiliar de vuelo	auxiliar de vuelo
+ayudante	ayudante
+azafato	azafata
+bailarín	bailarína
+barrendero	barrendera
+bibliotecario	bibliotecaria
+biólogo	bióloga
+bombero	bombera
+bordador	bordadora
+botánico	botánica
+buceador	buceadora
+cajero	cajera
+camarero	camarera
+cantante	cantante
+cantera	cantera
+cantero	cantero
+capitán	capitána
+carpintero	carpintera
+cartógrafo	cartógrafa
+catador	catadora
+chapista	chapista
+chef	chef
+clasificador	clasificadora
+clasificador de alimentos	clasificadora de alimentos
+clasificador de desechos	clasificadora de desechos
+cobrador	cobradora
+cocinero	cocinera
+codificador	codificadora
+comercial	comercial
+comerciante	comerciante
+compositor	compositora
+conductor	conductora
+confitero	confitera
+conserje	conserje
+conservador	conservadora
+controlador	controladora
+controlador de calidad	controladora de calidad
+controlador de procesos	controladora de calidad
+controlador de tráfico aéreo	controladora de tráfico aéreo
+coreógrafo	coreógrafa
+corrector de imprenta	correctora de imprenta
+cortador	cortadora
+costurero	costurera
+cristalero	cristalera
+cuidador	cuidadora
+cuidador de animales	cuidadora de animales
+curtidor	curtidora
+decorador	decoradora
+delineante	delineante
+deportista	deportista
+desarrollador	desarrolladora
+descargador	descargadora
+detective	detective
+dibujante	dibujante
+dietista	dietista
+director	directora
+director comercial	directora comercial
+director de cine	directora de cine
+director de construcción	directora de construcción
+director de explotaciones mineras	directora de explotaciones mineras
+director de investigación	directora de investigación
+director de publicidad	directora de publicidad
+director de recursos humanos	directora de recursos humanos
+director de sucursal	directora de sucursal
+director financiero	directora financiero
+director general	directora general
+director industrial	directora industrial
+diseñador	diseñadora
+diseñador de producto	diseñadora de producto
+diseñador gráfico	diseñadora gráfico
+diseñador software	diseñadora software
+diseñador web	diseñadora web
+documentalista	documentalista
+ebanista	ebanista
+economista	economista
+educador	educadora
+educador infantil	educadora infantil
+educador social	educadora social
+embalsamador	embalsamadora
+empapelador	empapeladora
+empleado	empleada
+empleado doméstico	empleada doméstica
+encofrador	encofradora
+enfermero	enfermera
+enólogo	enóloga
+ensamblador	ensambladora
+entrenador	entrenadora
+escayolista	escayolista
+escritor	escritora
+estomatólogo	estomatóloga
+farmacéutico	farmacéutica
+filólogo	filóloga
+filósofo	filósofa
+fiscal	fiscala
+fisioterapeuta	fisioterapeuta
+fontanero	fontanera
+forjador	forjadora
+fotógrafo	fotógrafa
+fumigador	fumigadora
+geofísico	geofísica
+geógrafo	geógrafa
+geólogo	geóloga
+gerente	gerenta
+grabador	grabadora
+guardia civil	guardia civil
+guía de turismo	guía de turismo
+herrero	herrera
+historiador	historiadora
+ingeniero	ingeniera
+ingeniero aeronáutico	ingeniera aeronáutico
+ingeniero agrónomo	ingeniera agrónomo
+ingeniero ambiental	ingeniera ambiental
+ingeniero de minas	ingeniera de minas
+ingeniero de montes	ingeniera de montes
+ingeniero de obras	ingeniera de obras
+ingeniero electrónico	ingeniera electrónico
+ingeniero en construcción	ingeniera en construcción
+ingeniero en telecomunicaciones	ingeniera en telecomunicaciones
+ingeniero geógrafo	ingeniera geógrafo
+ingeniero industrial	ingeniera industrial
+ingeniero mecánico	ingeniera mecánico
+ingeniero químico	ingeniera químico
+ingeniero técnico	ingeniera técnico
+ingeniero topografía	ingeniera topografía
+instalador	instaladora
+intérprete	intérprete
+jefe	jefa
+joyero	joyera
+juez	jueza
+labrante	labrante
+laminador	laminadora
+limpiabotas	limpiabotas
+limpiador	limpiadora
+locutor	locutora
+logopeda	logopeda
+maestro	maestra
+magistrado	magistrada
+maquinista	maquinista
+marinero	marinera
+matarife	matarife
+matemático	matemática
+matrono	matrona
+mayordomo	mayordoma
+mecánico	mecánica
+mediador	mediadora
+médico	médica
+minero	minera
+modelador	modeladora
+modelo	modelo
+modista	modista
+moldeador	moldeadora
+monitor	monitora
+montador	montadora
+mozo	moza
+músico	música
+notario	notaria
+nutricionista	nutricionista
+odontólogo	odontóloga
+oficial	oficiala
+operador	operadora
+operario	operaria
+optometrista	optometrista
+orfebre	orfebre
+organizador	organizadora
+panadero	panadera
+pastelero	pastelera
+peletero	peletera
+peluquero	peluquera
+peón	peona
+periodista	periodista
+personal de limpieza	personal de limpieza
+pescador	pescadora
+piloto	piloto
+pintor	pintora
+podólogo	podóloga
+policía	policía
+portavoz	portavoz
+preparador	preparadora
+preparador de comida	preparador de comida
+presidente	presidenta
+probador	probadora
+procurador	procuradora
+profesor	profesora
+programador	programadora
+programador informático	programadora informático
+psicólogo	psicóloga
+pulidor	pulidora
+químico	química
+recaudador	recaudadora
+recepcionista	recepcionista
+recogedor	recogedora
+registrador	registradora
+relaciones públicas	relaciones públicas
+relojero	relojera
+reparador	reparadora
+repartidor	repartidora
+reponedor	reponedora
+representante	representante
+revisor	revisora
+rotulista	rotulista
+sacerdote	sacerdotisa
+sastre	sastra
+secretario	secretaria
+sociólogo	socióloga
+socorrista	socorrista
+soldador	soldadora
+sombrerero	sombrerera
+sondista	sondista
+soplador	sopladora
+supervisor	supervisora
+tapicero	tapicera
+taquillero	taquillera
+tasador	tasadora
+telefonista	telefonista
+teleoperador	teleoperadora
+terapeuta	terapeuta
+traductor	traductora
+vendedor	vendedora
+vendedor a domicilio	vendedora a domicilio
+vendedor callejero	vendedora callejero
+veterinario	veterinaria
+vigilante	vigilante
+zapatero	zapatera
+zoólogo	zoóloga
