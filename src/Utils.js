@@ -47,6 +47,11 @@ const FastInterpolate = function(template, replaces) {
   return t;
 };
 
+// https://futurestud.io/tutorials/node-js-string-replace-all-appearances
+const ReplaceAll = function(target, from, to) {
+  const replacer = new RegExp(from, 'g');
+  return target.replace(replacer, to);
+};
 
 export default {
   // File
@@ -58,4 +63,5 @@ export default {
   // String
   Interpolate,
   FastInterpolate,
+  ReplaceAll,
 };
