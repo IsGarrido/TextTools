@@ -4,6 +4,7 @@ actor	actriz
 actuario	actuaria
 adiestrador	adiestradora
 adivinador	adivinadora
+administrador   administradora
 administrador de bases de datos	administradora de bases de datos
 administrador de propiedad	administradora de propiedad
 administrador de sistemas	administradora de sistemas
@@ -28,6 +29,7 @@ arqueólogo	arqueóloga
 arquitecto	arquitecta
 artesano	artesana
 artista	artista
+asesor	asesora
 asesor financiero	asesora financiero
 asistente	asistenta
 asistente de dirección	asistenta de dirección
