@@ -17,7 +17,7 @@ let plantilla = plantillas[0];
 for (const genero of generos) {
   for (const profesion of profesiones) {
     
-    if(profesion.includes(" ")) // Temporal?
+    if(profesion[0].includes(" ")) // Temporal?
       continue;
     
     const s1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['profesion', profesion[0]]] ); // El es profesor
@@ -39,7 +39,7 @@ for (const genero of generos) {
     for ( const determinante of determinantes) {
       for ( const nombre of nombres) {
 
-        if(profesion.includes(" ")) // Temporal?
+        if(profesion[0].includes(" ")) // Temporal?
           continue;
   
         const s1 = Utils.FastInterpolate(plantilla, [['nombre', nombre[0]], ['determinante', determinante[0]], ['genero', genero[0]], ['profesion', profesion[0]]] ); // El es profesor
