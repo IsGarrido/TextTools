@@ -1,5 +1,6 @@
 import Utils from '../src/Utils.js';
 import BERT from '../src/BERT.js';
+import process from 'process';
 
 
 const plantillas = Utils.ReadLines('./data/Partes/plantillas/profesiones.txt');
@@ -15,6 +16,10 @@ const results = [];
 let plantilla = plantillas[0];
 for (const genero of generos) {
   for (const profesion of profesiones) {
+    
+    if(profesion.includes(" ")) // Temporal?
+      continue;
+    
     const s1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['profesion', profesion[0]]] ); // El es profesor
     const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['profesion', profesion[1]]] ); // El es profesor
     const m1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['profesion', BERT.MASK]] ); // El es profesor
@@ -33,6 +38,10 @@ for (const genero of generos) {
   for (const profesion of profesiones) {
     for ( const determinante of determinantes) {
       for ( const nombre of nombres) {
+
+        if(profesion.includes(" ")) // Temporal?
+          continue;
+  
         const s1 = Utils.FastInterpolate(plantilla, [['nombre', nombre[0]], ['determinante', determinante[0]], ['genero', genero[0]], ['profesion', profesion[0]]] ); // El es profesor
         const s2 = Utils.FastInterpolate(plantilla, [['nombre', nombre[1]], ['determinante', determinante[1]], ['genero', genero[1]], ['profesion', profesion[1]]] ); // El es profesor
         const m1 = Utils.FastInterpolate(plantilla, [['nombre', nombre[0]], ['determinante', determinante[0]], ['genero', genero[0]], ['profesion', BERT.MASK]] ); // El es profesor
