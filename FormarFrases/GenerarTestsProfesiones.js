@@ -11,7 +11,7 @@ const nombres = Utils.ReadTsv('./data/Partes/nombres/nombres.tsv');
 
 let uid = 0;
 let pId = 0;
-const results = [];
+let results = [];
 
 
 // Test clasico 0
@@ -34,7 +34,6 @@ for (const genero of generos) {
 
 
 // Test avanzado 1
-
 pId++;
 plantilla = plantillas[1];
 
@@ -56,10 +55,12 @@ for (const profesion of profesiones) {
   }
 }
 
+Utils.WriteLines('./FormarFrases/tests/profesiones.test.tsv', results);
+//Utils.WriteLines('./FormarFrases/tests/profesiones.test.csv', results.map((x) => x.replace(/\t/g, ';')));
 
+/* Log odds */
+results = [];
 
-
-// Log odds
 // Enmascarar todo el genero, basico 2
 pId++;
 plantilla = plantillas[0];
@@ -81,9 +82,7 @@ for (const genero of generos) {
   }
 }
 
-
 // Enmascarar todo el avanzado, basico 3
-
 pId++;
 plantilla = plantillas[1];
 
@@ -109,5 +108,6 @@ plantilla = plantillas[1];
 
 
 
-Utils.WriteLines('./FormarFrases/tests/profesiones.test.tsv', results);
-Utils.WriteLines('./FormarFrases/tests/profesiones.test.csv', results.map((x) => x.replace(/\t/g, ';')));
+Utils.WriteLines('./FormarFrases/tests/profesiones.odds.test.tsv', results);
+//Utils.WriteLines('./FormarFrases/tests/profesiones.odds.test.csv', results.map((x) => x.replace(/\t/g, ';')));
+  
