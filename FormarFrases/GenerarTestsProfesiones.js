@@ -71,7 +71,7 @@ for (const genero of generos) {
       continue;
     
     const s1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['profesion', profesion[0]]] ); // El es profesor
-    const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['profesion', profesion[1]]] ); // Ella es profesor
+    const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['profesion', profesion[1]]] ); // Ella es profesora
     const m1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['profesion', BERT.MASK]] ); // El es [MASK]          ? profesor
     const m2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['profesion', BERT.MASK]] ); // Ella es [MASK]        ? profesora
     const g1 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['profesion', BERT.MASK]] ); // [MASK] es [MASK]      ? profesor
@@ -111,3 +111,29 @@ plantilla = plantillas[1];
 Utils.WriteLines('./FormarFrases/tests/profesiones.odds.test.tsv', results);
 //Utils.WriteLines('./FormarFrases/tests/profesiones.odds.test.csv', results.map((x) => x.replace(/\t/g, ';')));
   
+
+/* Log odds genero */
+results = [];
+
+// Enmascarar todo el genero, basico 3, test 5
+pId++;
+plantilla = plantillas[0];
+for (const genero of generos) {
+  for (const profesion of profesiones) {
+    
+    if(profesion[0].includes(" ")) // Temporal?
+      continue;
+    
+    const s1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['profesion', profesion[0]]] ); // El es profesor
+    const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['profesion', profesion[1]]] ); // Ella es profesora
+    const m1 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['profesion', profesion[0]]] ); // [MASK] es profesor          ? el
+    const m2 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['profesion', profesion[1]]] ); // [MASK] es [MASK]        ? ella
+    const g1 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['profesion', BERT.MASK]] ); // [MASK] es [MASK]      ? profesor
+    const g2 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['profesion', BERT.MASK]] ); // [MASK] es [MASK]      ? profesora
+
+    const items = [s1, s2, m1, m2, ...genero, uid++, pId, '', '', '', '', '', '', '', '', g1, g2];
+    results.push(items.join('\t'));
+  }
+}
+
+Utils.WriteLines('./FormarFrases/tests/profesiones.alt.odds.test.tsv', results);
