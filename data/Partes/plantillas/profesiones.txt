@@ -2,3 +2,4 @@
 {genero} es {profesion}
 # El caballero es doctor, la dama es doctora
 {determinante} {nombre} es {profesion}
+# El caballero es un buenisimo/terrible {profesion}
