@@ -1,0 +1,2015 @@
+[
+  {
+		"value" : "Ayudantes de cocina",
+		"code" : "9310"
+	},
+	{
+		"value" : "Preparadores de comidas rápidas",
+		"code" : "9320"
+	},
+	{
+		"value" : "Vendedores callejeros",
+		"code" : "9410"
+	},
+	{
+		"value" : "Repartidores de publicidad, limpiabotas y otros trabajadores de oficios callejeros",
+		"code" : "9420"
+	},
+	{
+		"value" : "Ordenanzas",
+		"code" : "9431"
+	},
+	{
+		"value" : "Mozos de equipaje y afines",
+		"code" : "9432"
+	},
+	{
+		"value" : "Repartidores, recadistas y mensajeros a pie",
+		"code" : "9433"
+	},
+	{
+		"value" : "Lectores de contadores y recaudadores de máquinas recreativas y expendedoras",
+		"code" : "9434"
+	},
+	{
+		"value" : "Recogedores de residuos",
+		"code" : "9441"
+	},
+	{
+		"value" : "Clasificadores de desechos, operarios de punto limpio y recogedores de chatarra",
+		"code" : "9442"
+	},
+	{
+		"value" : "Barrenderos y afines",
+		"code" : "9443"
+	},
+	{
+		"value" : "Otras ocupaciones elementales",
+		"code" : "9490"
+	},
+	{
+		"value" : "Peones agrícolas (excepto en huertas, invernaderos, viveros y jardines)",
+		"code" : "9511"
+	},
+	{
+		"value" : "Peones agrícolas en huertas, invernaderos, viveros y jardines",
+		"code" : "9512"
+	},
+	{
+		"value" : "Peones ganaderos",
+		"code" : "9520"
+	},
+	{
+		"value" : "Peones agropecuarios",
+		"code" : "9530"
+	},
+	{
+		"value" : "Peones de la pesca",
+		"code" : "9541"
+	},
+	{
+		"value" : "Peones de la acuicultura",
+		"code" : "9542"
+	},
+	{
+		"value" : "Peones forestales y de la caza",
+		"code" : "9543"
+	},
+	{
+		"value" : "Peones de obras públicas",
+		"code" : "9601"
+	},
+	{
+		"value" : "Peones de la construcción de edificios",
+		"code" : "9602"
+	},
+	{
+		"value" : "Peones de la minería, canteras y otras industrias extractivas",
+		"code" : "9603"
+	},
+	{
+		"value" : "Peones de las industrias manufactureras",
+		"code" : "9700"
+	},
+	{
+		"value" : "Peones del transporte de mercancías y descargadores",
+		"code" : "9811"
+	},
+	{
+		"value" : "Conductores de vehículos de tracción animal para el transporte de personas y similares",
+		"code" : "9812"
+	},
+	{
+		"value" : "Reponedores",
+		"code" : "9820"
+	},
+	{
+		"value" : "SIN PROFESIÓN",
+		"code" : "9999"
+	},
+	{
+		"value" : "Tropa y marinería de las fuerzas armadas",
+		"code" : "0020"
+	},
+	{
+		"value" : "Miembros del poder ejecutivo (nacional, autonómico y local) y del poder legislativo",
+		"code" : "1111"
+	},
+	{
+		"value" : "Personal directivo de la Administración Pública",
+		"code" : "1112"
+	},
+	{
+		"value" : "Directores de organizaciones de interés social",
+		"code" : "1113"
+	},
+	{
+		"value" : "Directores generales y presidentes ejecutivos",
+		"code" : "1120"
+	},
+	{
+		"value" : "Directores financieros",
+		"code" : "1211"
+	},
+	{
+		"value" : "Directores de recursos humanos",
+		"code" : "1212"
+	},
+	{
+		"value" : "Directores de políticas y planificación y de otros departamentos administrativos no clasificados bajo otros epígrafes",
+		"code" : "1219"
+	},
+	{
+		"value" : "Directores comerciales y de ventas",
+		"code" : "1221"
+	},
+	{
+		"value" : "Directores de publicidad y relaciones públicas",
+		"code" : "1222"
+	},
+	{
+		"value" : "Directores de investigación y desarrollo",
+		"code" : "1223"
+	},
+	{
+		"value" : "Directores de producción de explotaciones agropecuarias y forestales",
+		"code" : "1311"
+	},
+	{
+		"value" : "Directores de producción de explotaciones pesqueras y acuícolas",
+		"code" : "1312"
+	},
+	{
+		"value" : "Directores de industrias manufactureras",
+		"code" : "1313"
+	},
+	{
+		"value" : "Directores de explotaciones mineras",
+		"code" : "1314"
+	},
+	{
+		"value" : "Directores de empresas de abastecimiento, transporte, distribución y afines",
+		"code" : "1315"
+	},
+	{
+		"value" : "Directores de empresas de construcción",
+		"code" : "1316"
+	},
+	{
+		"value" : "Directores de servicios de tecnologías de la información y las comunicaciones (TIC)",
+		"code" : "1321"
+	},
+	{
+		"value" : "Directores de servicios sociales para niños",
+		"code" : "1322"
+	},
+	{
+		"value" : "Directores-gerentes de centros sanitarios",
+		"code" : "1323"
+	},
+	{
+		"value" : "Directores de servicios sociales para personas mayores",
+		"code" : "1324"
+	},
+	{
+		"value" : "Directores de otros servicios sociales",
+		"code" : "1325"
+	},
+	{
+		"value" : "Directores de servicios de educación",
+		"code" : "1326"
+	},
+	{
+		"value" : "Directores de sucursales de bancos, de servicios financieros y de seguros",
+		"code" : "1327"
+	},
+	{
+		"value" : "Directores de otras empresas de servicios profesionales no clasificados bajo otros epígrafes",
+		"code" : "1329"
+	},
+	{
+		"value" : "Directores y gerentes de hoteles",
+		"code" : "1411"
+	},
+	{
+		"value" : "Directores y gerentes de otras empresas de servicios de alojamiento",
+		"code" : "1419"
+	},
+	{
+		"value" : "Directores y gerentes de restaurantes",
+		"code" : "1421"
+	},
+	{
+		"value" : "Directores y gerentes de bares, cafeterías y similares",
+		"code" : "1422"
+	},
+	{
+		"value" : "Directores y gerentes de empresas de catering y otras empresas de restauración",
+		"code" : "1429"
+	},
+	{
+		"value" : "Directores y gerentes de empresas de comercio al por mayor",
+		"code" : "1431"
+	},
+	{
+		"value" : "Directores y gerentes de empresas de comercio al por menor",
+		"code" : "1432"
+	},
+	{
+		"value" : "Directores y gerentes de empresas de actividades recreativas, culturales y deportivas",
+		"code" : "1501"
+	},
+	{
+		"value" : "Directores y gerentes de empresas de gestión de residuos y de otras empresas de servicios no clasificados bajo otros epígrafes",
+		"code" : "1509"
+	},
+	{
+		"value" : "Médicos de familia",
+		"code" : "2111"
+	},
+	{
+		"value" : "Otros médicos especialistas",
+		"code" : "2112"
+	},
+	{
+		"value" : "Enfermeros no especializados",
+		"code" : "2121"
+	},
+	{
+		"value" : "Enfermeros especializados (excepto matronos)",
+		"code" : "2122"
+	},
+	{
+		"value" : "Matronos",
+		"code" : "2123"
+	},
+	{
+		"value" : "Veterinarios",
+		"code" : "2130"
+	},
+	{
+		"value" : "Farmacéuticos",
+		"code" : "2140"
+	},
+	{
+		"value" : "Odontólogos y estomatólogos",
+		"code" : "2151"
+	},
+	{
+		"value" : "Fisioterapeutas",
+		"code" : "2152"
+	},
+	{
+		"value" : "Dietistas y nutricionistas",
+		"code" : "2153"
+	},
+	{
+		"value" : "Logopedas",
+		"code" : "2154"
+	},
+	{
+		"value" : "Ópticos-optometristas",
+		"code" : "2155"
+	},
+	{
+		"value" : "Terapeutas ocupacionales",
+		"code" : "2156"
+	},
+	{
+		"value" : "Podólogos",
+		"code" : "2157"
+	},
+	{
+		"value" : "Profesionales de la salud y la higiene laboral y ambiental",
+		"code" : "2158"
+	},
+	{
+		"value" : "Profesionales de la salud no clasificados bajo otros epígrafes",
+		"code" : "2159"
+	},
+	{
+		"value" : "Profesores de universidades y otra enseñanza superior (excepto formación profesional)",
+		"code" : "2210"
+	},
+	{
+		"value" : "Profesores de formación profesional (materias específicas)",
+		"code" : "2220"
+	},
+	{
+		"value" : "Profesores de enseñanza secundaria (excepto materias específicas de formación profesional)",
+		"code" : "2230"
+	},
+	{
+		"value" : "Profesores de enseñanza primaria",
+		"code" : "2240"
+	},
+	{
+		"value" : "Maestros de educación infantil",
+		"code" : "2251"
+	},
+	{
+		"value" : "Técnicos en educación infantil",
+		"code" : "2252"
+	},
+	{
+		"value" : "Profesores de educación especial",
+		"code" : "2311"
+	},
+	{
+		"value" : "Técnicos educadores de educación especial",
+		"code" : "2312"
+	},
+	{
+		"value" : "Especialistas en métodos didácticos y pedagógicos",
+		"code" : "2321"
+	},
+	{
+		"value" : "Profesores de enseñanza no reglada de idiomas",
+		"code" : "2322"
+	},
+	{
+		"value" : "Profesores de enseñanza no reglada de música y danza",
+		"code" : "2323"
+	},
+	{
+		"value" : "Profesores de enseñanza no reglada de artes",
+		"code" : "2324"
+	},
+	{
+		"value" : "Instructores en tecnologías de la información en enseñanza no reglada",
+		"code" : "2325"
+	},
+	{
+		"value" : "Profesionales de la educación ambiental",
+		"code" : "2326"
+	},
+	{
+		"value" : "Profesores y profesionales de la enseñanza no clasificados bajo otros epígrafes",
+		"code" : "2329"
+	},
+	{
+		"value" : "Físicos y astrónomos",
+		"code" : "2411"
+	},
+	{
+		"value" : "Meteorólogos",
+		"code" : "2412"
+	},
+	{
+		"value" : "Químicos",
+		"code" : "2413"
+	},
+	{
+		"value" : "Geólogos y geofísicos",
+		"code" : "2414"
+	},
+	{
+		"value" : "Matemáticos y actuarios",
+		"code" : "2415"
+	},
+	{
+		"value" : "Estadísticos",
+		"code" : "2416"
+	},
+	{
+		"value" : "Biólogos, botánicos, zoólogos y afines",
+		"code" : "2421"
+	},
+	{
+		"value" : "Ingenieros agrónomos",
+		"code" : "2422"
+	},
+	{
+		"value" : "Ingenieros de montes",
+		"code" : "2423"
+	},
+	{
+		"value" : "Ingenieros técnicos agrícolas",
+		"code" : "2424"
+	},
+	{
+		"value" : "Ingenieros técnicos forestales y del medio natural",
+		"code" : "2425"
+	},
+	{
+		"value" : "Profesionales de la protección ambiental",
+		"code" : "2426"
+	},
+	{
+		"value" : "Enólogos",
+		"code" : "2427"
+	},
+	{
+		"value" : "Ingenieros industriales y de producción",
+		"code" : "2431"
+	},
+	{
+		"value" : "Ingenieros en construcción y obra civil",
+		"code" : "2432"
+	},
+	{
+		"value" : "Ingenieros mecánicos",
+		"code" : "2433"
+	},
+	{
+		"value" : "Ingenieros aeronáuticos",
+		"code" : "2434"
+	},
+	{
+		"value" : "Ingenieros químicos",
+		"code" : "2435"
+	},
+	{
+		"value" : "Ingenieros de minas, metalúrgicos y afines",
+		"code" : "2436"
+	},
+	{
+		"value" : "Ingenieros ambientales",
+		"code" : "2437"
+	},
+	{
+		"value" : "Ingenieros no clasificados bajo otros epígrafes",
+		"code" : "2439"
+	},
+	{
+		"value" : "Ingenieros en electricidad",
+		"code" : "2441"
+	},
+	{
+		"value" : "Ingenieros electrónicos",
+		"code" : "2442"
+	},
+	{
+		"value" : "Ingenieros en telecomunicaciones",
+		"code" : "2443"
+	},
+	{
+		"value" : "Arquitectos (excepto arquitectos paisajistas y urbanistas)",
+		"code" : "2451"
+	},
+	{
+		"value" : "Arquitectos paisajistas",
+		"code" : "2452"
+	},
+	{
+		"value" : "Urbanistas e ingenieros de tráfico",
+		"code" : "2453"
+	},
+	{
+		"value" : "Ingenieros geógrafos y cartógrafos",
+		"code" : "2454"
+	},
+	{
+		"value" : "Ingenieros técnicos industriales y de producción",
+		"code" : "2461"
+	},
+	{
+		"value" : "Ingenieros técnicos de obras públicas",
+		"code" : "2462"
+	},
+	{
+		"value" : "Ingenieros técnicos mecánicos",
+		"code" : "2463"
+	},
+	{
+		"value" : "Ingenieros técnicos aeronáuticos",
+		"code" : "2464"
+	},
+	{
+		"value" : "Ingenieros técnicos químicos",
+		"code" : "2465"
+	},
+	{
+		"value" : "Ingenieros técnicos de minas, metalúrgicos y afines",
+		"code" : "2466"
+	},
+	{
+		"value" : "Ingenieros técnicos no clasificados bajo otros epígrafes",
+		"code" : "2469"
+	},
+	{
+		"value" : "Ingenieros técnicos en electricidad",
+		"code" : "2471"
+	},
+	{
+		"value" : "Ingenieros técnicos en electrónica",
+		"code" : "2472"
+	},
+	{
+		"value" : "Ingenieros técnicos en telecomunicaciones",
+		"code" : "2473"
+	},
+	{
+		"value" : "Arquitectos técnicos y técnicos urbanistas",
+		"code" : "2481"
+	},
+	{
+		"value" : "Diseñadores de productos y de prendas",
+		"code" : "2482"
+	},
+	{
+		"value" : "Ingenieros técnicos en topografía",
+		"code" : "2483"
+	},
+	{
+		"value" : "Diseñadores gráficos y multimedia",
+		"code" : "2484"
+	},
+	{
+		"value" : "Abogados",
+		"code" : "2511"
+	},
+	{
+		"value" : "Fiscales",
+		"code" : "2512"
+	},
+	{
+		"value" : "Jueces y magistrados",
+		"code" : "2513"
+	},
+	{
+		"value" : "Notarios y registradores",
+		"code" : "2591"
+	},
+	{
+		"value" : "Procuradores",
+		"code" : "2592"
+	},
+	{
+		"value" : "Profesionales del derecho no clasificados bajo otros epígrafes",
+		"code" : "2599"
+	},
+	{
+		"value" : "Especialistas en contabilidad",
+		"code" : "2611"
+	},
+	{
+		"value" : "Asesores financieros y en inversiones",
+		"code" : "2612"
+	},
+	{
+		"value" : "Analistas financieros",
+		"code" : "2613"
+	},
+	{
+		"value" : "Analistas de gestión y organización",
+		"code" : "2621"
+	},
+	{
+		"value" : "Especialistas en administración de política de empresas",
+		"code" : "2622"
+	},
+	{
+		"value" : "Especialistas de la Administración Pública",
+		"code" : "2623"
+	},
+	{
+		"value" : "Especialistas en políticas y servicios de personal y afines",
+		"code" : "2624"
+	},
+	{
+		"value" : "Especialistas en formación de personal",
+		"code" : "2625"
+	},
+	{
+		"value" : "Técnicos de empresas y actividades turísticas",
+		"code" : "2630"
+	},
+	{
+		"value" : "Profesionales de ventas técnicas y médicas (excepto las TIC)",
+		"code" : "2640"
+	},
+	{
+		"value" : "Profesionales de la publicidad y la comercialización",
+		"code" : "2651"
+	},
+	{
+		"value" : "Profesionales de relaciones públicas",
+		"code" : "2652"
+	},
+	{
+		"value" : "Profesionales de la venta de tecnologías de la información y las comunicaciones",
+		"code" : "2653"
+	},
+	{
+		"value" : "Analistas de sistemas",
+		"code" : "2711"
+	},
+	{
+		"value" : "Analistas y diseñadores de software",
+		"code" : "2712"
+	},
+	{
+		"value" : "Analistas, programadores y diseñadores Web y multimedia",
+		"code" : "2713"
+	},
+	{
+		"value" : "Analistas y diseñadores de software y multimedia no clasificados bajo otros epígrafes",
+		"code" : "2719"
+	},
+	{
+		"value" : "Diseñadores y administradores de bases de datos",
+		"code" : "2721"
+	},
+	{
+		"value" : "Administradores de sistemas y redes",
+		"code" : "2722"
+	},
+	{
+		"value" : "Analistas de redes informáticas",
+		"code" : "2723"
+	},
+	{
+		"value" : "Especialistas en bases de datos y en redes informáticas no clasificados bajo otros epígrafes",
+		"code" : "2729"
+	},
+	{
+		"value" : "Economistas",
+		"code" : "2810"
+	},
+	{
+		"value" : "Sociólogos, geógrafos, antropólogos, arqueólogos y afines",
+		"code" : "2821"
+	},
+	{
+		"value" : "Filósofos, historiadores y profesionales en ciencias políticas",
+		"code" : "2822"
+	},
+	{
+		"value" : "Psicólogos",
+		"code" : "2823"
+	},
+	{
+		"value" : "Profesionales del trabajo y la educación social",
+		"code" : "2824"
+	},
+	{
+		"value" : "Agentes de igualdad de oportunidades entre mujeres y hombres",
+		"code" : "2825"
+	},
+	{
+		"value" : "Sacerdotes de las distintas religiones",
+		"code" : "2830"
+	},
+	{
+		"value" : "Archivistas y conservadores de museos",
+		"code" : "2911"
+	},
+	{
+		"value" : "Bibliotecarios, documentalistas y afines",
+		"code" : "2912"
+	},
+	{
+		"value" : "Escritores",
+		"code" : "2921"
+	},
+	{
+		"value" : "Periodistas",
+		"code" : "2922"
+	},
+	{
+		"value" : "Filólogos, intérpretes y traductores",
+		"code" : "2923"
+	},
+	{
+		"value" : "Artistas de artes plásticas y visuales",
+		"code" : "2931"
+	},
+	{
+		"value" : "Compositores, músicos y cantantes",
+		"code" : "2932"
+	},
+	{
+		"value" : "Coreógrafos y bailarines",
+		"code" : "2933"
+	},
+	{
+		"value" : "Directores de cine, de teatro y afines",
+		"code" : "2934"
+	},
+	{
+		"value" : "Actores",
+		"code" : "2935"
+	},
+	{
+		"value" : "Locutores de radio, televisión y otros presentadores",
+		"code" : "2936"
+	},
+	{
+		"value" : "Profesionales de espectáculos taurinos",
+		"code" : "2937"
+	},
+	{
+		"value" : "Artistas creativos e interpretativos no clasificados bajo otros epígrafes",
+		"code" : "2939"
+	},
+	{
+		"value" : "Delineantes y dibujantes técnicos",
+		"code" : "3110"
+	},
+	{
+		"value" : "Técnicos en ciencias físicas y químicas",
+		"code" : "3121"
+	},
+	{
+		"value" : "Técnicos en construcción",
+		"code" : "3122"
+	},
+	{
+		"value" : "Técnicos en electricidad",
+		"code" : "3123"
+	},
+	{
+		"value" : "Técnicos en electrónica (excepto electromedicina)",
+		"code" : "3124"
+	},
+	{
+		"value" : "Técnicos en electrónica, especialidad en electromedicina",
+		"code" : "3125"
+	},
+	{
+		"value" : "Técnicos en mecánica",
+		"code" : "3126"
+	},
+	{
+		"value" : "Técnicos y analistas de laboratorio en química industrial",
+		"code" : "3127"
+	},
+	{
+		"value" : "Técnicos en metalurgia y minas",
+		"code" : "3128"
+	},
+	{
+		"value" : "Otros técnicos de las ciencias físicas, químicas, medioambientales y de las ingenierías",
+		"code" : "3129"
+	},
+	{
+		"value" : "Técnicos en instalaciones de producción de energía",
+		"code" : "3131"
+	},
+	{
+		"value" : "Técnicos en instalaciones de tratamiento de residuos, de aguas y otros operadores en plantas similares",
+		"code" : "3132"
+	},
+	{
+		"value" : "Técnicos en control de instalaciones de procesamiento de productos químicos",
+		"code" : "3133"
+	},
+	{
+		"value" : "Técnicos de refinerías de petróleo y gas natural",
+		"code" : "3134"
+	},
+	{
+		"value" : "Técnicos en control de procesos de producción de metales",
+		"code" : "3135"
+	},
+	{
+		"value" : "Técnicos en control de procesos no clasificados bajo otros epígrafes",
+		"code" : "3139"
+	},
+	{
+		"value" : "Técnicos en ciencias biológicas (excepto en áreas sanitarias)",
+		"code" : "3141"
+	},
+	{
+		"value" : "Técnicos agropecuarios",
+		"code" : "3142"
+	},
+	{
+		"value" : "Técnicos forestales y del medio natural",
+		"code" : "3143"
+	},
+	{
+		"value" : "Jefes y oficiales de máquinas",
+		"code" : "3151"
+	},
+	{
+		"value" : "Capitanes y oficiales de puente",
+		"code" : "3152"
+	},
+	{
+		"value" : "Pilotos de aviación y profesionales afines",
+		"code" : "3153"
+	},
+	{
+		"value" : "Controladores de tráfico aéreo",
+		"code" : "3154"
+	},
+	{
+		"value" : "Técnicos en seguridad aeronáutica",
+		"code" : "3155"
+	},
+	{
+		"value" : "Técnicos de control de calidad de las ciencias físicas, químicas y de las ingenierías",
+		"code" : "3160"
+	},
+	{
+		"value" : "Supervisores en ingeniería de minas",
+		"code" : "3201"
+	},
+	{
+		"value" : "Supervisores de la construcción",
+		"code" : "3202"
+	},
+	{
+		"value" : "Supervisores de industrias alimenticias y del tabaco",
+		"code" : "3203"
+	},
+	{
+		"value" : "Supervisores de industrias química y farmacéutica",
+		"code" : "3204"
+	},
+	{
+		"value" : "Supervisores de industrias de transformación de plásticos, caucho y resinas naturales",
+		"code" : "3205"
+	},
+	{
+		"value" : "Supervisores de industrias de la madera y pastero papeleras",
+		"code" : "3206"
+	},
+	{
+		"value" : "Supervisores de la producción en industrias de artes gráficas y en la fabricación de productos de papel",
+		"code" : "3207"
+	},
+	{
+		"value" : "Supervisores de otras industrias manufactureras",
+		"code" : "3209"
+	},
+	{
+		"value" : "Técnicos en radioterapia",
+		"code" : "3311"
+	},
+	{
+		"value" : "Técnicos en imagen para el diagnóstico",
+		"code" : "3312"
+	},
+	{
+		"value" : "Técnicos en anatomía patológica y citología",
+		"code" : "3313"
+	},
+	{
+		"value" : "Técnicos en laboratorio de diagnóstico clínico",
+		"code" : "3314"
+	},
+	{
+		"value" : "Técnicos en ortoprótesis",
+		"code" : "3315"
+	},
+	{
+		"value" : "Técnicos en prótesis dentales",
+		"code" : "3316"
+	},
+	{
+		"value" : "Técnicos en audioprótesis",
+		"code" : "3317"
+	},
+	{
+		"value" : "Técnicos superiores en higiene bucodental",
+		"code" : "3321"
+	},
+	{
+		"value" : "Técnicos superiores en documentación sanitaria",
+		"code" : "3322"
+	},
+	{
+		"value" : "Técnicos superiores en dietética",
+		"code" : "3323"
+	},
+	{
+		"value" : "Técnicos en optometría",
+		"code" : "3324"
+	},
+	{
+		"value" : "Ayudantes fisioterapeutas",
+		"code" : "3325"
+	},
+	{
+		"value" : "Técnicos en prevención de riesgos laborales y salud ambiental",
+		"code" : "3326"
+	},
+	{
+		"value" : "Ayudantes de veterinaria",
+		"code" : "3327"
+	},
+	{
+		"value" : "Técnicos de la sanidad no clasificados bajo otros epígrafes",
+		"code" : "3329"
+	},
+	{
+		"value" : "Profesionales de la acupuntura, la naturopatía, la homeopatía, la medicina tradicional china y la ayurveda",
+		"code" : "3331"
+	},
+	{
+		"value" : "Otros profesionales de las terapias alternativas",
+		"code" : "3339"
+	},
+	{
+		"value" : "Profesionales de apoyo e intermediarios de cambio, bolsa y finanzas",
+		"code" : "3401"
+	},
+	{
+		"value" : "Comerciales de préstamos y créditos",
+		"code" : "3402"
+	},
+	{
+		"value" : "Tenedores de libros",
+		"code" : "3403"
+	},
+	{
+		"value" : "Profesionales de apoyo en servicios estadísticos, matemáticos y afines",
+		"code" : "3404"
+	},
+	{
+		"value" : "Mediadores y agentes de seguros",
+		"code" : "3521"
+	},
+	{
+		"value" : "Agentes de compras",
+		"code" : "3522"
+	},
+	{
+		"value" : "Consignatarios",
+		"code" : "3523"
+	},
+	{
+		"value" : "Representantes de aduanas",
+		"code" : "3531"
+	},
+	{
+		"value" : "Organizadores de conferencias y eventos",
+		"code" : "3532"
+	},
+	{
+		"value" : "Agentes o intermediarios en la contratación de la mano de obra (excepto representantes de espectáculos)",
+		"code" : "3533"
+	},
+	{
+		"value" : "Agentes y administradores de la propiedad inmobiliaria",
+		"code" : "3534"
+	},
+	{
+		"value" : "Portavoces y agentes de relaciones públicas",
+		"code" : "3535"
+	},
+	{
+		"value" : "Representantes artísticos y deportivos y otros agentes de servicios comerciales no clasificados bajo otros epígrafes",
+		"code" : "3539"
+	},
+	{
+		"value" : "Supervisores de secretaría",
+		"code" : "3611"
+	},
+	{
+		"value" : "Asistentes jurídico-legales",
+		"code" : "3612"
+	},
+	{
+		"value" : "Asistentes de dirección y administrativos",
+		"code" : "3613"
+	},
+	{
+		"value" : "Secretarios de centros médicos o clínicas",
+		"code" : "3614"
+	},
+	{
+		"value" : "Profesionales de apoyo de la Administración Pública de tributos",
+		"code" : "3621"
+	},
+	{
+		"value" : "Profesionales de apoyo de la Administración Pública de servicios sociales",
+		"code" : "3622"
+	},
+	{
+		"value" : "Profesionales de apoyo de la Administración Pública de servicios de expedición de licencias",
+		"code" : "3623"
+	},
+	{
+		"value" : "Otros profesionales de apoyo de la Administración Pública para tareas de inspección y control y tareas similares",
+		"code" : "3629"
+	},
+	{
+		"value" : "Técnicos de la policía nacional, autonómica y local",
+		"code" : "3631"
+	},
+	{
+		"value" : "Suboficiales de la guardia civil",
+		"code" : "3632"
+	},
+	{
+		"value" : "Profesionales de apoyo de servicios jurídicos y servicios similares",
+		"code" : "3711"
+	},
+	{
+		"value" : "Detectives privados",
+		"code" : "3712"
+	},
+	{
+		"value" : "Profesionales de apoyo al trabajo y a la educación social",
+		"code" : "3713"
+	},
+	{
+		"value" : "Promotores de igualdad de oportunidades entre mujeres y hombres",
+		"code" : "3714"
+	},
+	{
+		"value" : "Animadores comunitarios",
+		"code" : "3715"
+	},
+	{
+		"value" : "Auxiliares laicos de las religiones",
+		"code" : "3716"
+	},
+	{
+		"value" : "Atletas y deportistas",
+		"code" : "3721"
+	},
+	{
+		"value" : "Entrenadores y árbitros de actividades deportivas",
+		"code" : "3722"
+	},
+	{
+		"value" : "Instructores de actividades deportivas",
+		"code" : "3723"
+	},
+	{
+		"value" : "Monitores de actividades recreativas y de entretenimiento",
+		"code" : "3724"
+	},
+	{
+		"value" : "Fotógrafos",
+		"code" : "3731"
+	},
+	{
+		"value" : "Diseñadores y decoradores de interior",
+		"code" : "3732"
+	},
+	{
+		"value" : "Técnicos en galerías de arte, museos y bibliotecas",
+		"code" : "3733"
+	},
+	{
+		"value" : "Chefs",
+		"code" : "3734"
+	},
+	{
+		"value" : "Otros técnicos y profesionales de apoyo de actividades culturales y artísticas",
+		"code" : "3739"
+	},
+	{
+		"value" : "Técnicos en operaciones de sistemas informáticos",
+		"code" : "3811"
+	},
+	{
+		"value" : "Técnicos en asistencia al usuario de tecnologías de la información",
+		"code" : "3812"
+	},
+	{
+		"value" : "Técnicos en redes",
+		"code" : "3813"
+	},
+	{
+		"value" : "Técnicos de la Web",
+		"code" : "3814"
+	},
+	{
+		"value" : "Programadores informáticos",
+		"code" : "3820"
+	},
+	{
+		"value" : "Técnicos de grabación audiovisual",
+		"code" : "3831"
+	},
+	{
+		"value" : "Técnicos de radiodifusión",
+		"code" : "3832"
+	},
+	{
+		"value" : "Técnicos de ingeniería de las telecomunicaciones",
+		"code" : "3833"
+	},
+	{
+		"value" : "Empleados de contabilidad",
+		"code" : "4111"
+	},
+	{
+		"value" : "Empleados de control de personal y nóminas",
+		"code" : "4112"
+	},
+	{
+		"value" : "Empleados de oficina de servicios estadísticos, financieros y bancarios",
+		"code" : "4113"
+	},
+	{
+		"value" : "Empleados de control de abastecimientos e inventario",
+		"code" : "4121"
+	},
+	{
+		"value" : "Empleados de oficina de servicios de apoyo a la producción",
+		"code" : "4122"
+	},
+	{
+		"value" : "Empleados de logística y transporte de pasajeros y mercancías",
+		"code" : "4123"
+	},
+	{
+		"value" : "Empleados de bibliotecas y archivos",
+		"code" : "4210"
+	},
+	{
+		"value" : "Empleados de servicios de correos (excepto empleados de mostrador)",
+		"code" : "4221"
+	},
+	{
+		"value" : "Codificadores y correctores de imprenta",
+		"code" : "4222"
+	},
+	{
+		"value" : "Empleados de servicio de personal",
+		"code" : "4223"
+	},
+	{
+		"value" : "Grabadores de datos",
+		"code" : "4301"
+	},
+	{
+		"value" : "Empleados administrativos sin tareas de atención al público no clasificados bajo otros epígrafes",
+		"code" : "4309"
+	},
+	{
+		"value" : "Empleados de información al usuario",
+		"code" : "4411"
+	},
+	{
+		"value" : "Recepcionistas (excepto de hoteles)",
+		"code" : "4412"
+	},
+	{
+		"value" : "Empleados de agencias de viajes",
+		"code" : "4421"
+	},
+	{
+		"value" : "Recepcionistas de hoteles",
+		"code" : "4422"
+	},
+	{
+		"value" : "Telefonistas",
+		"code" : "4423"
+	},
+	{
+		"value" : "Teleoperadores",
+		"code" : "4424"
+	},
+	{
+		"value" : "Agentes de encuestas",
+		"code" : "4430"
+	},
+	{
+		"value" : "Cajeros de bancos y afines",
+		"code" : "4441"
+	},
+	{
+		"value" : "Empleados de venta de apuestas",
+		"code" : "4442"
+	},
+	{
+		"value" : "Empleados de sala de juegos y afines",
+		"code" : "4443"
+	},
+	{
+		"value" : "Empleados de casas de empeño y de préstamos",
+		"code" : "4444"
+	},
+	{
+		"value" : "Cobradores de facturas, deudas y empleados afines",
+		"code" : "4445"
+	},
+	{
+		"value" : "Empleados de mostrador de correos",
+		"code" : "4446"
+	},
+	{
+		"value" : "Tasadores",
+		"code" : "3405"
+	},
+	{
+		"value" : "Agentes y representantes comerciales",
+		"code" : "3510"
+	},
+	{
+		"value" : "Empleados administrativos con tareas de atención al público no clasificados bajo otros epígrafes",
+		"code" : "4500"
+	},
+	{
+		"value" : "Camareros y cocineros propietarios",
+		"code" : "5000"
+	},
+	{
+		"value" : "Cocineros asalariados",
+		"code" : "5110"
+	},
+	{
+		"value" : "Camareros asalariados",
+		"code" : "5120"
+	},
+	{
+		"value" : "Jefes de sección de tiendas y almacenes",
+		"code" : "5210"
+	},
+	{
+		"value" : "Vendedores en tiendas y almacenes",
+		"code" : "5220"
+	},
+	{
+		"value" : "Comerciantes propietarios de tiendas",
+		"code" : "5300"
+	},
+	{
+		"value" : "Vendedores en quioscos",
+		"code" : "5411"
+	},
+	{
+		"value" : "Vendedores en mercados ocasionales y mercadillos",
+		"code" : "5412"
+	},
+	{
+		"value" : "Operadores de telemarketing",
+		"code" : "5420"
+	},
+	{
+		"value" : "Expendedores de gasolineras",
+		"code" : "5430"
+	},
+	{
+		"value" : "Vendedores a domicilio",
+		"code" : "5491"
+	},
+	{
+		"value" : "Promotores de venta",
+		"code" : "5492"
+	},
+	{
+		"value" : "Modelos de moda, arte y publicidad",
+		"code" : "5493"
+	},
+	{
+		"value" : "Vendedores no clasificados bajo otros epígrafes",
+		"code" : "5499"
+	},
+	{
+		"value" : "Cajeros y taquilleros (excepto bancos)",
+		"code" : "5500"
+	},
+	{
+		"value" : "Auxiliares de enfermería hospitalaria",
+		"code" : "5611"
+	},
+	{
+		"value" : "Auxiliares de enfermería de atención primaria",
+		"code" : "5612"
+	},
+	{
+		"value" : "Técnicos auxiliares de farmacia",
+		"code" : "5621"
+	},
+	{
+		"value" : "Técnicos de emergencias sanitarias",
+		"code" : "5622"
+	},
+	{
+		"value" : "Trabajadores de los cuidados a las personas en servicios de salud no clasificados bajo otros epígrafes",
+		"code" : "5629"
+	},
+	{
+		"value" : "Trabajadores de los cuidados personales a domicilio",
+		"code" : "5710"
+	},
+	{
+		"value" : "Cuidadores de niños en guarderías y centros educativos",
+		"code" : "5721"
+	},
+	{
+		"value" : "Cuidadores de niños en domicilios",
+		"code" : "5722"
+	},
+	{
+		"value" : "Peluqueros",
+		"code" : "5811"
+	},
+	{
+		"value" : "Especialistas en tratamientos de estética, bienestar y afines",
+		"code" : "5812"
+	},
+	{
+		"value" : "Auxiliares de vuelo y camareros de avión, barco y tren",
+		"code" : "5821"
+	},
+	{
+		"value" : "Revisores y cobradores de transporte terrestre",
+		"code" : "5822"
+	},
+	{
+		"value" : "Acompañantes turísticos",
+		"code" : "5823"
+	},
+	{
+		"value" : "Azafatos de tierra",
+		"code" : "5824"
+	},
+	{
+		"value" : "Guías de turismo",
+		"code" : "5825"
+	},
+	{
+		"value" : "Supervisores de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",
+		"code" : "5831"
+	},
+	{
+		"value" : "Mayordomos del servicio doméstico",
+		"code" : "5832"
+	},
+	{
+		"value" : "Conserjes de edificios",
+		"code" : "5833"
+	},
+	{
+		"value" : "Trabajadores propietarios de pequeños alojamientos",
+		"code" : "5840"
+	},
+	{
+		"value" : "Asistentes personales o personas de compañía",
+		"code" : "5891"
+	},
+	{
+		"value" : "Empleados de pompas fúnebres y embalsamadores",
+		"code" : "5892"
+	},
+	{
+		"value" : "Cuidadores de animales y adiestradores",
+		"code" : "5893"
+	},
+	{
+		"value" : "Instructores de autoescuela",
+		"code" : "5894"
+	},
+	{
+		"value" : "Astrólogos, adivinadores y afines",
+		"code" : "5895"
+	},
+	{
+		"value" : "Trabajadores de servicios personales no clasificados bajo otros epígrafes",
+		"code" : "5899"
+	},
+	{
+		"value" : "Guardias civiles",
+		"code" : "5910"
+	},
+	{
+		"value" : "Policías nacionales",
+		"code" : "5921"
+	},
+	{
+		"value" : "Policías autonómicos",
+		"code" : "5922"
+	},
+	{
+		"value" : "Policías locales",
+		"code" : "5923"
+	},
+	{
+		"value" : "Bomberos (excepto forestales)",
+		"code" : "5931"
+	},
+	{
+		"value" : "Bomberos forestales",
+		"code" : "5932"
+	},
+	{
+		"value" : "Vigilantes de seguridad y similares habilitados para ir armados",
+		"code" : "5941"
+	},
+	{
+		"value" : "Auxiliares de vigilante de seguridad y similares no habilitados para ir armados",
+		"code" : "5942"
+	},
+	{
+		"value" : "Vigilantes de prisiones",
+		"code" : "5991"
+	},
+	{
+		"value" : "Bañistas-socorristas",
+		"code" : "5992"
+	},
+	{
+		"value" : "Agentes forestales y medioambientales",
+		"code" : "5993"
+	},
+	{
+		"value" : "Trabajadores de los servicios de protección y seguridad no clasificados bajo otros epígrafes",
+		"code" : "5999"
+	},
+	{
+		"value" : "Trabajadores cualificados en actividades agrícolas (excepto en huertas, invernaderos, viveros y jardines)",
+		"code" : "6110"
+	},
+	{
+		"value" : "Trabajadores cualificados en huertas, invernaderos, viveros y jardines",
+		"code" : "6120"
+	},
+	{
+		"value" : "Trabajadores cualificados en actividades ganaderas de vacuno",
+		"code" : "6201"
+	},
+	{
+		"value" : "Trabajadores cualificados en actividades ganaderas de ovino y caprino",
+		"code" : "6202"
+	},
+	{
+		"value" : "Trabajadores cualificados en actividades ganaderas de porcino",
+		"code" : "6203"
+	},
+	{
+		"value" : "Trabajadores cualificados en apicultura y sericicultura",
+		"code" : "6204"
+	},
+	{
+		"value" : "Trabajadores cualificados en la avicultura y la cunicultura",
+		"code" : "6205"
+	},
+	{
+		"value" : "Trabajadores cualificados en actividades ganaderas no clasificados bajo otros epígrafes",
+		"code" : "6209"
+	},
+	{
+		"value" : "Trabajadores cualificados en actividades agropecuarias mixtas",
+		"code" : "6300"
+	},
+	{
+		"value" : "Trabajadores cualificados en actividades forestales y del medio natural",
+		"code" : "6410"
+	},
+	{
+		"value" : "Trabajadores cualificados en la acuicultura",
+		"code" : "6421"
+	},
+	{
+		"value" : "Pescadores de aguas costeras y aguas dulces",
+		"code" : "6422"
+	},
+	{
+		"value" : "Pescadores de altura",
+		"code" : "6423"
+	},
+	{
+		"value" : "Trabajadores cualificados en actividades cinegéticas",
+		"code" : "6430"
+	},
+	{
+		"value" : "Encofradores y operarios de puesta en obra de hormigón",
+		"code" : "7111"
+	},
+	{
+		"value" : "Montadores de prefabricados estructurales (sólo hormigón)",
+		"code" : "7112"
+	},
+	{
+		"value" : "Albañiles",
+		"code" : "7121"
+	},
+	{
+		"value" : "Canteros, tronzadores, labrantes y grabadores de piedras",
+		"code" : "7122"
+	},
+	{
+		"value" : "Carpinteros (excepto ebanistas)",
+		"code" : "7131"
+	},
+	{
+		"value" : "Instaladores de cerramientos metálicos y carpinteros metálicos (excepto montadores de estructuras metálicas)",
+		"code" : "7132"
+	},
+	{
+		"value" : "Mantenedores de edificios",
+		"code" : "7191"
+	},
+	{
+		"value" : "Instaladores de fachadas técnicas",
+		"code" : "7192"
+	},
+	{
+		"value" : "Instaladores de sistemas de impermeabilización en edificios",
+		"code" : "7193"
+	},
+	{
+		"value" : "Otros trabajadores de las obras estructurales de construcción no clasificados bajo otros epígrafes",
+		"code" : "7199"
+	},
+	{
+		"value" : "Escayolistas",
+		"code" : "7211"
+	},
+	{
+		"value" : "Aplicadores de revestimientos de pasta y mortero",
+		"code" : "7212"
+	},
+	{
+		"value" : "Fontaneros",
+		"code" : "7221"
+	},
+	{
+		"value" : "Montadores-instaladores de gas en edificios",
+		"code" : "7222"
+	},
+	{
+		"value" : "Instaladores de conductos en obra pública",
+		"code" : "7223"
+	},
+	{
+		"value" : "Pintores y empapeladores",
+		"code" : "7231"
+	},
+	{
+		"value" : "Pintores en las industrias manufactureras",
+		"code" : "7232"
+	},
+	{
+		"value" : "Soladores, colocadores de parquet y afines",
+		"code" : "7240"
+	},
+	{
+		"value" : "Mecánicos-instaladores de refrigeración y climatización",
+		"code" : "7250"
+	},
+	{
+		"value" : "Montadores de cubiertas",
+		"code" : "7291"
+	},
+	{
+		"value" : "Instaladores de material aislante térmico y de insonorización",
+		"code" : "7292"
+	},
+	{
+		"value" : "Cristaleros",
+		"code" : "7293"
+	},
+	{
+		"value" : "Montadores-instaladores de placas de energía solar",
+		"code" : "7294"
+	},
+	{
+		"value" : "Personal de limpieza de fachadas de edificios y chimeneas",
+		"code" : "7295"
+	},
+	{
+		"value" : "Moldeadores y macheros",
+		"code" : "7311"
+	},
+	{
+		"value" : "Soldadores y oxicortadores",
+		"code" : "7312"
+	},
+	{
+		"value" : "Chapistas y caldereros",
+		"code" : "7313"
+	},
+	{
+		"value" : "Montadores de estructuras metálicas",
+		"code" : "7314"
+	},
+	{
+		"value" : "Montadores de estructuras cableadas y empalmadores de cables",
+		"code" : "7315"
+	},
+	{
+		"value" : "Herreros y forjadores",
+		"code" : "7321"
+	},
+	{
+		"value" : "Trabajadores de la fabricación de herramientas, mecánico-ajustadores, modelistas, matriceros y afines",
+		"code" : "7322"
+	},
+	{
+		"value" : "Ajustadores y operadores de máquinas-herramienta",
+		"code" : "7323"
+	},
+	{
+		"value" : "Pulidores de metales y afiladores de herramientas",
+		"code" : "7324"
+	},
+	{
+		"value" : "Mecánicos y ajustadores de vehículos de motor",
+		"code" : "7401"
+	},
+	{
+		"value" : "Mecánicos y ajustadores de motores de avión",
+		"code" : "7402"
+	},
+	{
+		"value" : "Mecánicos y ajustadores de maquinaria agrícola e industrial",
+		"code" : "7403"
+	},
+	{
+		"value" : "Mecánicos y ajustadores de maquinaria naval y ferroviaria",
+		"code" : "7404"
+	},
+	{
+		"value" : "Reparadores de bicicletas y afines",
+		"code" : "7405"
+	},
+	{
+		"value" : "Electricistas de la construcción y afines",
+		"code" : "7510"
+	},
+	{
+		"value" : "Mecánicos y reparadores de equipos eléctricos",
+		"code" : "7521"
+	},
+	{
+		"value" : "Instaladores y reparadores de líneas eléctricas",
+		"code" : "7522"
+	},
+	{
+		"value" : "Mecánicos y reparadores de equipos electrónicos",
+		"code" : "7531"
+	},
+	{
+		"value" : "Instaladores y reparadores en electromedicina",
+		"code" : "7532"
+	},
+	{
+		"value" : "Instaladores y reparadores en tecnologías de la información y las comunicaciones",
+		"code" : "7533"
+	},
+	{
+		"value" : "Relojeros y mecánicos de instrumentos de precisión",
+		"code" : "7611"
+	},
+	{
+		"value" : "Lutieres y similares; afinadores de instrumentos musicales",
+		"code" : "7612"
+	},
+	{
+		"value" : "Joyeros, orfebres y plateros",
+		"code" : "7613"
+	},
+	{
+		"value" : "Trabajadores de la cerámica, alfareros y afines",
+		"code" : "7614"
+	},
+	{
+		"value" : "Sopladores, modeladores, laminadores, cortadores y pulidores de vidrio",
+		"code" : "7615"
+	},
+	{
+		"value" : "Rotulistas, grabadores de vidrio, pintores decorativos de artículos diversos",
+		"code" : "7616"
+	},
+	{
+		"value" : "Artesanos en madera y materiales similares; cesteros, bruceros y trabajadores afines",
+		"code" : "7617"
+	},
+	{
+		"value" : "Artesanos en tejidos, cueros y materiales similares, preparadores de fibra y tejedores con telares artesanos o de tejidos de punto y afines",
+		"code" : "7618"
+	},
+	{
+		"value" : "Artesanos no clasificados bajo otros epígrafes",
+		"code" : "7619"
+	},
+	{
+		"value" : "Trabajadores de procesos de preimpresión",
+		"code" : "7621"
+	},
+	{
+		"value" : "Trabajadores de procesos de impresión",
+		"code" : "7622"
+	},
+	{
+		"value" : "Trabajadores de procesos de encuadernación",
+		"code" : "7623"
+	},
+	{
+		"value" : "Matarifes y trabajadores de las industrias cárnicas",
+		"code" : "7701"
+	},
+	{
+		"value" : "Trabajadores de las industrias del pescado",
+		"code" : "7702"
+	},
+	{
+		"value" : "Panaderos, pasteleros y confiteros",
+		"code" : "7703"
+	},
+	{
+		"value" : "Trabajadores del tratamiento de la leche y elaboración de productos lácteos (incluidos helados)",
+		"code" : "7704"
+	},
+	{
+		"value" : "Trabajadores conserveros de frutas y hortalizas y trabajadores de la elaboración de bebidas no alcohólicas",
+		"code" : "7705"
+	},
+	{
+		"value" : "Trabajadores de la elaboración de bebidas alcohólicas distintas del vino",
+		"code" : "7706"
+	},
+	{
+		"value" : "Trabajadores de la elaboración del vino",
+		"code" : "7707"
+	},
+	{
+		"value" : "Preparadores y elaboradores del tabaco y sus productos",
+		"code" : "7708"
+	},
+	{
+		"value" : "Catadores y clasificadores de alimentos y bebidas",
+		"code" : "7709"
+	},
+	{
+		"value" : "Trabajadores del tratamiento de la madera",
+		"code" : "7811"
+	},
+	{
+		"value" : "Ajustadores y operadores de máquinas para trabajar la madera",
+		"code" : "7812"
+	},
+	{
+		"value" : "Ebanistas y trabajadores afines",
+		"code" : "7820"
+	},
+	{
+		"value" : "Sastres, modistos, peleteros y sombrereros",
+		"code" : "7831"
+	},
+	{
+		"value" : "Patronistas para productos en textil y piel",
+		"code" : "7832"
+	},
+	{
+		"value" : "Cortadores de tejidos, cuero, piel y otros materiales",
+		"code" : "7833"
+	},
+	{
+		"value" : "Costureros a mano, bordadores y afines",
+		"code" : "7834"
+	},
+	{
+		"value" : "Tapiceros, colchoneros y afines",
+		"code" : "7835"
+	},
+	{
+		"value" : "Curtidores y preparadores de pieles",
+		"code" : "7836"
+	},
+	{
+		"value" : "Zapateros y afines",
+		"code" : "7837"
+	},
+	{
+		"value" : "Buceadores",
+		"code" : "7891"
+	},
+	{
+		"value" : "Pegadores",
+		"code" : "7892"
+	},
+	{
+		"value" : "Clasificadores y probadores de productos (excepto alimentos, bebidas y tabaco)",
+		"code" : "7893"
+	},
+	{
+		"value" : "Fumigadores y otros controladores de plagas y malas hierbas",
+		"code" : "7894"
+	},
+	{
+		"value" : "Oficiales, operarios y artesanos de otros oficios no clasificados bajo otros epígrafes",
+		"code" : "7899"
+	},
+	{
+		"value" : "Mineros y otros operadores en instalaciones mineras",
+		"code" : "8111"
+	},
+	{
+		"value" : "Operadores en instalaciones para la preparación de minerales y rocas",
+		"code" : "8112"
+	},
+	{
+		"value" : "Sondistas y trabajadores afines",
+		"code" : "8113"
+	},
+	{
+		"value" : "Operadores de maquinaria para fabricar productos derivados de minerales no metálicos",
+		"code" : "8114"
+	},
+	{
+		"value" : "Operadores en instalaciones para la obtención y transformación de metales",
+		"code" : "8121"
+	},
+	{
+		"value" : "Operadores de máquinas pulidoras, galvanizadoras y recubridoras de metales",
+		"code" : "8122"
+	},
+	{
+		"value" : "Operadores en plantas industriales químicas",
+		"code" : "8131"
+	},
+	{
+		"value" : "Operadores de máquinas para fabricar productos farmacéuticos, cosméticos y afines",
+		"code" : "8132"
+	},
+	{
+		"value" : "Operadores de laboratorios fotográficos y afines",
+		"code" : "8133"
+	},
+	{
+		"value" : "Operadores de máquinas para fabricar productos de caucho y derivados de resinas naturales",
+		"code" : "8141"
+	},
+	{
+		"value" : "Operadores de máquinas para fabricar productos de material plástico",
+		"code" : "8142"
+	},
+	{
+		"value" : "Operadores de máquinas para fabricar productos de papel y cartón",
+		"code" : "8143"
+	},
+	{
+		"value" : "Operadores de serrerías, de máquinas de fabricación de tableros y de instalaciones afines para el tratamiento de la madera y el corcho",
+		"code" : "8144"
+	},
+	{
+		"value" : "Operadores en instalaciones para la preparación de pasta de papel y fabricación de papel",
+		"code" : "8145"
+	},
+	{
+		"value" : "Operadores de máquinas para preparar fibras, hilar y devanar",
+		"code" : "8151"
+	},
+	{
+		"value" : "Operadores de telares y otras máquinas tejedoras",
+		"code" : "8152"
+	},
+	{
+		"value" : "Operadores de máquinas de coser y bordar",
+		"code" : "8153"
+	},
+	{
+		"value" : "Operadores de máquinas de blanquear, teñir, estampar y acabar textiles",
+		"code" : "8154"
+	},
+	{
+		"value" : "Operadores de máquinas para tratar pieles y cuero",
+		"code" : "8155"
+	},
+	{
+		"value" : "Operadores de máquinas para la fabricación del calzado, marroquinería y guantería de piel",
+		"code" : "8156"
+	},
+	{
+		"value" : "Operadores de máquinas para fabricar productos textiles no clasificados bajo otros epígrafes",
+		"code" : "8159"
+	},
+	{
+		"value" : "Operadores de máquinas para elaborar productos alimenticios, bebidas y tabaco",
+		"code" : "8160"
+	},
+	{
+		"value" : "Operadores de máquinas de lavandería y tintorería",
+		"code" : "8170"
+	},
+	{
+		"value" : "Operadores de hornos e instalaciones de vidriería y cerámica",
+		"code" : "8191"
+	},
+	{
+		"value" : "Operadores de calderas y máquinas de vapor",
+		"code" : "8192"
+	},
+	{
+		"value" : "Operadores de máquinas de embalaje, embotellamiento y etiquetado",
+		"code" : "8193"
+	},
+	{
+		"value" : "Operadores de instalaciones y maquinaria fijas no clasificados bajo otros epígrafes",
+		"code" : "8199"
+	},
+	{
+		"value" : "Ensambladores de maquinaria mecánica",
+		"code" : "8201"
+	},
+	{
+		"value" : "Ensambladores de equipos eléctricos y electrónicos",
+		"code" : "8202"
+	},
+	{
+		"value" : "Montadores y ensambladores no clasificados en otros epígrafes",
+		"code" : "8209"
+	},
+	{
+		"value" : "Maquinistas de locomotoras",
+		"code" : "8311"
+	},
+	{
+		"value" : "Agentes de maniobras ferroviarias",
+		"code" : "8312"
+	},
+	{
+		"value" : "Operadores de maquinaria agrícola móvil",
+		"code" : "8321"
+	},
+	{
+		"value" : "Operadores de maquinaria forestal móvil",
+		"code" : "8322"
+	},
+	{
+		"value" : "Operadores de maquinaria de movimientos de tierras y equipos similares",
+		"code" : "8331"
+	},
+	{
+		"value" : "Operadores de grúas, montacargas y de maquinaria similar de movimiento de materiales",
+		"code" : "8332"
+	},
+	{
+		"value" : "Operadores de carretillas elevadoras",
+		"code" : "8333"
+	},
+	{
+		"value" : "Marineros de puente, marineros de máquinas y afines",
+		"code" : "8340"
+	},
+	{
+		"value" : "Conductores propietarios de automóviles, taxis y furgonetas",
+		"code" : "8411"
+	},
+	{
+		"value" : "Conductores asalariados de automóviles, taxis y furgonetas",
+		"code" : "8412"
+	},
+	{
+		"value" : "Conductores de autobuses y tranvías",
+		"code" : "8420"
+	},
+	{
+		"value" : "Conductores propietarios de camiones",
+		"code" : "8431"
+	},
+	{
+		"value" : "Conductores asalariados de camiones",
+		"code" : "8432"
+	},
+	{
+		"value" : "Conductores de motocicletas y ciclomotores",
+		"code" : "8440"
+	},
+	{
+		"value" : "Empleados domésticos",
+		"code" : "9100"
+	},
+	{
+		"value" : "Personal de limpieza de oficinas, hoteles y otros establecimientos similares",
+		"code" : "9210"
+	},
+	{
+		"value" : "Limpiadores en seco a mano y afines",
+		"code" : "9221"
+	},
+	{
+		"value" : "Limpiadores de vehículos",
+		"code" : "9222"
+	},
+	{
+		"value" : "Limpiadores de ventanas",
+		"code" : "9223"
+	},
+	{
+		"value" : "Otro personal de limpieza",
+		"code" : "9229"
+	},
+	{
+		"value" : "Oficiales de las fuerzas armadas",
+		"code" : "0011"
+	},
+	{
+		"value" : "Suboficiales de las fuerzas armadas",
+		"code" : "0012"
+	}
+
+]
