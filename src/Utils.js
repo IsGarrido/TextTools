@@ -27,6 +27,11 @@ const ReadTsv = function(file) {
   return lines;
 };
 
+const ReadJson = function(file){
+  const rawdata = fs.readFileSync(file, 'utf8');
+  return JSON.parse(rawdata);
+}
+
 const Interpolate = (template, vars = {}) => {
   const handler = new Function('vars', [
     'const tagged = ( ' + Object.keys(vars).join(', ') + ' ) =>',
@@ -59,6 +64,7 @@ export default {
   WriteLines,
 
   ReadTsv,
+  ReadJson,
 
   // String
   Interpolate,
