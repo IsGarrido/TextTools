@@ -242,7 +242,7 @@ for (const genero of generos) {
   }
 }
 
-Utils.WriteLines('./FormarFrases/tests/test8.profesiones_masculinas_el_ella.test.tsv', results);
+Utils.WriteLines('./FormarFrases/tests/test7.profesiones_masculinas_el_ella.test.tsv', results);
 
 /* Test 8 Complementario, enmascaras la profesión y buscas para las frases el/ella */
 results = [];
@@ -265,7 +265,7 @@ for (const genero of generos) {
   }
 }
 
-Utils.WriteLines('./FormarFrases/tests/test8.profesiones_masculinas_el_ella.test.tsv', results);
+Utils.WriteLines('./FormarFrases/tests/test8.genero_profesiones_masculinas_el_ella.test.tsv', results);
 
 /* Tests Adjetivos */
 results = [];
