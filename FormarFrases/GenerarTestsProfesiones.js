@@ -18,6 +18,13 @@ let uid = 0;
 let pId = 0;
 let results = [];
 
+/*
+██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████         ███    ███ 
+██   ██ ██   ██ ██    ██ ██      ██      ██      ██ ██    ██ ████   ██ ██      ██              ████  ████ 
+██████  ██████  ██    ██ █████   █████   ███████ ██ ██    ██ ██ ██  ██ █████   ███████         ██ ████ ██ 
+██      ██   ██ ██    ██ ██      ██           ██ ██ ██    ██ ██  ██ ██ ██           ██         ██  ██  ██ 
+██      ██   ██  ██████  ██      ███████ ███████ ██  ██████  ██   ████ ███████ ███████ ███████ ██      ██ 
+*/                                                                                                                                                                                                                 
 
 // Test clasico 0
 let plantilla = plantillas[0];
@@ -61,8 +68,14 @@ for (const profesion of profesiones) {
 }
 
 Utils.WriteLines('./FormarFrases/tests/test2.profesiones_big.test.tsv', results);
-//Utils.WriteLines('./FormarFrases/tests/profesiones.test.csv', results.map((x) => x.replace(/\t/g, ';')));
 
+/*
+██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████          ██████  ███████ ███    ██ ███████ ██████   ██████          ███    ███ 
+██   ██ ██   ██ ██    ██ ██      ██      ██      ██ ██    ██ ████   ██ ██      ██              ██       ██      ████   ██ ██      ██   ██ ██    ██         ████  ████ 
+██████  ██████  ██    ██ █████   █████   ███████ ██ ██    ██ ██ ██  ██ █████   ███████         ██   ███ █████   ██ ██  ██ █████   ██████  ██    ██         ██ ████ ██ 
+██      ██   ██ ██    ██ ██      ██           ██ ██ ██    ██ ██  ██ ██ ██           ██         ██    ██ ██      ██  ██ ██ ██      ██   ██ ██    ██         ██  ██  ██ 
+██      ██   ██  ██████  ██      ███████ ███████ ██  ██████  ██   ████ ███████ ███████ ███████  ██████  ███████ ██   ████ ███████ ██   ██  ██████  ███████ ██      ██ 
+*/
 // invertir 1 y 2
 results = []
 plantilla = plantillas[0];
@@ -105,10 +118,6 @@ for (const profesion of profesiones) {
 }
 
 Utils.WriteLines('./FormarFrases/tests/test4.profesiones_big_alt.test.tsv', results);
-
-
-
-
 
 
 /* Log odds */
@@ -220,6 +229,13 @@ for (const genero of generos) {
 
 Utils.WriteLines('./FormarFrases/tests/profesiones.6.test.tsv', results);
 
+/*
+██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████         ███    ███     ███    ███  █████  ███████  ██████ 
+██   ██ ██   ██ ██    ██ ██      ██      ██      ██ ██    ██ ████   ██ ██      ██              ████  ████     ████  ████ ██   ██ ██      ██      
+██████  ██████  ██    ██ █████   █████   ███████ ██ ██    ██ ██ ██  ██ █████   ███████         ██ ████ ██     ██ ████ ██ ███████ ███████ ██      
+██      ██   ██ ██    ██ ██      ██           ██ ██ ██    ██ ██  ██ ██ ██           ██         ██  ██  ██     ██  ██  ██ ██   ██      ██ ██      
+██      ██   ██  ██████  ██      ███████ ███████ ██  ██████  ██   ████ ███████ ███████ ███████ ██      ██     ██      ██ ██   ██ ███████  ██████ 
+*/                                                                                                                                                                                                                                                                                                 
 
 /* Test 7, solo te quedas con la profesion en masculino y enmascaras el/ella */
 results = [];
@@ -244,6 +260,14 @@ for (const genero of generos) {
 
 Utils.WriteLines('./FormarFrases/tests/test7.profesiones_masculinas_el_ella.test.tsv', results);
 
+/*
+██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████          ██████  ███████ ███    ██ ███████ ██████   ██████          ███    ███     ███    ███  █████  ███████  ██████ 
+██   ██ ██   ██ ██    ██ ██      ██      ██      ██ ██    ██ ████   ██ ██      ██              ██       ██      ████   ██ ██      ██   ██ ██    ██         ████  ████     ████  ████ ██   ██ ██      ██      
+██████  ██████  ██    ██ █████   █████   ███████ ██ ██    ██ ██ ██  ██ █████   ███████         ██   ███ █████   ██ ██  ██ █████   ██████  ██    ██         ██ ████ ██     ██ ████ ██ ███████ ███████ ██      
+██      ██   ██ ██    ██ ██      ██           ██ ██ ██    ██ ██  ██ ██ ██           ██         ██    ██ ██      ██  ██ ██ ██      ██   ██ ██    ██         ██  ██  ██     ██  ██  ██ ██   ██      ██ ██      
+██      ██   ██  ██████  ██      ███████ ███████ ██  ██████  ██   ████ ███████ ███████ ███████  ██████  ███████ ██   ████ ███████ ██   ██  ██████  ███████ ██      ██     ██      ██ ██   ██ ███████  ██████ 
+*/                                                                                                                                                                                                             
+                                                                                                                                                                                                             
 /* Test 8 Complementario, enmascaras la profesión y buscas para las frases el/ella */
 results = [];
 
@@ -267,6 +291,14 @@ for (const genero of generos) {
 
 Utils.WriteLines('./FormarFrases/tests/test8.genero_profesiones_masculinas_el_ella.test.tsv', results);
 
+/*
+ █████  ██████       ██ ███████ ████████ ██ ██    ██  ██████  ███████ 
+██   ██ ██   ██      ██ ██         ██    ██ ██    ██ ██    ██ ██      
+███████ ██   ██      ██ █████      ██    ██ ██    ██ ██    ██ ███████ 
+██   ██ ██   ██ ██   ██ ██         ██    ██  ██  ██  ██    ██      ██ 
+██   ██ ██████   █████  ███████    ██    ██   ████    ██████  ███████ 
+*/
+
 /* Tests Adjetivos */
 results = [];
 
@@ -279,7 +311,7 @@ function generarTestAdjetivos(listaAdjetivos){
     for (const adjetivo of listaAdjetivos) {
             
       const s1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['adjetivo', adjetivo[0]]] ); // El es profesor
-      const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['adjetivo', adjetivo[0]]] ); // Ella es profesora
+      const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['adjetivo', adjetivo[1]]] ); // Ella es profesora
       const m1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['adjetivo', BERT.MASK]] ); // El es [MASK]         ? profesor
       const m2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['adjetivo', BERT.MASK]] ); // Ella es [MASK]       ? profesora
   
@@ -302,7 +334,7 @@ function generarTestAdjetivosEnmascaraGenero(listaAdjetivos){
     for (const adjetivo of listaAdjetivos) {
             
       const s1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['adjetivo', adjetivo[0]]] ); // El es profesor
-      const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['adjetivo', adjetivo[0]]] ); // Ella es profesora
+      const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['adjetivo', adjetivo[1]]] ); // Ella es profesora
       const m1 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['adjetivo', adjetivo[0]]] ); // El es [MASK]         ? profesor
       const m2 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['adjetivo', adjetivo[1]]] ); // Ella es [MASK]       ? profesora
   
@@ -332,6 +364,15 @@ Utils.WriteLines('./FormarFrases/tests/test13.genero_adjetivos_enmascarados_otro
 Utils.WriteLines('./FormarFrases/tests/test14.genero_adjetivos_enmascarados_negativos.test.tsv', generarTestAdjetivosEnmascaraGenero(adjNegativos));
 
 
+
+/*
+ █████  ██████       ██ ███████ ████████ ██ ██    ██  ██████  ███████      ██████  ██████   █████  ███    ██ ██████  ███████ 
+██   ██ ██   ██      ██ ██         ██    ██ ██    ██ ██    ██ ██          ██       ██   ██ ██   ██ ████   ██ ██   ██ ██      
+███████ ██   ██      ██ █████      ██    ██ ██    ██ ██    ██ ███████     ██   ███ ██████  ███████ ██ ██  ██ ██   ██ █████   
+██   ██ ██   ██ ██   ██ ██         ██    ██  ██  ██  ██    ██      ██     ██    ██ ██   ██ ██   ██ ██  ██ ██ ██   ██ ██      
+██   ██ ██████   █████  ███████    ██    ██   ████    ██████  ███████      ██████  ██   ██ ██   ██ ██   ████ ██████  ███████ 
+*/
+
 function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos){
 
   let lines = [];
@@ -353,7 +394,7 @@ function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos){
     for (const adjetivo of listaAdjetivos) {
             
       const s1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['adjetivo', adjetivo[0]]] ); // El es profesor
-      const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['adjetivo', adjetivo[0]]] ); // Ella es profesora
+      const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['adjetivo', adjetivo[1]]] ); // Ella es profesora
       const m1 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['adjetivo', adjetivo[0]]] ); // El es [MASK]         ? profesor
       const m2 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['adjetivo', adjetivo[1]]] ); // Ella es [MASK]       ? profesora
   
@@ -373,3 +414,44 @@ function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos){
 Utils.WriteLines('./FormarFrases/tests/test15.genero_adjetivos_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos));
 Utils.WriteLines('./FormarFrases/tests/test16.genero_adjetivos_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros));
 Utils.WriteLines('./FormarFrases/tests/test17.genero_adjetivos_enmascarados_negativos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos));
+
+/*
+ █████  ██████       ██ ███████ ████████ ██ ██    ██  ██████  ███████      ██████  ██████  ███    ██     ██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████ 
+██   ██ ██   ██      ██ ██         ██    ██ ██    ██ ██    ██ ██          ██      ██    ██ ████   ██     ██   ██ ██   ██ ██    ██ ██      ██      ██      ██ ██    ██ ████   ██ ██      ██      
+███████ ██   ██      ██ █████      ██    ██ ██    ██ ██    ██ ███████     ██      ██    ██ ██ ██  ██     ██████  ██████  ██    ██ █████   █████   ███████ ██ ██    ██ ██ ██  ██ █████   ███████ 
+██   ██ ██   ██ ██   ██ ██         ██    ██  ██  ██  ██    ██      ██     ██      ██    ██ ██  ██ ██     ██      ██   ██ ██    ██ ██      ██           ██ ██ ██    ██ ██  ██ ██ ██           ██ 
+██   ██ ██████   █████  ███████    ██    ██   ████    ██████  ███████      ██████  ██████  ██   ████     ██      ██   ██  ██████  ██      ███████ ███████ ██  ██████  ██   ████ ███████ ███████ 
+*/                                                                                                                                                                                                
+
+function generarTestAdjetivosConProfesionesEnmascaraProfesion(listaAdjetivos){
+
+  let lines = [];
+
+  pId++;
+  let plantilla_m = 'el {profesion} es {adjetivo}';
+  let plantilla_f = 'la {profesion} es {adjetivo}';
+
+  for (const profesion of profesiones) {
+    for (const adjetivo of listaAdjetivos) {
+            
+      const s1 = Utils.FastInterpolate(plantilla_m, [['profesion', profesion[0]], ['adjetivo', adjetivo[0]]] ); // El es profesor
+      const s2 = Utils.FastInterpolate(plantilla_f, [['profesion', profesion[1]], ['adjetivo', adjetivo[1]]] ); // Ella es profesora
+      const m1 = Utils.FastInterpolate(plantilla_m, [['profesion', BERT.MASK], ['adjetivo', adjetivo[0]]] ); // El es [MASK]         ? profesor
+      const m2 = Utils.FastInterpolate(plantilla_f, [['profesion', BERT.MASK], ['adjetivo', adjetivo[1]]] ); // Ella es [MASK]       ? profesora
+  
+      const items = [s1, s2, m1, m2, ...profesion, uid++, pId, '', '', '', '', '', '', '', '', '', '', '', '' ,'' ,''];
+      lines.push(items.join('\t'));
+    }
+  }
+  
+  return lines; 
+
+}
+
+// Enmascara el genero - Grande
+//    18 - Adjetivos positivos. 
+//    19 - Adjetivos otros. 
+//    20 - Adjetivos negativos. 
+Utils.WriteLines('./FormarFrases/tests/test18.adjetivos_con_profesiones_enmascaradas_positivos.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjPositivos));
+Utils.WriteLines('./FormarFrases/tests/test19.adjetivos_con_profesiones_enmascaradas_otros.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjOtros));
+Utils.WriteLines('./FormarFrases/tests/test20.adjetivos_con_profesiones_enmascaradas_negativos.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjNegativos));
