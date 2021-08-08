@@ -295,6 +295,7 @@ function generarTestAdjetivos(listaAdjetivos){
 function generarTestAdjetivosEnmascaraGenero(listaAdjetivos){
 
   let lines = [];
+
   pId++;
   plantilla = '{genero} es {adjetivo}';
   for (const genero of generos) {
@@ -309,7 +310,7 @@ function generarTestAdjetivosEnmascaraGenero(listaAdjetivos){
       lines.push(items.join('\t'));
     }
   }
-  
+
   return lines; 
 
 }
@@ -329,3 +330,46 @@ Utils.WriteLines('./FormarFrases/tests/test11.adjetivos_enmascarados_negativos.t
 Utils.WriteLines('./FormarFrases/tests/test12.genero_adjetivos_enmascarados_positivos.test.tsv', generarTestAdjetivosEnmascaraGenero(adjPositivos));
 Utils.WriteLines('./FormarFrases/tests/test13.genero_adjetivos_enmascarados_otros.test.tsv', generarTestAdjetivosEnmascaraGenero(adjOtros));
 Utils.WriteLines('./FormarFrases/tests/test14.genero_adjetivos_enmascarados_negativos.test.tsv', generarTestAdjetivosEnmascaraGenero(adjNegativos));
+
+
+function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos){
+
+  let lines = [];
+  let genero_nombres = [
+    ['padre', 'madre'],
+    ['hijo', 'hija'],
+    ['hermano', 'hermana'],
+    ['abuelo', 'abuela'],
+    ['vecino', 'vecina'],     
+    ['compañero', 'compañera'],
+    ['marido', 'esposa'],
+    ['jefe', 'jefa'],
+    //['enfermero', 'enfermera'],
+    //['doctor', 'doctora']
+  ];
+  pId++;
+  plantilla = 'su {genero} es {adjetivo}';
+  for (const genero of genero_nombres) {
+    for (const adjetivo of listaAdjetivos) {
+            
+      const s1 = Utils.FastInterpolate(plantilla, [['genero', genero[0]], ['adjetivo', adjetivo[0]]] ); // El es profesor
+      const s2 = Utils.FastInterpolate(plantilla, [['genero', genero[1]], ['adjetivo', adjetivo[0]]] ); // Ella es profesora
+      const m1 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['adjetivo', adjetivo[0]]] ); // El es [MASK]         ? profesor
+      const m2 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['adjetivo', adjetivo[1]]] ); // Ella es [MASK]       ? profesora
+  
+      const items = [s1, s2, m1, m2, ...genero, uid++, pId, '', '', '', '', '', '', '', '', '', '', '', '' ,'' ,''];
+      lines.push(items.join('\t'));
+    }
+  }
+  
+  return lines; 
+
+}
+
+// Enmascara el genero - Grande
+//    15 - Adjetivos positivos. 
+//    16 - Adjetivos otros. 
+//    17 - Adjetivos negativos. 
+Utils.WriteLines('./FormarFrases/tests/test15.genero_adjetivos_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos));
+Utils.WriteLines('./FormarFrases/tests/test16.genero_adjetivos_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros));
+Utils.WriteLines('./FormarFrases/tests/test17.genero_adjetivos_enmascarados_negativos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos));
