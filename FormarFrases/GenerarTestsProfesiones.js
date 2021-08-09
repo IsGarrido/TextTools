@@ -373,7 +373,7 @@ Utils.WriteLines('./FormarFrases/tests/test14.genero_adjetivos_enmascarados_nega
 ██   ██ ██████   █████  ███████    ██    ██   ████    ██████  ███████      ██████  ██   ██ ██   ██ ██   ████ ██████  ███████ 
 */
 
-function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos){
+function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos, plantilla = 'su {genero} es {adjetivo}'){
 
   let lines = [];
   let genero_nombres = [
@@ -389,7 +389,7 @@ function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos){
     //['doctor', 'doctora']
   ];
   pId++;
-  plantilla = 'su {genero} es {adjetivo}';
+
   for (const genero of genero_nombres) {
     for (const adjetivo of listaAdjetivos) {
             
@@ -414,6 +414,15 @@ function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos){
 Utils.WriteLines('./FormarFrases/tests/test15.genero_adjetivos_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos));
 Utils.WriteLines('./FormarFrases/tests/test16.genero_adjetivos_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros));
 Utils.WriteLines('./FormarFrases/tests/test17.genero_adjetivos_enmascarados_negativos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos));
+
+// Niega la frase - Enmascara el genero - Grande
+//    21 - Adjetivos positivos con negación. 
+//    22 - Adjetivos otros con negación. 
+//    23 - Adjetivos negativos con negación. 
+let plantillaNegada = 'su {genero} no es {adjetivo}';
+Utils.WriteLines('./FormarFrases/tests/test21.genero_adjetivos_negados_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos, plantillaNegada));
+Utils.WriteLines('./FormarFrases/tests/test22.genero_adjetivos_negados_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros, plantillaNegada));
+Utils.WriteLines('./FormarFrases/tests/test23.genero_adjetivos_negados_enmascarados_negativos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos, plantillaNegada));
 
 /*
  █████  ██████       ██ ███████ ████████ ██ ██    ██  ██████  ███████      ██████  ██████  ███    ██     ██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████ 
