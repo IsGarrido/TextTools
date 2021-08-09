@@ -90,7 +90,7 @@ for (const genero of generos) {
     const m1 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['profesion', profesion[0]]] ); // El es [MASK]
     const m2 = Utils.FastInterpolate(plantilla, [['genero', BERT.MASK], ['profesion', profesion[1]]] ); // Ella es [MASK]
 
-    const items = [s1, s2, m1, m2, ...profesion, uid++, pId, '', '', '', '', '', '', '', '', '', ''];
+    const items = [s1, s2, m1, m2, ...genero, uid++, pId, '', '', '', '', '', '', '', '', '', ''];
     results.push(items.join('\t'));
   }
 }
