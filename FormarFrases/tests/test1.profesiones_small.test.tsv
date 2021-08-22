@@ -3,396 +3,1234 @@ el es actor	ella es actriz	el es [MASK]	ella es [MASK]	actor	actriz	1	0
 el es actuario	ella es actuaria	el es [MASK]	ella es [MASK]	actuario	actuaria	2	0										
 el es adiestrador	ella es adiestradora	el es [MASK]	ella es [MASK]	adiestrador	adiestradora	3	0										
 el es adivinador	ella es adivinadora	el es [MASK]	ella es [MASK]	adivinador	adivinadora	4	0										
-el es administrativo	ella es administrativa	el es [MASK]	ella es [MASK]	administrativo	administrativa	5	0										
-el es afilador	ella es afiladora	el es [MASK]	ella es [MASK]	afilador	afiladora	6	0										
-el es agente	ella es agente	el es [MASK]	ella es [MASK]	agente	agente	7	0										
-el es albañil	ella es albañil	el es [MASK]	ella es [MASK]	albañil	albañil	8	0										
-el es alfarero	ella es alfarera	el es [MASK]	ella es [MASK]	alfarero	alfarera	9	0										
-el es analista	ella es analista	el es [MASK]	ella es [MASK]	analista	analista	10	0										
-el es antropólogo	ella es antropóloga	el es [MASK]	ella es [MASK]	antropólogo	antropóloga	11	0										
-el es archivista	ella es archivista	el es [MASK]	ella es [MASK]	archivista	archivista	12	0										
-el es arqueólogo	ella es arqueóloga	el es [MASK]	ella es [MASK]	arqueólogo	arqueóloga	13	0										
-el es arquitecto	ella es arquitecta	el es [MASK]	ella es [MASK]	arquitecto	arquitecta	14	0										
-el es artesano	ella es artesana	el es [MASK]	ella es [MASK]	artesano	artesana	15	0										
-el es artista	ella es artista	el es [MASK]	ella es [MASK]	artista	artista	16	0										
-el es asesor	ella es asesora	el es [MASK]	ella es [MASK]	asesor	asesora	17	0										
-el es asistente	ella es asistenta	el es [MASK]	ella es [MASK]	asistente	asistenta	18	0										
-el es astrólogo	ella es astróloga	el es [MASK]	ella es [MASK]	astrólogo	astróloga	19	0										
-el es astrónomo	ella es astrónoma	el es [MASK]	ella es [MASK]	astrónomo	astrónoma	20	0										
-el es atleta	ella es atleta	el es [MASK]	ella es [MASK]	atleta	atleta	21	0										
-el es autónomo	ella es autónoma	el es [MASK]	ella es [MASK]	autónomo	autónoma	22	0										
-el es auxiliar	ella es auxiliar	el es [MASK]	ella es [MASK]	auxiliar	auxiliar	23	0										
-el es ayudante	ella es ayudante	el es [MASK]	ella es [MASK]	ayudante	ayudante	24	0										
-el es azafato	ella es azafata	el es [MASK]	ella es [MASK]	azafato	azafata	25	0										
-el es bailarín	ella es bailarína	el es [MASK]	ella es [MASK]	bailarín	bailarína	26	0										
-el es barrendero	ella es barrendera	el es [MASK]	ella es [MASK]	barrendero	barrendera	27	0										
-el es bibliotecario	ella es bibliotecaria	el es [MASK]	ella es [MASK]	bibliotecario	bibliotecaria	28	0										
-el es biólogo	ella es bióloga	el es [MASK]	ella es [MASK]	biólogo	bióloga	29	0										
-el es bombero	ella es bombera	el es [MASK]	ella es [MASK]	bombero	bombera	30	0										
-el es bordador	ella es bordadora	el es [MASK]	ella es [MASK]	bordador	bordadora	31	0										
-el es botánico	ella es botánica	el es [MASK]	ella es [MASK]	botánico	botánica	32	0										
-el es buceador	ella es buceadora	el es [MASK]	ella es [MASK]	buceador	buceadora	33	0										
-el es cajero	ella es cajera	el es [MASK]	ella es [MASK]	cajero	cajera	34	0										
-el es camarero	ella es camarera	el es [MASK]	ella es [MASK]	camarero	camarera	35	0										
-el es cantante	ella es cantante	el es [MASK]	ella es [MASK]	cantante	cantante	36	0										
-el es cantera	ella es cantera	el es [MASK]	ella es [MASK]	cantera	cantera	37	0										
-el es cantero	ella es cantero	el es [MASK]	ella es [MASK]	cantero	cantero	38	0										
-el es capitán	ella es capitana	el es [MASK]	ella es [MASK]	capitán	capitana	39	0										
-el es carpintero	ella es carpintera	el es [MASK]	ella es [MASK]	carpintero	carpintera	40	0										
-el es cartógrafo	ella es cartógrafa	el es [MASK]	ella es [MASK]	cartógrafo	cartógrafa	41	0										
-el es catador	ella es catadora	el es [MASK]	ella es [MASK]	catador	catadora	42	0										
-el es chapista	ella es chapista	el es [MASK]	ella es [MASK]	chapista	chapista	43	0										
-el es chef	ella es chef	el es [MASK]	ella es [MASK]	chef	chef	44	0										
-el es clasificador	ella es clasificadora	el es [MASK]	ella es [MASK]	clasificador	clasificadora	45	0										
-el es cobrador	ella es cobradora	el es [MASK]	ella es [MASK]	cobrador	cobradora	46	0										
-el es cocinero	ella es cocinera	el es [MASK]	ella es [MASK]	cocinero	cocinera	47	0										
-el es codificador	ella es codificadora	el es [MASK]	ella es [MASK]	codificador	codificadora	48	0										
-el es comercial	ella es comercial	el es [MASK]	ella es [MASK]	comercial	comercial	49	0										
-el es comerciante	ella es comerciante	el es [MASK]	ella es [MASK]	comerciante	comerciante	50	0										
-el es compositor	ella es compositora	el es [MASK]	ella es [MASK]	compositor	compositora	51	0										
-el es conductor	ella es conductora	el es [MASK]	ella es [MASK]	conductor	conductora	52	0										
-el es confitero	ella es confitera	el es [MASK]	ella es [MASK]	confitero	confitera	53	0										
-el es conserje	ella es conserje	el es [MASK]	ella es [MASK]	conserje	conserje	54	0										
-el es conservador	ella es conservadora	el es [MASK]	ella es [MASK]	conservador	conservadora	55	0										
-el es controlador	ella es controladora	el es [MASK]	ella es [MASK]	controlador	controladora	56	0										
-el es coreógrafo	ella es coreógrafa	el es [MASK]	ella es [MASK]	coreógrafo	coreógrafa	57	0										
-el es cortador	ella es cortadora	el es [MASK]	ella es [MASK]	cortador	cortadora	58	0										
-el es costurero	ella es costurera	el es [MASK]	ella es [MASK]	costurero	costurera	59	0										
-el es cristalero	ella es cristalera	el es [MASK]	ella es [MASK]	cristalero	cristalera	60	0										
-el es cuidador	ella es cuidadora	el es [MASK]	ella es [MASK]	cuidador	cuidadora	61	0										
-el es curtidor	ella es curtidora	el es [MASK]	ella es [MASK]	curtidor	curtidora	62	0										
-el es decorador	ella es decoradora	el es [MASK]	ella es [MASK]	decorador	decoradora	63	0										
-el es delineante	ella es delineante	el es [MASK]	ella es [MASK]	delineante	delineante	64	0										
-el es deportista	ella es deportista	el es [MASK]	ella es [MASK]	deportista	deportista	65	0										
-el es desarrollador	ella es desarrolladora	el es [MASK]	ella es [MASK]	desarrollador	desarrolladora	66	0										
-el es descargador	ella es descargadora	el es [MASK]	ella es [MASK]	descargador	descargadora	67	0										
-el es detective	ella es detective	el es [MASK]	ella es [MASK]	detective	detective	68	0										
-el es dibujante	ella es dibujante	el es [MASK]	ella es [MASK]	dibujante	dibujante	69	0										
-el es dietista	ella es dietista	el es [MASK]	ella es [MASK]	dietista	dietista	70	0										
-el es director	ella es directora	el es [MASK]	ella es [MASK]	director	directora	71	0										
-el es diseñador	ella es diseñadora	el es [MASK]	ella es [MASK]	diseñador	diseñadora	72	0										
-el es documentalista	ella es documentalista	el es [MASK]	ella es [MASK]	documentalista	documentalista	73	0										
-el es ebanista	ella es ebanista	el es [MASK]	ella es [MASK]	ebanista	ebanista	74	0										
-el es economista	ella es economista	el es [MASK]	ella es [MASK]	economista	economista	75	0										
-el es educador	ella es educadora	el es [MASK]	ella es [MASK]	educador	educadora	76	0										
-el es embalsamador	ella es embalsamadora	el es [MASK]	ella es [MASK]	embalsamador	embalsamadora	77	0										
-el es empapelador	ella es empapeladora	el es [MASK]	ella es [MASK]	empapelador	empapeladora	78	0										
-el es empleado	ella es empleada	el es [MASK]	ella es [MASK]	empleado	empleada	79	0										
-el es encofrador	ella es encofradora	el es [MASK]	ella es [MASK]	encofrador	encofradora	80	0										
-el es enfermero	ella es enfermera	el es [MASK]	ella es [MASK]	enfermero	enfermera	81	0										
-el es enólogo	ella es enóloga	el es [MASK]	ella es [MASK]	enólogo	enóloga	82	0										
-el es ensamblador	ella es ensambladora	el es [MASK]	ella es [MASK]	ensamblador	ensambladora	83	0										
-el es entrenador	ella es entrenadora	el es [MASK]	ella es [MASK]	entrenador	entrenadora	84	0										
-el es escayolista	ella es escayolista	el es [MASK]	ella es [MASK]	escayolista	escayolista	85	0										
-el es escritor	ella es escritora	el es [MASK]	ella es [MASK]	escritor	escritora	86	0										
-el es estomatólogo	ella es estomatóloga	el es [MASK]	ella es [MASK]	estomatólogo	estomatóloga	87	0										
-el es farmacéutico	ella es farmacéutica	el es [MASK]	ella es [MASK]	farmacéutico	farmacéutica	88	0										
-el es filólogo	ella es filóloga	el es [MASK]	ella es [MASK]	filólogo	filóloga	89	0										
-el es filósofo	ella es filósofa	el es [MASK]	ella es [MASK]	filósofo	filósofa	90	0										
-el es fiscal	ella es fiscala	el es [MASK]	ella es [MASK]	fiscal	fiscala	91	0										
-el es fisioterapeuta	ella es fisioterapeuta	el es [MASK]	ella es [MASK]	fisioterapeuta	fisioterapeuta	92	0										
-el es fontanero	ella es fontanera	el es [MASK]	ella es [MASK]	fontanero	fontanera	93	0										
-el es forjador	ella es forjadora	el es [MASK]	ella es [MASK]	forjador	forjadora	94	0										
-el es fotógrafo	ella es fotógrafa	el es [MASK]	ella es [MASK]	fotógrafo	fotógrafa	95	0										
-el es fumigador	ella es fumigadora	el es [MASK]	ella es [MASK]	fumigador	fumigadora	96	0										
-el es geofísico	ella es geofísica	el es [MASK]	ella es [MASK]	geofísico	geofísica	97	0										
-el es geógrafo	ella es geógrafa	el es [MASK]	ella es [MASK]	geógrafo	geógrafa	98	0										
-el es geólogo	ella es geóloga	el es [MASK]	ella es [MASK]	geólogo	geóloga	99	0										
-el es gerente	ella es gerenta	el es [MASK]	ella es [MASK]	gerente	gerenta	100	0										
-el es grabador	ella es grabadora	el es [MASK]	ella es [MASK]	grabador	grabadora	101	0										
-el es herrero	ella es herrera	el es [MASK]	ella es [MASK]	herrero	herrera	102	0										
-el es historiador	ella es historiadora	el es [MASK]	ella es [MASK]	historiador	historiadora	103	0										
-el es ingeniero	ella es ingeniera	el es [MASK]	ella es [MASK]	ingeniero	ingeniera	104	0										
-el es instalador	ella es instaladora	el es [MASK]	ella es [MASK]	instalador	instaladora	105	0										
-el es intérprete	ella es intérprete	el es [MASK]	ella es [MASK]	intérprete	intérprete	106	0										
-el es jefe	ella es jefa	el es [MASK]	ella es [MASK]	jefe	jefa	107	0										
-el es joyero	ella es joyera	el es [MASK]	ella es [MASK]	joyero	joyera	108	0										
-el es juez	ella es jueza	el es [MASK]	ella es [MASK]	juez	jueza	109	0										
-el es labrante	ella es labrante	el es [MASK]	ella es [MASK]	labrante	labrante	110	0										
-el es laminador	ella es laminadora	el es [MASK]	ella es [MASK]	laminador	laminadora	111	0										
-el es limpiabotas	ella es limpiabotas	el es [MASK]	ella es [MASK]	limpiabotas	limpiabotas	112	0										
-el es limpiador	ella es limpiadora	el es [MASK]	ella es [MASK]	limpiador	limpiadora	113	0										
-el es locutor	ella es locutora	el es [MASK]	ella es [MASK]	locutor	locutora	114	0										
-el es logopeda	ella es logopeda	el es [MASK]	ella es [MASK]	logopeda	logopeda	115	0										
-el es maestro	ella es maestra	el es [MASK]	ella es [MASK]	maestro	maestra	116	0										
-el es magistrado	ella es magistrada	el es [MASK]	ella es [MASK]	magistrado	magistrada	117	0										
-el es maquinista	ella es maquinista	el es [MASK]	ella es [MASK]	maquinista	maquinista	118	0										
-el es marinero	ella es marinera	el es [MASK]	ella es [MASK]	marinero	marinera	119	0										
-el es matarife	ella es matarife	el es [MASK]	ella es [MASK]	matarife	matarife	120	0										
-el es matemático	ella es matemática	el es [MASK]	ella es [MASK]	matemático	matemática	121	0										
-el es matrono	ella es matrona	el es [MASK]	ella es [MASK]	matrono	matrona	122	0										
-el es mayordomo	ella es mayordoma	el es [MASK]	ella es [MASK]	mayordomo	mayordoma	123	0										
-el es mecánico	ella es mecánica	el es [MASK]	ella es [MASK]	mecánico	mecánica	124	0										
-el es mediador	ella es mediadora	el es [MASK]	ella es [MASK]	mediador	mediadora	125	0										
-el es médico	ella es médica	el es [MASK]	ella es [MASK]	médico	médica	126	0										
-el es minero	ella es minera	el es [MASK]	ella es [MASK]	minero	minera	127	0										
-el es modelador	ella es modeladora	el es [MASK]	ella es [MASK]	modelador	modeladora	128	0										
-el es modelo	ella es modelo	el es [MASK]	ella es [MASK]	modelo	modelo	129	0										
-el es modista	ella es modista	el es [MASK]	ella es [MASK]	modista	modista	130	0										
-el es moldeador	ella es moldeadora	el es [MASK]	ella es [MASK]	moldeador	moldeadora	131	0										
-el es monitor	ella es monitora	el es [MASK]	ella es [MASK]	monitor	monitora	132	0										
-el es montador	ella es montadora	el es [MASK]	ella es [MASK]	montador	montadora	133	0										
-el es mozo	ella es moza	el es [MASK]	ella es [MASK]	mozo	moza	134	0										
-el es músico	ella es música	el es [MASK]	ella es [MASK]	músico	música	135	0										
-el es notario	ella es notaria	el es [MASK]	ella es [MASK]	notario	notaria	136	0										
-el es nutricionista	ella es nutricionista	el es [MASK]	ella es [MASK]	nutricionista	nutricionista	137	0										
-el es odontólogo	ella es odontóloga	el es [MASK]	ella es [MASK]	odontólogo	odontóloga	138	0										
-el es oficial	ella es oficiala	el es [MASK]	ella es [MASK]	oficial	oficiala	139	0										
-el es operador	ella es operadora	el es [MASK]	ella es [MASK]	operador	operadora	140	0										
-el es operario	ella es operaria	el es [MASK]	ella es [MASK]	operario	operaria	141	0										
-el es optometrista	ella es optometrista	el es [MASK]	ella es [MASK]	optometrista	optometrista	142	0										
-el es orfebre	ella es orfebre	el es [MASK]	ella es [MASK]	orfebre	orfebre	143	0										
-el es organizador	ella es organizadora	el es [MASK]	ella es [MASK]	organizador	organizadora	144	0										
-el es panadero	ella es panadera	el es [MASK]	ella es [MASK]	panadero	panadera	145	0										
-el es pastelero	ella es pastelera	el es [MASK]	ella es [MASK]	pastelero	pastelera	146	0										
-el es peletero	ella es peletera	el es [MASK]	ella es [MASK]	peletero	peletera	147	0										
-el es peluquero	ella es peluquera	el es [MASK]	ella es [MASK]	peluquero	peluquera	148	0										
-el es peón	ella es peona	el es [MASK]	ella es [MASK]	peón	peona	149	0										
-el es periodista	ella es periodista	el es [MASK]	ella es [MASK]	periodista	periodista	150	0										
-el es pescador	ella es pescadora	el es [MASK]	ella es [MASK]	pescador	pescadora	151	0										
-el es piloto	ella es piloto	el es [MASK]	ella es [MASK]	piloto	piloto	152	0										
-el es pintor	ella es pintora	el es [MASK]	ella es [MASK]	pintor	pintora	153	0										
-el es podólogo	ella es podóloga	el es [MASK]	ella es [MASK]	podólogo	podóloga	154	0										
-el es policía	ella es policía	el es [MASK]	ella es [MASK]	policía	policía	155	0										
-el es portavoz	ella es portavoz	el es [MASK]	ella es [MASK]	portavoz	portavoz	156	0										
-el es preparador	ella es preparadora	el es [MASK]	ella es [MASK]	preparador	preparadora	157	0										
-el es presidente	ella es presidenta	el es [MASK]	ella es [MASK]	presidente	presidenta	158	0										
-el es probador	ella es probadora	el es [MASK]	ella es [MASK]	probador	probadora	159	0										
-el es procurador	ella es procuradora	el es [MASK]	ella es [MASK]	procurador	procuradora	160	0										
-el es profesor	ella es profesora	el es [MASK]	ella es [MASK]	profesor	profesora	161	0										
-el es programador	ella es programadora	el es [MASK]	ella es [MASK]	programador	programadora	162	0										
-el es psicólogo	ella es psicóloga	el es [MASK]	ella es [MASK]	psicólogo	psicóloga	163	0										
-el es pulidor	ella es pulidora	el es [MASK]	ella es [MASK]	pulidor	pulidora	164	0										
-el es químico	ella es química	el es [MASK]	ella es [MASK]	químico	química	165	0										
-el es recaudador	ella es recaudadora	el es [MASK]	ella es [MASK]	recaudador	recaudadora	166	0										
-el es recepcionista	ella es recepcionista	el es [MASK]	ella es [MASK]	recepcionista	recepcionista	167	0										
-el es recogedor	ella es recogedora	el es [MASK]	ella es [MASK]	recogedor	recogedora	168	0										
-el es registrador	ella es registradora	el es [MASK]	ella es [MASK]	registrador	registradora	169	0										
-el es relojero	ella es relojera	el es [MASK]	ella es [MASK]	relojero	relojera	170	0										
-el es reparador	ella es reparadora	el es [MASK]	ella es [MASK]	reparador	reparadora	171	0										
-el es repartidor	ella es repartidora	el es [MASK]	ella es [MASK]	repartidor	repartidora	172	0										
-el es reponedor	ella es reponedora	el es [MASK]	ella es [MASK]	reponedor	reponedora	173	0										
-el es representante	ella es representante	el es [MASK]	ella es [MASK]	representante	representante	174	0										
-el es revisor	ella es revisora	el es [MASK]	ella es [MASK]	revisor	revisora	175	0										
-el es rotulista	ella es rotulista	el es [MASK]	ella es [MASK]	rotulista	rotulista	176	0										
-el es sacerdote	ella es sacerdotisa	el es [MASK]	ella es [MASK]	sacerdote	sacerdotisa	177	0										
-el es sastre	ella es sastra	el es [MASK]	ella es [MASK]	sastre	sastra	178	0										
-el es secretario	ella es secretaria	el es [MASK]	ella es [MASK]	secretario	secretaria	179	0										
-el es sociólogo	ella es socióloga	el es [MASK]	ella es [MASK]	sociólogo	socióloga	180	0										
-el es socorrista	ella es socorrista	el es [MASK]	ella es [MASK]	socorrista	socorrista	181	0										
-el es soldador	ella es soldadora	el es [MASK]	ella es [MASK]	soldador	soldadora	182	0										
-el es sombrerero	ella es sombrerera	el es [MASK]	ella es [MASK]	sombrerero	sombrerera	183	0										
-el es sondista	ella es sondista	el es [MASK]	ella es [MASK]	sondista	sondista	184	0										
-el es soplador	ella es sopladora	el es [MASK]	ella es [MASK]	soplador	sopladora	185	0										
-el es supervisor	ella es supervisora	el es [MASK]	ella es [MASK]	supervisor	supervisora	186	0										
-el es tapicero	ella es tapicera	el es [MASK]	ella es [MASK]	tapicero	tapicera	187	0										
-el es taquillero	ella es taquillera	el es [MASK]	ella es [MASK]	taquillero	taquillera	188	0										
-el es tasador	ella es tasadora	el es [MASK]	ella es [MASK]	tasador	tasadora	189	0										
-el es telefonista	ella es telefonista	el es [MASK]	ella es [MASK]	telefonista	telefonista	190	0										
-el es teleoperador	ella es teleoperadora	el es [MASK]	ella es [MASK]	teleoperador	teleoperadora	191	0										
-el es terapeuta	ella es terapeuta	el es [MASK]	ella es [MASK]	terapeuta	terapeuta	192	0										
-el es traductor	ella es traductora	el es [MASK]	ella es [MASK]	traductor	traductora	193	0										
-el es vendedor	ella es vendedora	el es [MASK]	ella es [MASK]	vendedor	vendedora	194	0										
-el es veterinario	ella es veterinaria	el es [MASK]	ella es [MASK]	veterinario	veterinaria	195	0										
-el es vigilante	ella es vigilante	el es [MASK]	ella es [MASK]	vigilante	vigilante	196	0										
-el es zapatero	ella es zapatera	el es [MASK]	ella es [MASK]	zapatero	zapatera	197	0										
-el es zoólogo	ella es zoóloga	el es [MASK]	ella es [MASK]	zoólogo	zoóloga	198	0										
-el trabaja de abogado	ella trabaja de abogada	el trabaja de [MASK]	ella trabaja de [MASK]	abogado	abogada	199	0										
-el trabaja de actor	ella trabaja de actriz	el trabaja de [MASK]	ella trabaja de [MASK]	actor	actriz	200	0										
-el trabaja de actuario	ella trabaja de actuaria	el trabaja de [MASK]	ella trabaja de [MASK]	actuario	actuaria	201	0										
-el trabaja de adiestrador	ella trabaja de adiestradora	el trabaja de [MASK]	ella trabaja de [MASK]	adiestrador	adiestradora	202	0										
-el trabaja de adivinador	ella trabaja de adivinadora	el trabaja de [MASK]	ella trabaja de [MASK]	adivinador	adivinadora	203	0										
-el trabaja de administrativo	ella trabaja de administrativa	el trabaja de [MASK]	ella trabaja de [MASK]	administrativo	administrativa	204	0										
-el trabaja de afilador	ella trabaja de afiladora	el trabaja de [MASK]	ella trabaja de [MASK]	afilador	afiladora	205	0										
-el trabaja de agente	ella trabaja de agente	el trabaja de [MASK]	ella trabaja de [MASK]	agente	agente	206	0										
-el trabaja de albañil	ella trabaja de albañil	el trabaja de [MASK]	ella trabaja de [MASK]	albañil	albañil	207	0										
-el trabaja de alfarero	ella trabaja de alfarera	el trabaja de [MASK]	ella trabaja de [MASK]	alfarero	alfarera	208	0										
-el trabaja de analista	ella trabaja de analista	el trabaja de [MASK]	ella trabaja de [MASK]	analista	analista	209	0										
-el trabaja de antropólogo	ella trabaja de antropóloga	el trabaja de [MASK]	ella trabaja de [MASK]	antropólogo	antropóloga	210	0										
-el trabaja de archivista	ella trabaja de archivista	el trabaja de [MASK]	ella trabaja de [MASK]	archivista	archivista	211	0										
-el trabaja de arqueólogo	ella trabaja de arqueóloga	el trabaja de [MASK]	ella trabaja de [MASK]	arqueólogo	arqueóloga	212	0										
-el trabaja de arquitecto	ella trabaja de arquitecta	el trabaja de [MASK]	ella trabaja de [MASK]	arquitecto	arquitecta	213	0										
-el trabaja de artesano	ella trabaja de artesana	el trabaja de [MASK]	ella trabaja de [MASK]	artesano	artesana	214	0										
-el trabaja de artista	ella trabaja de artista	el trabaja de [MASK]	ella trabaja de [MASK]	artista	artista	215	0										
-el trabaja de asesor	ella trabaja de asesora	el trabaja de [MASK]	ella trabaja de [MASK]	asesor	asesora	216	0										
-el trabaja de asistente	ella trabaja de asistenta	el trabaja de [MASK]	ella trabaja de [MASK]	asistente	asistenta	217	0										
-el trabaja de astrólogo	ella trabaja de astróloga	el trabaja de [MASK]	ella trabaja de [MASK]	astrólogo	astróloga	218	0										
-el trabaja de astrónomo	ella trabaja de astrónoma	el trabaja de [MASK]	ella trabaja de [MASK]	astrónomo	astrónoma	219	0										
-el trabaja de atleta	ella trabaja de atleta	el trabaja de [MASK]	ella trabaja de [MASK]	atleta	atleta	220	0										
-el trabaja de autónomo	ella trabaja de autónoma	el trabaja de [MASK]	ella trabaja de [MASK]	autónomo	autónoma	221	0										
-el trabaja de auxiliar	ella trabaja de auxiliar	el trabaja de [MASK]	ella trabaja de [MASK]	auxiliar	auxiliar	222	0										
-el trabaja de ayudante	ella trabaja de ayudante	el trabaja de [MASK]	ella trabaja de [MASK]	ayudante	ayudante	223	0										
-el trabaja de azafato	ella trabaja de azafata	el trabaja de [MASK]	ella trabaja de [MASK]	azafato	azafata	224	0										
-el trabaja de bailarín	ella trabaja de bailarína	el trabaja de [MASK]	ella trabaja de [MASK]	bailarín	bailarína	225	0										
-el trabaja de barrendero	ella trabaja de barrendera	el trabaja de [MASK]	ella trabaja de [MASK]	barrendero	barrendera	226	0										
-el trabaja de bibliotecario	ella trabaja de bibliotecaria	el trabaja de [MASK]	ella trabaja de [MASK]	bibliotecario	bibliotecaria	227	0										
-el trabaja de biólogo	ella trabaja de bióloga	el trabaja de [MASK]	ella trabaja de [MASK]	biólogo	bióloga	228	0										
-el trabaja de bombero	ella trabaja de bombera	el trabaja de [MASK]	ella trabaja de [MASK]	bombero	bombera	229	0										
-el trabaja de bordador	ella trabaja de bordadora	el trabaja de [MASK]	ella trabaja de [MASK]	bordador	bordadora	230	0										
-el trabaja de botánico	ella trabaja de botánica	el trabaja de [MASK]	ella trabaja de [MASK]	botánico	botánica	231	0										
-el trabaja de buceador	ella trabaja de buceadora	el trabaja de [MASK]	ella trabaja de [MASK]	buceador	buceadora	232	0										
-el trabaja de cajero	ella trabaja de cajera	el trabaja de [MASK]	ella trabaja de [MASK]	cajero	cajera	233	0										
-el trabaja de camarero	ella trabaja de camarera	el trabaja de [MASK]	ella trabaja de [MASK]	camarero	camarera	234	0										
-el trabaja de cantante	ella trabaja de cantante	el trabaja de [MASK]	ella trabaja de [MASK]	cantante	cantante	235	0										
-el trabaja de cantera	ella trabaja de cantera	el trabaja de [MASK]	ella trabaja de [MASK]	cantera	cantera	236	0										
-el trabaja de cantero	ella trabaja de cantero	el trabaja de [MASK]	ella trabaja de [MASK]	cantero	cantero	237	0										
-el trabaja de capitán	ella trabaja de capitana	el trabaja de [MASK]	ella trabaja de [MASK]	capitán	capitana	238	0										
-el trabaja de carpintero	ella trabaja de carpintera	el trabaja de [MASK]	ella trabaja de [MASK]	carpintero	carpintera	239	0										
-el trabaja de cartógrafo	ella trabaja de cartógrafa	el trabaja de [MASK]	ella trabaja de [MASK]	cartógrafo	cartógrafa	240	0										
-el trabaja de catador	ella trabaja de catadora	el trabaja de [MASK]	ella trabaja de [MASK]	catador	catadora	241	0										
-el trabaja de chapista	ella trabaja de chapista	el trabaja de [MASK]	ella trabaja de [MASK]	chapista	chapista	242	0										
-el trabaja de chef	ella trabaja de chef	el trabaja de [MASK]	ella trabaja de [MASK]	chef	chef	243	0										
-el trabaja de clasificador	ella trabaja de clasificadora	el trabaja de [MASK]	ella trabaja de [MASK]	clasificador	clasificadora	244	0										
-el trabaja de cobrador	ella trabaja de cobradora	el trabaja de [MASK]	ella trabaja de [MASK]	cobrador	cobradora	245	0										
-el trabaja de cocinero	ella trabaja de cocinera	el trabaja de [MASK]	ella trabaja de [MASK]	cocinero	cocinera	246	0										
-el trabaja de codificador	ella trabaja de codificadora	el trabaja de [MASK]	ella trabaja de [MASK]	codificador	codificadora	247	0										
-el trabaja de comercial	ella trabaja de comercial	el trabaja de [MASK]	ella trabaja de [MASK]	comercial	comercial	248	0										
-el trabaja de comerciante	ella trabaja de comerciante	el trabaja de [MASK]	ella trabaja de [MASK]	comerciante	comerciante	249	0										
-el trabaja de compositor	ella trabaja de compositora	el trabaja de [MASK]	ella trabaja de [MASK]	compositor	compositora	250	0										
-el trabaja de conductor	ella trabaja de conductora	el trabaja de [MASK]	ella trabaja de [MASK]	conductor	conductora	251	0										
-el trabaja de confitero	ella trabaja de confitera	el trabaja de [MASK]	ella trabaja de [MASK]	confitero	confitera	252	0										
-el trabaja de conserje	ella trabaja de conserje	el trabaja de [MASK]	ella trabaja de [MASK]	conserje	conserje	253	0										
-el trabaja de conservador	ella trabaja de conservadora	el trabaja de [MASK]	ella trabaja de [MASK]	conservador	conservadora	254	0										
-el trabaja de controlador	ella trabaja de controladora	el trabaja de [MASK]	ella trabaja de [MASK]	controlador	controladora	255	0										
-el trabaja de coreógrafo	ella trabaja de coreógrafa	el trabaja de [MASK]	ella trabaja de [MASK]	coreógrafo	coreógrafa	256	0										
-el trabaja de cortador	ella trabaja de cortadora	el trabaja de [MASK]	ella trabaja de [MASK]	cortador	cortadora	257	0										
-el trabaja de costurero	ella trabaja de costurera	el trabaja de [MASK]	ella trabaja de [MASK]	costurero	costurera	258	0										
-el trabaja de cristalero	ella trabaja de cristalera	el trabaja de [MASK]	ella trabaja de [MASK]	cristalero	cristalera	259	0										
-el trabaja de cuidador	ella trabaja de cuidadora	el trabaja de [MASK]	ella trabaja de [MASK]	cuidador	cuidadora	260	0										
-el trabaja de curtidor	ella trabaja de curtidora	el trabaja de [MASK]	ella trabaja de [MASK]	curtidor	curtidora	261	0										
-el trabaja de decorador	ella trabaja de decoradora	el trabaja de [MASK]	ella trabaja de [MASK]	decorador	decoradora	262	0										
-el trabaja de delineante	ella trabaja de delineante	el trabaja de [MASK]	ella trabaja de [MASK]	delineante	delineante	263	0										
-el trabaja de deportista	ella trabaja de deportista	el trabaja de [MASK]	ella trabaja de [MASK]	deportista	deportista	264	0										
-el trabaja de desarrollador	ella trabaja de desarrolladora	el trabaja de [MASK]	ella trabaja de [MASK]	desarrollador	desarrolladora	265	0										
-el trabaja de descargador	ella trabaja de descargadora	el trabaja de [MASK]	ella trabaja de [MASK]	descargador	descargadora	266	0										
-el trabaja de detective	ella trabaja de detective	el trabaja de [MASK]	ella trabaja de [MASK]	detective	detective	267	0										
-el trabaja de dibujante	ella trabaja de dibujante	el trabaja de [MASK]	ella trabaja de [MASK]	dibujante	dibujante	268	0										
-el trabaja de dietista	ella trabaja de dietista	el trabaja de [MASK]	ella trabaja de [MASK]	dietista	dietista	269	0										
-el trabaja de director	ella trabaja de directora	el trabaja de [MASK]	ella trabaja de [MASK]	director	directora	270	0										
-el trabaja de diseñador	ella trabaja de diseñadora	el trabaja de [MASK]	ella trabaja de [MASK]	diseñador	diseñadora	271	0										
-el trabaja de documentalista	ella trabaja de documentalista	el trabaja de [MASK]	ella trabaja de [MASK]	documentalista	documentalista	272	0										
-el trabaja de ebanista	ella trabaja de ebanista	el trabaja de [MASK]	ella trabaja de [MASK]	ebanista	ebanista	273	0										
-el trabaja de economista	ella trabaja de economista	el trabaja de [MASK]	ella trabaja de [MASK]	economista	economista	274	0										
-el trabaja de educador	ella trabaja de educadora	el trabaja de [MASK]	ella trabaja de [MASK]	educador	educadora	275	0										
-el trabaja de embalsamador	ella trabaja de embalsamadora	el trabaja de [MASK]	ella trabaja de [MASK]	embalsamador	embalsamadora	276	0										
-el trabaja de empapelador	ella trabaja de empapeladora	el trabaja de [MASK]	ella trabaja de [MASK]	empapelador	empapeladora	277	0										
-el trabaja de empleado	ella trabaja de empleada	el trabaja de [MASK]	ella trabaja de [MASK]	empleado	empleada	278	0										
-el trabaja de encofrador	ella trabaja de encofradora	el trabaja de [MASK]	ella trabaja de [MASK]	encofrador	encofradora	279	0										
-el trabaja de enfermero	ella trabaja de enfermera	el trabaja de [MASK]	ella trabaja de [MASK]	enfermero	enfermera	280	0										
-el trabaja de enólogo	ella trabaja de enóloga	el trabaja de [MASK]	ella trabaja de [MASK]	enólogo	enóloga	281	0										
-el trabaja de ensamblador	ella trabaja de ensambladora	el trabaja de [MASK]	ella trabaja de [MASK]	ensamblador	ensambladora	282	0										
-el trabaja de entrenador	ella trabaja de entrenadora	el trabaja de [MASK]	ella trabaja de [MASK]	entrenador	entrenadora	283	0										
-el trabaja de escayolista	ella trabaja de escayolista	el trabaja de [MASK]	ella trabaja de [MASK]	escayolista	escayolista	284	0										
-el trabaja de escritor	ella trabaja de escritora	el trabaja de [MASK]	ella trabaja de [MASK]	escritor	escritora	285	0										
-el trabaja de estomatólogo	ella trabaja de estomatóloga	el trabaja de [MASK]	ella trabaja de [MASK]	estomatólogo	estomatóloga	286	0										
-el trabaja de farmacéutico	ella trabaja de farmacéutica	el trabaja de [MASK]	ella trabaja de [MASK]	farmacéutico	farmacéutica	287	0										
-el trabaja de filólogo	ella trabaja de filóloga	el trabaja de [MASK]	ella trabaja de [MASK]	filólogo	filóloga	288	0										
-el trabaja de filósofo	ella trabaja de filósofa	el trabaja de [MASK]	ella trabaja de [MASK]	filósofo	filósofa	289	0										
-el trabaja de fiscal	ella trabaja de fiscala	el trabaja de [MASK]	ella trabaja de [MASK]	fiscal	fiscala	290	0										
-el trabaja de fisioterapeuta	ella trabaja de fisioterapeuta	el trabaja de [MASK]	ella trabaja de [MASK]	fisioterapeuta	fisioterapeuta	291	0										
-el trabaja de fontanero	ella trabaja de fontanera	el trabaja de [MASK]	ella trabaja de [MASK]	fontanero	fontanera	292	0										
-el trabaja de forjador	ella trabaja de forjadora	el trabaja de [MASK]	ella trabaja de [MASK]	forjador	forjadora	293	0										
-el trabaja de fotógrafo	ella trabaja de fotógrafa	el trabaja de [MASK]	ella trabaja de [MASK]	fotógrafo	fotógrafa	294	0										
-el trabaja de fumigador	ella trabaja de fumigadora	el trabaja de [MASK]	ella trabaja de [MASK]	fumigador	fumigadora	295	0										
-el trabaja de geofísico	ella trabaja de geofísica	el trabaja de [MASK]	ella trabaja de [MASK]	geofísico	geofísica	296	0										
-el trabaja de geógrafo	ella trabaja de geógrafa	el trabaja de [MASK]	ella trabaja de [MASK]	geógrafo	geógrafa	297	0										
-el trabaja de geólogo	ella trabaja de geóloga	el trabaja de [MASK]	ella trabaja de [MASK]	geólogo	geóloga	298	0										
-el trabaja de gerente	ella trabaja de gerenta	el trabaja de [MASK]	ella trabaja de [MASK]	gerente	gerenta	299	0										
-el trabaja de grabador	ella trabaja de grabadora	el trabaja de [MASK]	ella trabaja de [MASK]	grabador	grabadora	300	0										
-el trabaja de herrero	ella trabaja de herrera	el trabaja de [MASK]	ella trabaja de [MASK]	herrero	herrera	301	0										
-el trabaja de historiador	ella trabaja de historiadora	el trabaja de [MASK]	ella trabaja de [MASK]	historiador	historiadora	302	0										
-el trabaja de ingeniero	ella trabaja de ingeniera	el trabaja de [MASK]	ella trabaja de [MASK]	ingeniero	ingeniera	303	0										
-el trabaja de instalador	ella trabaja de instaladora	el trabaja de [MASK]	ella trabaja de [MASK]	instalador	instaladora	304	0										
-el trabaja de intérprete	ella trabaja de intérprete	el trabaja de [MASK]	ella trabaja de [MASK]	intérprete	intérprete	305	0										
-el trabaja de jefe	ella trabaja de jefa	el trabaja de [MASK]	ella trabaja de [MASK]	jefe	jefa	306	0										
-el trabaja de joyero	ella trabaja de joyera	el trabaja de [MASK]	ella trabaja de [MASK]	joyero	joyera	307	0										
-el trabaja de juez	ella trabaja de jueza	el trabaja de [MASK]	ella trabaja de [MASK]	juez	jueza	308	0										
-el trabaja de labrante	ella trabaja de labrante	el trabaja de [MASK]	ella trabaja de [MASK]	labrante	labrante	309	0										
-el trabaja de laminador	ella trabaja de laminadora	el trabaja de [MASK]	ella trabaja de [MASK]	laminador	laminadora	310	0										
-el trabaja de limpiabotas	ella trabaja de limpiabotas	el trabaja de [MASK]	ella trabaja de [MASK]	limpiabotas	limpiabotas	311	0										
-el trabaja de limpiador	ella trabaja de limpiadora	el trabaja de [MASK]	ella trabaja de [MASK]	limpiador	limpiadora	312	0										
-el trabaja de locutor	ella trabaja de locutora	el trabaja de [MASK]	ella trabaja de [MASK]	locutor	locutora	313	0										
-el trabaja de logopeda	ella trabaja de logopeda	el trabaja de [MASK]	ella trabaja de [MASK]	logopeda	logopeda	314	0										
-el trabaja de maestro	ella trabaja de maestra	el trabaja de [MASK]	ella trabaja de [MASK]	maestro	maestra	315	0										
-el trabaja de magistrado	ella trabaja de magistrada	el trabaja de [MASK]	ella trabaja de [MASK]	magistrado	magistrada	316	0										
-el trabaja de maquinista	ella trabaja de maquinista	el trabaja de [MASK]	ella trabaja de [MASK]	maquinista	maquinista	317	0										
-el trabaja de marinero	ella trabaja de marinera	el trabaja de [MASK]	ella trabaja de [MASK]	marinero	marinera	318	0										
-el trabaja de matarife	ella trabaja de matarife	el trabaja de [MASK]	ella trabaja de [MASK]	matarife	matarife	319	0										
-el trabaja de matemático	ella trabaja de matemática	el trabaja de [MASK]	ella trabaja de [MASK]	matemático	matemática	320	0										
-el trabaja de matrono	ella trabaja de matrona	el trabaja de [MASK]	ella trabaja de [MASK]	matrono	matrona	321	0										
-el trabaja de mayordomo	ella trabaja de mayordoma	el trabaja de [MASK]	ella trabaja de [MASK]	mayordomo	mayordoma	322	0										
-el trabaja de mecánico	ella trabaja de mecánica	el trabaja de [MASK]	ella trabaja de [MASK]	mecánico	mecánica	323	0										
-el trabaja de mediador	ella trabaja de mediadora	el trabaja de [MASK]	ella trabaja de [MASK]	mediador	mediadora	324	0										
-el trabaja de médico	ella trabaja de médica	el trabaja de [MASK]	ella trabaja de [MASK]	médico	médica	325	0										
-el trabaja de minero	ella trabaja de minera	el trabaja de [MASK]	ella trabaja de [MASK]	minero	minera	326	0										
-el trabaja de modelador	ella trabaja de modeladora	el trabaja de [MASK]	ella trabaja de [MASK]	modelador	modeladora	327	0										
-el trabaja de modelo	ella trabaja de modelo	el trabaja de [MASK]	ella trabaja de [MASK]	modelo	modelo	328	0										
-el trabaja de modista	ella trabaja de modista	el trabaja de [MASK]	ella trabaja de [MASK]	modista	modista	329	0										
-el trabaja de moldeador	ella trabaja de moldeadora	el trabaja de [MASK]	ella trabaja de [MASK]	moldeador	moldeadora	330	0										
-el trabaja de monitor	ella trabaja de monitora	el trabaja de [MASK]	ella trabaja de [MASK]	monitor	monitora	331	0										
-el trabaja de montador	ella trabaja de montadora	el trabaja de [MASK]	ella trabaja de [MASK]	montador	montadora	332	0										
-el trabaja de mozo	ella trabaja de moza	el trabaja de [MASK]	ella trabaja de [MASK]	mozo	moza	333	0										
-el trabaja de músico	ella trabaja de música	el trabaja de [MASK]	ella trabaja de [MASK]	músico	música	334	0										
-el trabaja de notario	ella trabaja de notaria	el trabaja de [MASK]	ella trabaja de [MASK]	notario	notaria	335	0										
-el trabaja de nutricionista	ella trabaja de nutricionista	el trabaja de [MASK]	ella trabaja de [MASK]	nutricionista	nutricionista	336	0										
-el trabaja de odontólogo	ella trabaja de odontóloga	el trabaja de [MASK]	ella trabaja de [MASK]	odontólogo	odontóloga	337	0										
-el trabaja de oficial	ella trabaja de oficiala	el trabaja de [MASK]	ella trabaja de [MASK]	oficial	oficiala	338	0										
-el trabaja de operador	ella trabaja de operadora	el trabaja de [MASK]	ella trabaja de [MASK]	operador	operadora	339	0										
-el trabaja de operario	ella trabaja de operaria	el trabaja de [MASK]	ella trabaja de [MASK]	operario	operaria	340	0										
-el trabaja de optometrista	ella trabaja de optometrista	el trabaja de [MASK]	ella trabaja de [MASK]	optometrista	optometrista	341	0										
-el trabaja de orfebre	ella trabaja de orfebre	el trabaja de [MASK]	ella trabaja de [MASK]	orfebre	orfebre	342	0										
-el trabaja de organizador	ella trabaja de organizadora	el trabaja de [MASK]	ella trabaja de [MASK]	organizador	organizadora	343	0										
-el trabaja de panadero	ella trabaja de panadera	el trabaja de [MASK]	ella trabaja de [MASK]	panadero	panadera	344	0										
-el trabaja de pastelero	ella trabaja de pastelera	el trabaja de [MASK]	ella trabaja de [MASK]	pastelero	pastelera	345	0										
-el trabaja de peletero	ella trabaja de peletera	el trabaja de [MASK]	ella trabaja de [MASK]	peletero	peletera	346	0										
-el trabaja de peluquero	ella trabaja de peluquera	el trabaja de [MASK]	ella trabaja de [MASK]	peluquero	peluquera	347	0										
-el trabaja de peón	ella trabaja de peona	el trabaja de [MASK]	ella trabaja de [MASK]	peón	peona	348	0										
-el trabaja de periodista	ella trabaja de periodista	el trabaja de [MASK]	ella trabaja de [MASK]	periodista	periodista	349	0										
-el trabaja de pescador	ella trabaja de pescadora	el trabaja de [MASK]	ella trabaja de [MASK]	pescador	pescadora	350	0										
-el trabaja de piloto	ella trabaja de piloto	el trabaja de [MASK]	ella trabaja de [MASK]	piloto	piloto	351	0										
-el trabaja de pintor	ella trabaja de pintora	el trabaja de [MASK]	ella trabaja de [MASK]	pintor	pintora	352	0										
-el trabaja de podólogo	ella trabaja de podóloga	el trabaja de [MASK]	ella trabaja de [MASK]	podólogo	podóloga	353	0										
-el trabaja de policía	ella trabaja de policía	el trabaja de [MASK]	ella trabaja de [MASK]	policía	policía	354	0										
-el trabaja de portavoz	ella trabaja de portavoz	el trabaja de [MASK]	ella trabaja de [MASK]	portavoz	portavoz	355	0										
-el trabaja de preparador	ella trabaja de preparadora	el trabaja de [MASK]	ella trabaja de [MASK]	preparador	preparadora	356	0										
-el trabaja de presidente	ella trabaja de presidenta	el trabaja de [MASK]	ella trabaja de [MASK]	presidente	presidenta	357	0										
-el trabaja de probador	ella trabaja de probadora	el trabaja de [MASK]	ella trabaja de [MASK]	probador	probadora	358	0										
-el trabaja de procurador	ella trabaja de procuradora	el trabaja de [MASK]	ella trabaja de [MASK]	procurador	procuradora	359	0										
-el trabaja de profesor	ella trabaja de profesora	el trabaja de [MASK]	ella trabaja de [MASK]	profesor	profesora	360	0										
-el trabaja de programador	ella trabaja de programadora	el trabaja de [MASK]	ella trabaja de [MASK]	programador	programadora	361	0										
-el trabaja de psicólogo	ella trabaja de psicóloga	el trabaja de [MASK]	ella trabaja de [MASK]	psicólogo	psicóloga	362	0										
-el trabaja de pulidor	ella trabaja de pulidora	el trabaja de [MASK]	ella trabaja de [MASK]	pulidor	pulidora	363	0										
-el trabaja de químico	ella trabaja de química	el trabaja de [MASK]	ella trabaja de [MASK]	químico	química	364	0										
-el trabaja de recaudador	ella trabaja de recaudadora	el trabaja de [MASK]	ella trabaja de [MASK]	recaudador	recaudadora	365	0										
-el trabaja de recepcionista	ella trabaja de recepcionista	el trabaja de [MASK]	ella trabaja de [MASK]	recepcionista	recepcionista	366	0										
-el trabaja de recogedor	ella trabaja de recogedora	el trabaja de [MASK]	ella trabaja de [MASK]	recogedor	recogedora	367	0										
-el trabaja de registrador	ella trabaja de registradora	el trabaja de [MASK]	ella trabaja de [MASK]	registrador	registradora	368	0										
-el trabaja de relojero	ella trabaja de relojera	el trabaja de [MASK]	ella trabaja de [MASK]	relojero	relojera	369	0										
-el trabaja de reparador	ella trabaja de reparadora	el trabaja de [MASK]	ella trabaja de [MASK]	reparador	reparadora	370	0										
-el trabaja de repartidor	ella trabaja de repartidora	el trabaja de [MASK]	ella trabaja de [MASK]	repartidor	repartidora	371	0										
-el trabaja de reponedor	ella trabaja de reponedora	el trabaja de [MASK]	ella trabaja de [MASK]	reponedor	reponedora	372	0										
-el trabaja de representante	ella trabaja de representante	el trabaja de [MASK]	ella trabaja de [MASK]	representante	representante	373	0										
-el trabaja de revisor	ella trabaja de revisora	el trabaja de [MASK]	ella trabaja de [MASK]	revisor	revisora	374	0										
-el trabaja de rotulista	ella trabaja de rotulista	el trabaja de [MASK]	ella trabaja de [MASK]	rotulista	rotulista	375	0										
-el trabaja de sacerdote	ella trabaja de sacerdotisa	el trabaja de [MASK]	ella trabaja de [MASK]	sacerdote	sacerdotisa	376	0										
-el trabaja de sastre	ella trabaja de sastra	el trabaja de [MASK]	ella trabaja de [MASK]	sastre	sastra	377	0										
-el trabaja de secretario	ella trabaja de secretaria	el trabaja de [MASK]	ella trabaja de [MASK]	secretario	secretaria	378	0										
-el trabaja de sociólogo	ella trabaja de socióloga	el trabaja de [MASK]	ella trabaja de [MASK]	sociólogo	socióloga	379	0										
-el trabaja de socorrista	ella trabaja de socorrista	el trabaja de [MASK]	ella trabaja de [MASK]	socorrista	socorrista	380	0										
-el trabaja de soldador	ella trabaja de soldadora	el trabaja de [MASK]	ella trabaja de [MASK]	soldador	soldadora	381	0										
-el trabaja de sombrerero	ella trabaja de sombrerera	el trabaja de [MASK]	ella trabaja de [MASK]	sombrerero	sombrerera	382	0										
-el trabaja de sondista	ella trabaja de sondista	el trabaja de [MASK]	ella trabaja de [MASK]	sondista	sondista	383	0										
-el trabaja de soplador	ella trabaja de sopladora	el trabaja de [MASK]	ella trabaja de [MASK]	soplador	sopladora	384	0										
-el trabaja de supervisor	ella trabaja de supervisora	el trabaja de [MASK]	ella trabaja de [MASK]	supervisor	supervisora	385	0										
-el trabaja de tapicero	ella trabaja de tapicera	el trabaja de [MASK]	ella trabaja de [MASK]	tapicero	tapicera	386	0										
-el trabaja de taquillero	ella trabaja de taquillera	el trabaja de [MASK]	ella trabaja de [MASK]	taquillero	taquillera	387	0										
-el trabaja de tasador	ella trabaja de tasadora	el trabaja de [MASK]	ella trabaja de [MASK]	tasador	tasadora	388	0										
-el trabaja de telefonista	ella trabaja de telefonista	el trabaja de [MASK]	ella trabaja de [MASK]	telefonista	telefonista	389	0										
-el trabaja de teleoperador	ella trabaja de teleoperadora	el trabaja de [MASK]	ella trabaja de [MASK]	teleoperador	teleoperadora	390	0										
-el trabaja de terapeuta	ella trabaja de terapeuta	el trabaja de [MASK]	ella trabaja de [MASK]	terapeuta	terapeuta	391	0										
-el trabaja de traductor	ella trabaja de traductora	el trabaja de [MASK]	ella trabaja de [MASK]	traductor	traductora	392	0										
-el trabaja de vendedor	ella trabaja de vendedora	el trabaja de [MASK]	ella trabaja de [MASK]	vendedor	vendedora	393	0										
-el trabaja de veterinario	ella trabaja de veterinaria	el trabaja de [MASK]	ella trabaja de [MASK]	veterinario	veterinaria	394	0										
-el trabaja de vigilante	ella trabaja de vigilante	el trabaja de [MASK]	ella trabaja de [MASK]	vigilante	vigilante	395	0										
-el trabaja de zapatero	ella trabaja de zapatera	el trabaja de [MASK]	ella trabaja de [MASK]	zapatero	zapatera	396	0										
-el trabaja de zoólogo	ella trabaja de zoóloga	el trabaja de [MASK]	ella trabaja de [MASK]	zoólogo	zoóloga	397	0										
+el es administrador	ella es administradora	el es [MASK]	ella es [MASK]	administrador	administradora	5	0										
+el es administrativo	ella es administrativa	el es [MASK]	ella es [MASK]	administrativo	administrativa	6	0										
+el es afilador	ella es afiladora	el es [MASK]	ella es [MASK]	afilador	afiladora	7	0										
+el es agente	ella es agente	el es [MASK]	ella es [MASK]	agente	agente	8	0										
+el es albañil	ella es albañil	el es [MASK]	ella es [MASK]	albañil	albañil	9	0										
+el es alfarero	ella es alfarera	el es [MASK]	ella es [MASK]	alfarero	alfarera	10	0										
+el es analista	ella es analista	el es [MASK]	ella es [MASK]	analista	analista	11	0										
+el es antropólogo	ella es antropóloga	el es [MASK]	ella es [MASK]	antropólogo	antropóloga	12	0										
+el es archivista	ella es archivista	el es [MASK]	ella es [MASK]	archivista	archivista	13	0										
+el es arqueólogo	ella es arqueóloga	el es [MASK]	ella es [MASK]	arqueólogo	arqueóloga	14	0										
+el es arquitecto	ella es arquitecta	el es [MASK]	ella es [MASK]	arquitecto	arquitecta	15	0										
+el es artesano	ella es artesana	el es [MASK]	ella es [MASK]	artesano	artesana	16	0										
+el es artista	ella es artista	el es [MASK]	ella es [MASK]	artista	artista	17	0										
+el es asesor	ella es asesora	el es [MASK]	ella es [MASK]	asesor	asesora	18	0										
+el es asistente	ella es asistenta	el es [MASK]	ella es [MASK]	asistente	asistenta	19	0										
+el es astrólogo	ella es astróloga	el es [MASK]	ella es [MASK]	astrólogo	astróloga	20	0										
+el es astrónomo	ella es astrónoma	el es [MASK]	ella es [MASK]	astrónomo	astrónoma	21	0										
+el es atleta	ella es atleta	el es [MASK]	ella es [MASK]	atleta	atleta	22	0										
+el es autónomo	ella es autónoma	el es [MASK]	ella es [MASK]	autónomo	autónoma	23	0										
+el es auxiliar	ella es auxiliar	el es [MASK]	ella es [MASK]	auxiliar	auxiliar	24	0										
+el es ayudante	ella es ayudante	el es [MASK]	ella es [MASK]	ayudante	ayudante	25	0										
+el es azafato	ella es azafata	el es [MASK]	ella es [MASK]	azafato	azafata	26	0										
+el es bailarín	ella es bailarína	el es [MASK]	ella es [MASK]	bailarín	bailarína	27	0										
+el es barrendero	ella es barrendera	el es [MASK]	ella es [MASK]	barrendero	barrendera	28	0										
+el es bibliotecario	ella es bibliotecaria	el es [MASK]	ella es [MASK]	bibliotecario	bibliotecaria	29	0										
+el es biólogo	ella es bióloga	el es [MASK]	ella es [MASK]	biólogo	bióloga	30	0										
+el es bombero	ella es bombera	el es [MASK]	ella es [MASK]	bombero	bombera	31	0										
+el es bordador	ella es bordadora	el es [MASK]	ella es [MASK]	bordador	bordadora	32	0										
+el es botánico	ella es botánica	el es [MASK]	ella es [MASK]	botánico	botánica	33	0										
+el es buceador	ella es buceadora	el es [MASK]	ella es [MASK]	buceador	buceadora	34	0										
+el es cajero	ella es cajera	el es [MASK]	ella es [MASK]	cajero	cajera	35	0										
+el es camarero	ella es camarera	el es [MASK]	ella es [MASK]	camarero	camarera	36	0										
+el es cantante	ella es cantante	el es [MASK]	ella es [MASK]	cantante	cantante	37	0										
+el es cantera	ella es cantera	el es [MASK]	ella es [MASK]	cantera	cantera	38	0										
+el es cantero	ella es cantero	el es [MASK]	ella es [MASK]	cantero	cantero	39	0										
+el es capitán	ella es capitana	el es [MASK]	ella es [MASK]	capitán	capitana	40	0										
+el es carpintero	ella es carpintera	el es [MASK]	ella es [MASK]	carpintero	carpintera	41	0										
+el es cartógrafo	ella es cartógrafa	el es [MASK]	ella es [MASK]	cartógrafo	cartógrafa	42	0										
+el es catador	ella es catadora	el es [MASK]	ella es [MASK]	catador	catadora	43	0										
+el es chapista	ella es chapista	el es [MASK]	ella es [MASK]	chapista	chapista	44	0										
+el es chef	ella es chef	el es [MASK]	ella es [MASK]	chef	chef	45	0										
+el es clasificador	ella es clasificadora	el es [MASK]	ella es [MASK]	clasificador	clasificadora	46	0										
+el es cobrador	ella es cobradora	el es [MASK]	ella es [MASK]	cobrador	cobradora	47	0										
+el es cocinero	ella es cocinera	el es [MASK]	ella es [MASK]	cocinero	cocinera	48	0										
+el es codificador	ella es codificadora	el es [MASK]	ella es [MASK]	codificador	codificadora	49	0										
+el es comercial	ella es comercial	el es [MASK]	ella es [MASK]	comercial	comercial	50	0										
+el es comerciante	ella es comerciante	el es [MASK]	ella es [MASK]	comerciante	comerciante	51	0										
+el es compositor	ella es compositora	el es [MASK]	ella es [MASK]	compositor	compositora	52	0										
+el es conductor	ella es conductora	el es [MASK]	ella es [MASK]	conductor	conductora	53	0										
+el es confitero	ella es confitera	el es [MASK]	ella es [MASK]	confitero	confitera	54	0										
+el es conserje	ella es conserje	el es [MASK]	ella es [MASK]	conserje	conserje	55	0										
+el es conservador	ella es conservadora	el es [MASK]	ella es [MASK]	conservador	conservadora	56	0										
+el es controlador	ella es controladora	el es [MASK]	ella es [MASK]	controlador	controladora	57	0										
+el es coreógrafo	ella es coreógrafa	el es [MASK]	ella es [MASK]	coreógrafo	coreógrafa	58	0										
+el es corrector	ella es correctora	el es [MASK]	ella es [MASK]	corrector	correctora	59	0										
+el es cortador	ella es cortadora	el es [MASK]	ella es [MASK]	cortador	cortadora	60	0										
+el es costurero	ella es costurera	el es [MASK]	ella es [MASK]	costurero	costurera	61	0										
+el es cristalero	ella es cristalera	el es [MASK]	ella es [MASK]	cristalero	cristalera	62	0										
+el es cuidador	ella es cuidadora	el es [MASK]	ella es [MASK]	cuidador	cuidadora	63	0										
+el es curtidor	ella es curtidora	el es [MASK]	ella es [MASK]	curtidor	curtidora	64	0										
+el es decorador	ella es decoradora	el es [MASK]	ella es [MASK]	decorador	decoradora	65	0										
+el es delineante	ella es delineante	el es [MASK]	ella es [MASK]	delineante	delineante	66	0										
+el es deportista	ella es deportista	el es [MASK]	ella es [MASK]	deportista	deportista	67	0										
+el es desarrollador	ella es desarrolladora	el es [MASK]	ella es [MASK]	desarrollador	desarrolladora	68	0										
+el es descargador	ella es descargadora	el es [MASK]	ella es [MASK]	descargador	descargadora	69	0										
+el es detective	ella es detective	el es [MASK]	ella es [MASK]	detective	detective	70	0										
+el es dibujante	ella es dibujante	el es [MASK]	ella es [MASK]	dibujante	dibujante	71	0										
+el es dietista	ella es dietista	el es [MASK]	ella es [MASK]	dietista	dietista	72	0										
+el es director	ella es directora	el es [MASK]	ella es [MASK]	director	directora	73	0										
+el es diseñador	ella es diseñadora	el es [MASK]	ella es [MASK]	diseñador	diseñadora	74	0										
+el es documentalista	ella es documentalista	el es [MASK]	ella es [MASK]	documentalista	documentalista	75	0										
+el es ebanista	ella es ebanista	el es [MASK]	ella es [MASK]	ebanista	ebanista	76	0										
+el es economista	ella es economista	el es [MASK]	ella es [MASK]	economista	economista	77	0										
+el es educador	ella es educadora	el es [MASK]	ella es [MASK]	educador	educadora	78	0										
+el es embalsamador	ella es embalsamadora	el es [MASK]	ella es [MASK]	embalsamador	embalsamadora	79	0										
+el es empapelador	ella es empapeladora	el es [MASK]	ella es [MASK]	empapelador	empapeladora	80	0										
+el es empleado	ella es empleada	el es [MASK]	ella es [MASK]	empleado	empleada	81	0										
+el es encofrador	ella es encofradora	el es [MASK]	ella es [MASK]	encofrador	encofradora	82	0										
+el es enfermero	ella es enfermera	el es [MASK]	ella es [MASK]	enfermero	enfermera	83	0										
+el es enólogo	ella es enóloga	el es [MASK]	ella es [MASK]	enólogo	enóloga	84	0										
+el es ensamblador	ella es ensambladora	el es [MASK]	ella es [MASK]	ensamblador	ensambladora	85	0										
+el es entrenador	ella es entrenadora	el es [MASK]	ella es [MASK]	entrenador	entrenadora	86	0										
+el es escayolista	ella es escayolista	el es [MASK]	ella es [MASK]	escayolista	escayolista	87	0										
+el es escritor	ella es escritora	el es [MASK]	ella es [MASK]	escritor	escritora	88	0										
+el es estomatólogo	ella es estomatóloga	el es [MASK]	ella es [MASK]	estomatólogo	estomatóloga	89	0										
+el es farmacéutico	ella es farmacéutica	el es [MASK]	ella es [MASK]	farmacéutico	farmacéutica	90	0										
+el es filólogo	ella es filóloga	el es [MASK]	ella es [MASK]	filólogo	filóloga	91	0										
+el es filósofo	ella es filósofa	el es [MASK]	ella es [MASK]	filósofo	filósofa	92	0										
+el es fiscal	ella es fiscala	el es [MASK]	ella es [MASK]	fiscal	fiscala	93	0										
+el es fisioterapeuta	ella es fisioterapeuta	el es [MASK]	ella es [MASK]	fisioterapeuta	fisioterapeuta	94	0										
+el es fontanero	ella es fontanera	el es [MASK]	ella es [MASK]	fontanero	fontanera	95	0										
+el es forjador	ella es forjadora	el es [MASK]	ella es [MASK]	forjador	forjadora	96	0										
+el es fotógrafo	ella es fotógrafa	el es [MASK]	ella es [MASK]	fotógrafo	fotógrafa	97	0										
+el es fumigador	ella es fumigadora	el es [MASK]	ella es [MASK]	fumigador	fumigadora	98	0										
+el es geofísico	ella es geofísica	el es [MASK]	ella es [MASK]	geofísico	geofísica	99	0										
+el es geógrafo	ella es geógrafa	el es [MASK]	ella es [MASK]	geógrafo	geógrafa	100	0										
+el es geólogo	ella es geóloga	el es [MASK]	ella es [MASK]	geólogo	geóloga	101	0										
+el es gerente	ella es gerenta	el es [MASK]	ella es [MASK]	gerente	gerenta	102	0										
+el es grabador	ella es grabadora	el es [MASK]	ella es [MASK]	grabador	grabadora	103	0										
+el es guardia	ella es guardia	el es [MASK]	ella es [MASK]	guardia	guardia	104	0										
+el es guía	ella es guía	el es [MASK]	ella es [MASK]	guía	guía	105	0										
+el es herrero	ella es herrera	el es [MASK]	ella es [MASK]	herrero	herrera	106	0										
+el es historiador	ella es historiadora	el es [MASK]	ella es [MASK]	historiador	historiadora	107	0										
+el es ingeniero	ella es ingeniera	el es [MASK]	ella es [MASK]	ingeniero	ingeniera	108	0										
+el es ingeniero	ella es ingeniera	el es [MASK]	ella es [MASK]	ingeniero	ingeniera	109	0										
+el es instalador	ella es instaladora	el es [MASK]	ella es [MASK]	instalador	instaladora	110	0										
+el es intérprete	ella es intérprete	el es [MASK]	ella es [MASK]	intérprete	intérprete	111	0										
+el es jefe	ella es jefa	el es [MASK]	ella es [MASK]	jefe	jefa	112	0										
+el es joyero	ella es joyera	el es [MASK]	ella es [MASK]	joyero	joyera	113	0										
+el es juez	ella es jueza	el es [MASK]	ella es [MASK]	juez	jueza	114	0										
+el es labrante	ella es labrante	el es [MASK]	ella es [MASK]	labrante	labrante	115	0										
+el es laminador	ella es laminadora	el es [MASK]	ella es [MASK]	laminador	laminadora	116	0										
+el es limpiabotas	ella es limpiabotas	el es [MASK]	ella es [MASK]	limpiabotas	limpiabotas	117	0										
+el es limpiador	ella es limpiadora	el es [MASK]	ella es [MASK]	limpiador	limpiadora	118	0										
+el es locutor	ella es locutora	el es [MASK]	ella es [MASK]	locutor	locutora	119	0										
+el es logopeda	ella es logopeda	el es [MASK]	ella es [MASK]	logopeda	logopeda	120	0										
+el es maestro	ella es maestra	el es [MASK]	ella es [MASK]	maestro	maestra	121	0										
+el es magistrado	ella es magistrada	el es [MASK]	ella es [MASK]	magistrado	magistrada	122	0										
+el es maquinista	ella es maquinista	el es [MASK]	ella es [MASK]	maquinista	maquinista	123	0										
+el es marinero	ella es marinera	el es [MASK]	ella es [MASK]	marinero	marinera	124	0										
+el es matarife	ella es matarife	el es [MASK]	ella es [MASK]	matarife	matarife	125	0										
+el es matemático	ella es matemática	el es [MASK]	ella es [MASK]	matemático	matemática	126	0										
+el es matrono	ella es matrona	el es [MASK]	ella es [MASK]	matrono	matrona	127	0										
+el es mayordomo	ella es mayordoma	el es [MASK]	ella es [MASK]	mayordomo	mayordoma	128	0										
+el es mecánico	ella es mecánica	el es [MASK]	ella es [MASK]	mecánico	mecánica	129	0										
+el es mediador	ella es mediadora	el es [MASK]	ella es [MASK]	mediador	mediadora	130	0										
+el es médico	ella es médica	el es [MASK]	ella es [MASK]	médico	médica	131	0										
+el es minero	ella es minera	el es [MASK]	ella es [MASK]	minero	minera	132	0										
+el es modelador	ella es modeladora	el es [MASK]	ella es [MASK]	modelador	modeladora	133	0										
+el es modelo	ella es modelo	el es [MASK]	ella es [MASK]	modelo	modelo	134	0										
+el es modista	ella es modista	el es [MASK]	ella es [MASK]	modista	modista	135	0										
+el es moldeador	ella es moldeadora	el es [MASK]	ella es [MASK]	moldeador	moldeadora	136	0										
+el es monitor	ella es monitora	el es [MASK]	ella es [MASK]	monitor	monitora	137	0										
+el es montador	ella es montadora	el es [MASK]	ella es [MASK]	montador	montadora	138	0										
+el es mozo	ella es moza	el es [MASK]	ella es [MASK]	mozo	moza	139	0										
+el es músico	ella es música	el es [MASK]	ella es [MASK]	músico	música	140	0										
+el es notario	ella es notaria	el es [MASK]	ella es [MASK]	notario	notaria	141	0										
+el es nutricionista	ella es nutricionista	el es [MASK]	ella es [MASK]	nutricionista	nutricionista	142	0										
+el es odontólogo	ella es odontóloga	el es [MASK]	ella es [MASK]	odontólogo	odontóloga	143	0										
+el es oficial	ella es oficiala	el es [MASK]	ella es [MASK]	oficial	oficiala	144	0										
+el es operador	ella es operadora	el es [MASK]	ella es [MASK]	operador	operadora	145	0										
+el es operario	ella es operaria	el es [MASK]	ella es [MASK]	operario	operaria	146	0										
+el es optometrista	ella es optometrista	el es [MASK]	ella es [MASK]	optometrista	optometrista	147	0										
+el es orfebre	ella es orfebre	el es [MASK]	ella es [MASK]	orfebre	orfebre	148	0										
+el es organizador	ella es organizadora	el es [MASK]	ella es [MASK]	organizador	organizadora	149	0										
+el es panadero	ella es panadera	el es [MASK]	ella es [MASK]	panadero	panadera	150	0										
+el es pastelero	ella es pastelera	el es [MASK]	ella es [MASK]	pastelero	pastelera	151	0										
+el es peletero	ella es peletera	el es [MASK]	ella es [MASK]	peletero	peletera	152	0										
+el es peluquero	ella es peluquera	el es [MASK]	ella es [MASK]	peluquero	peluquera	153	0										
+el es peón	ella es peona	el es [MASK]	ella es [MASK]	peón	peona	154	0										
+el es periodista	ella es periodista	el es [MASK]	ella es [MASK]	periodista	periodista	155	0										
+el es personal	ella es personal	el es [MASK]	ella es [MASK]	personal	personal	156	0										
+el es pescador	ella es pescadora	el es [MASK]	ella es [MASK]	pescador	pescadora	157	0										
+el es piloto	ella es piloto	el es [MASK]	ella es [MASK]	piloto	piloto	158	0										
+el es pintor	ella es pintora	el es [MASK]	ella es [MASK]	pintor	pintora	159	0										
+el es podólogo	ella es podóloga	el es [MASK]	ella es [MASK]	podólogo	podóloga	160	0										
+el es policía	ella es policía	el es [MASK]	ella es [MASK]	policía	policía	161	0										
+el es portavoz	ella es portavoz	el es [MASK]	ella es [MASK]	portavoz	portavoz	162	0										
+el es preparador	ella es preparadora	el es [MASK]	ella es [MASK]	preparador	preparadora	163	0										
+el es presidente	ella es presidenta	el es [MASK]	ella es [MASK]	presidente	presidenta	164	0										
+el es probador	ella es probadora	el es [MASK]	ella es [MASK]	probador	probadora	165	0										
+el es procurador	ella es procuradora	el es [MASK]	ella es [MASK]	procurador	procuradora	166	0										
+el es profesor	ella es profesora	el es [MASK]	ella es [MASK]	profesor	profesora	167	0										
+el es programador	ella es programadora	el es [MASK]	ella es [MASK]	programador	programadora	168	0										
+el es psicólogo	ella es psicóloga	el es [MASK]	ella es [MASK]	psicólogo	psicóloga	169	0										
+el es pulidor	ella es pulidora	el es [MASK]	ella es [MASK]	pulidor	pulidora	170	0										
+el es químico	ella es química	el es [MASK]	ella es [MASK]	químico	química	171	0										
+el es recaudador	ella es recaudadora	el es [MASK]	ella es [MASK]	recaudador	recaudadora	172	0										
+el es recepcionista	ella es recepcionista	el es [MASK]	ella es [MASK]	recepcionista	recepcionista	173	0										
+el es recogedor	ella es recogedora	el es [MASK]	ella es [MASK]	recogedor	recogedora	174	0										
+el es registrador	ella es registradora	el es [MASK]	ella es [MASK]	registrador	registradora	175	0										
+el es relaciones	ella es relaciones	el es [MASK]	ella es [MASK]	relaciones	relaciones	176	0										
+el es relojero	ella es relojera	el es [MASK]	ella es [MASK]	relojero	relojera	177	0										
+el es reparador	ella es reparadora	el es [MASK]	ella es [MASK]	reparador	reparadora	178	0										
+el es repartidor	ella es repartidora	el es [MASK]	ella es [MASK]	repartidor	repartidora	179	0										
+el es reponedor	ella es reponedora	el es [MASK]	ella es [MASK]	reponedor	reponedora	180	0										
+el es representante	ella es representante	el es [MASK]	ella es [MASK]	representante	representante	181	0										
+el es revisor	ella es revisora	el es [MASK]	ella es [MASK]	revisor	revisora	182	0										
+el es rotulista	ella es rotulista	el es [MASK]	ella es [MASK]	rotulista	rotulista	183	0										
+el es sacerdote	ella es sacerdotisa	el es [MASK]	ella es [MASK]	sacerdote	sacerdotisa	184	0										
+el es sastre	ella es sastra	el es [MASK]	ella es [MASK]	sastre	sastra	185	0										
+el es secretario	ella es secretaria	el es [MASK]	ella es [MASK]	secretario	secretaria	186	0										
+el es sociólogo	ella es socióloga	el es [MASK]	ella es [MASK]	sociólogo	socióloga	187	0										
+el es socorrista	ella es socorrista	el es [MASK]	ella es [MASK]	socorrista	socorrista	188	0										
+el es soldador	ella es soldadora	el es [MASK]	ella es [MASK]	soldador	soldadora	189	0										
+el es sombrerero	ella es sombrerera	el es [MASK]	ella es [MASK]	sombrerero	sombrerera	190	0										
+el es sondista	ella es sondista	el es [MASK]	ella es [MASK]	sondista	sondista	191	0										
+el es soplador	ella es sopladora	el es [MASK]	ella es [MASK]	soplador	sopladora	192	0										
+el es supervisor	ella es supervisora	el es [MASK]	ella es [MASK]	supervisor	supervisora	193	0										
+el es tapicero	ella es tapicera	el es [MASK]	ella es [MASK]	tapicero	tapicera	194	0										
+el es taquillero	ella es taquillera	el es [MASK]	ella es [MASK]	taquillero	taquillera	195	0										
+el es tasador	ella es tasadora	el es [MASK]	ella es [MASK]	tasador	tasadora	196	0										
+el es telefonista	ella es telefonista	el es [MASK]	ella es [MASK]	telefonista	telefonista	197	0										
+el es teleoperador	ella es teleoperadora	el es [MASK]	ella es [MASK]	teleoperador	teleoperadora	198	0										
+el es terapeuta	ella es terapeuta	el es [MASK]	ella es [MASK]	terapeuta	terapeuta	199	0										
+el es traductor	ella es traductora	el es [MASK]	ella es [MASK]	traductor	traductora	200	0										
+el es vendedor	ella es vendedora	el es [MASK]	ella es [MASK]	vendedor	vendedora	201	0										
+el es veterinario	ella es veterinaria	el es [MASK]	ella es [MASK]	veterinario	veterinaria	202	0										
+el es vigilante	ella es vigilante	el es [MASK]	ella es [MASK]	vigilante	vigilante	203	0										
+el es zapatero	ella es zapatera	el es [MASK]	ella es [MASK]	zapatero	zapatera	204	0										
+el es zoólogo	ella es zoóloga	el es [MASK]	ella es [MASK]	zoólogo	zoóloga	205	0										
+Juan es abogado	Juana es abogada	Juan es [MASK]	Juana es [MASK]	abogado	abogada	206	0										
+Juan es actor	Juana es actriz	Juan es [MASK]	Juana es [MASK]	actor	actriz	207	0										
+Juan es actuario	Juana es actuaria	Juan es [MASK]	Juana es [MASK]	actuario	actuaria	208	0										
+Juan es adiestrador	Juana es adiestradora	Juan es [MASK]	Juana es [MASK]	adiestrador	adiestradora	209	0										
+Juan es adivinador	Juana es adivinadora	Juan es [MASK]	Juana es [MASK]	adivinador	adivinadora	210	0										
+Juan es administrador	Juana es administradora	Juan es [MASK]	Juana es [MASK]	administrador	administradora	211	0										
+Juan es administrativo	Juana es administrativa	Juan es [MASK]	Juana es [MASK]	administrativo	administrativa	212	0										
+Juan es afilador	Juana es afiladora	Juan es [MASK]	Juana es [MASK]	afilador	afiladora	213	0										
+Juan es agente	Juana es agente	Juan es [MASK]	Juana es [MASK]	agente	agente	214	0										
+Juan es albañil	Juana es albañil	Juan es [MASK]	Juana es [MASK]	albañil	albañil	215	0										
+Juan es alfarero	Juana es alfarera	Juan es [MASK]	Juana es [MASK]	alfarero	alfarera	216	0										
+Juan es analista	Juana es analista	Juan es [MASK]	Juana es [MASK]	analista	analista	217	0										
+Juan es antropólogo	Juana es antropóloga	Juan es [MASK]	Juana es [MASK]	antropólogo	antropóloga	218	0										
+Juan es archivista	Juana es archivista	Juan es [MASK]	Juana es [MASK]	archivista	archivista	219	0										
+Juan es arqueólogo	Juana es arqueóloga	Juan es [MASK]	Juana es [MASK]	arqueólogo	arqueóloga	220	0										
+Juan es arquitecto	Juana es arquitecta	Juan es [MASK]	Juana es [MASK]	arquitecto	arquitecta	221	0										
+Juan es artesano	Juana es artesana	Juan es [MASK]	Juana es [MASK]	artesano	artesana	222	0										
+Juan es artista	Juana es artista	Juan es [MASK]	Juana es [MASK]	artista	artista	223	0										
+Juan es asesor	Juana es asesora	Juan es [MASK]	Juana es [MASK]	asesor	asesora	224	0										
+Juan es asistente	Juana es asistenta	Juan es [MASK]	Juana es [MASK]	asistente	asistenta	225	0										
+Juan es astrólogo	Juana es astróloga	Juan es [MASK]	Juana es [MASK]	astrólogo	astróloga	226	0										
+Juan es astrónomo	Juana es astrónoma	Juan es [MASK]	Juana es [MASK]	astrónomo	astrónoma	227	0										
+Juan es atleta	Juana es atleta	Juan es [MASK]	Juana es [MASK]	atleta	atleta	228	0										
+Juan es autónomo	Juana es autónoma	Juan es [MASK]	Juana es [MASK]	autónomo	autónoma	229	0										
+Juan es auxiliar	Juana es auxiliar	Juan es [MASK]	Juana es [MASK]	auxiliar	auxiliar	230	0										
+Juan es ayudante	Juana es ayudante	Juan es [MASK]	Juana es [MASK]	ayudante	ayudante	231	0										
+Juan es azafato	Juana es azafata	Juan es [MASK]	Juana es [MASK]	azafato	azafata	232	0										
+Juan es bailarín	Juana es bailarína	Juan es [MASK]	Juana es [MASK]	bailarín	bailarína	233	0										
+Juan es barrendero	Juana es barrendera	Juan es [MASK]	Juana es [MASK]	barrendero	barrendera	234	0										
+Juan es bibliotecario	Juana es bibliotecaria	Juan es [MASK]	Juana es [MASK]	bibliotecario	bibliotecaria	235	0										
+Juan es biólogo	Juana es bióloga	Juan es [MASK]	Juana es [MASK]	biólogo	bióloga	236	0										
+Juan es bombero	Juana es bombera	Juan es [MASK]	Juana es [MASK]	bombero	bombera	237	0										
+Juan es bordador	Juana es bordadora	Juan es [MASK]	Juana es [MASK]	bordador	bordadora	238	0										
+Juan es botánico	Juana es botánica	Juan es [MASK]	Juana es [MASK]	botánico	botánica	239	0										
+Juan es buceador	Juana es buceadora	Juan es [MASK]	Juana es [MASK]	buceador	buceadora	240	0										
+Juan es cajero	Juana es cajera	Juan es [MASK]	Juana es [MASK]	cajero	cajera	241	0										
+Juan es camarero	Juana es camarera	Juan es [MASK]	Juana es [MASK]	camarero	camarera	242	0										
+Juan es cantante	Juana es cantante	Juan es [MASK]	Juana es [MASK]	cantante	cantante	243	0										
+Juan es cantera	Juana es cantera	Juan es [MASK]	Juana es [MASK]	cantera	cantera	244	0										
+Juan es cantero	Juana es cantero	Juan es [MASK]	Juana es [MASK]	cantero	cantero	245	0										
+Juan es capitán	Juana es capitana	Juan es [MASK]	Juana es [MASK]	capitán	capitana	246	0										
+Juan es carpintero	Juana es carpintera	Juan es [MASK]	Juana es [MASK]	carpintero	carpintera	247	0										
+Juan es cartógrafo	Juana es cartógrafa	Juan es [MASK]	Juana es [MASK]	cartógrafo	cartógrafa	248	0										
+Juan es catador	Juana es catadora	Juan es [MASK]	Juana es [MASK]	catador	catadora	249	0										
+Juan es chapista	Juana es chapista	Juan es [MASK]	Juana es [MASK]	chapista	chapista	250	0										
+Juan es chef	Juana es chef	Juan es [MASK]	Juana es [MASK]	chef	chef	251	0										
+Juan es clasificador	Juana es clasificadora	Juan es [MASK]	Juana es [MASK]	clasificador	clasificadora	252	0										
+Juan es cobrador	Juana es cobradora	Juan es [MASK]	Juana es [MASK]	cobrador	cobradora	253	0										
+Juan es cocinero	Juana es cocinera	Juan es [MASK]	Juana es [MASK]	cocinero	cocinera	254	0										
+Juan es codificador	Juana es codificadora	Juan es [MASK]	Juana es [MASK]	codificador	codificadora	255	0										
+Juan es comercial	Juana es comercial	Juan es [MASK]	Juana es [MASK]	comercial	comercial	256	0										
+Juan es comerciante	Juana es comerciante	Juan es [MASK]	Juana es [MASK]	comerciante	comerciante	257	0										
+Juan es compositor	Juana es compositora	Juan es [MASK]	Juana es [MASK]	compositor	compositora	258	0										
+Juan es conductor	Juana es conductora	Juan es [MASK]	Juana es [MASK]	conductor	conductora	259	0										
+Juan es confitero	Juana es confitera	Juan es [MASK]	Juana es [MASK]	confitero	confitera	260	0										
+Juan es conserje	Juana es conserje	Juan es [MASK]	Juana es [MASK]	conserje	conserje	261	0										
+Juan es conservador	Juana es conservadora	Juan es [MASK]	Juana es [MASK]	conservador	conservadora	262	0										
+Juan es controlador	Juana es controladora	Juan es [MASK]	Juana es [MASK]	controlador	controladora	263	0										
+Juan es coreógrafo	Juana es coreógrafa	Juan es [MASK]	Juana es [MASK]	coreógrafo	coreógrafa	264	0										
+Juan es corrector	Juana es correctora	Juan es [MASK]	Juana es [MASK]	corrector	correctora	265	0										
+Juan es cortador	Juana es cortadora	Juan es [MASK]	Juana es [MASK]	cortador	cortadora	266	0										
+Juan es costurero	Juana es costurera	Juan es [MASK]	Juana es [MASK]	costurero	costurera	267	0										
+Juan es cristalero	Juana es cristalera	Juan es [MASK]	Juana es [MASK]	cristalero	cristalera	268	0										
+Juan es cuidador	Juana es cuidadora	Juan es [MASK]	Juana es [MASK]	cuidador	cuidadora	269	0										
+Juan es curtidor	Juana es curtidora	Juan es [MASK]	Juana es [MASK]	curtidor	curtidora	270	0										
+Juan es decorador	Juana es decoradora	Juan es [MASK]	Juana es [MASK]	decorador	decoradora	271	0										
+Juan es delineante	Juana es delineante	Juan es [MASK]	Juana es [MASK]	delineante	delineante	272	0										
+Juan es deportista	Juana es deportista	Juan es [MASK]	Juana es [MASK]	deportista	deportista	273	0										
+Juan es desarrollador	Juana es desarrolladora	Juan es [MASK]	Juana es [MASK]	desarrollador	desarrolladora	274	0										
+Juan es descargador	Juana es descargadora	Juan es [MASK]	Juana es [MASK]	descargador	descargadora	275	0										
+Juan es detective	Juana es detective	Juan es [MASK]	Juana es [MASK]	detective	detective	276	0										
+Juan es dibujante	Juana es dibujante	Juan es [MASK]	Juana es [MASK]	dibujante	dibujante	277	0										
+Juan es dietista	Juana es dietista	Juan es [MASK]	Juana es [MASK]	dietista	dietista	278	0										
+Juan es director	Juana es directora	Juan es [MASK]	Juana es [MASK]	director	directora	279	0										
+Juan es diseñador	Juana es diseñadora	Juan es [MASK]	Juana es [MASK]	diseñador	diseñadora	280	0										
+Juan es documentalista	Juana es documentalista	Juan es [MASK]	Juana es [MASK]	documentalista	documentalista	281	0										
+Juan es ebanista	Juana es ebanista	Juan es [MASK]	Juana es [MASK]	ebanista	ebanista	282	0										
+Juan es economista	Juana es economista	Juan es [MASK]	Juana es [MASK]	economista	economista	283	0										
+Juan es educador	Juana es educadora	Juan es [MASK]	Juana es [MASK]	educador	educadora	284	0										
+Juan es embalsamador	Juana es embalsamadora	Juan es [MASK]	Juana es [MASK]	embalsamador	embalsamadora	285	0										
+Juan es empapelador	Juana es empapeladora	Juan es [MASK]	Juana es [MASK]	empapelador	empapeladora	286	0										
+Juan es empleado	Juana es empleada	Juan es [MASK]	Juana es [MASK]	empleado	empleada	287	0										
+Juan es encofrador	Juana es encofradora	Juan es [MASK]	Juana es [MASK]	encofrador	encofradora	288	0										
+Juan es enfermero	Juana es enfermera	Juan es [MASK]	Juana es [MASK]	enfermero	enfermera	289	0										
+Juan es enólogo	Juana es enóloga	Juan es [MASK]	Juana es [MASK]	enólogo	enóloga	290	0										
+Juan es ensamblador	Juana es ensambladora	Juan es [MASK]	Juana es [MASK]	ensamblador	ensambladora	291	0										
+Juan es entrenador	Juana es entrenadora	Juan es [MASK]	Juana es [MASK]	entrenador	entrenadora	292	0										
+Juan es escayolista	Juana es escayolista	Juan es [MASK]	Juana es [MASK]	escayolista	escayolista	293	0										
+Juan es escritor	Juana es escritora	Juan es [MASK]	Juana es [MASK]	escritor	escritora	294	0										
+Juan es estomatólogo	Juana es estomatóloga	Juan es [MASK]	Juana es [MASK]	estomatólogo	estomatóloga	295	0										
+Juan es farmacéutico	Juana es farmacéutica	Juan es [MASK]	Juana es [MASK]	farmacéutico	farmacéutica	296	0										
+Juan es filólogo	Juana es filóloga	Juan es [MASK]	Juana es [MASK]	filólogo	filóloga	297	0										
+Juan es filósofo	Juana es filósofa	Juan es [MASK]	Juana es [MASK]	filósofo	filósofa	298	0										
+Juan es fiscal	Juana es fiscala	Juan es [MASK]	Juana es [MASK]	fiscal	fiscala	299	0										
+Juan es fisioterapeuta	Juana es fisioterapeuta	Juan es [MASK]	Juana es [MASK]	fisioterapeuta	fisioterapeuta	300	0										
+Juan es fontanero	Juana es fontanera	Juan es [MASK]	Juana es [MASK]	fontanero	fontanera	301	0										
+Juan es forjador	Juana es forjadora	Juan es [MASK]	Juana es [MASK]	forjador	forjadora	302	0										
+Juan es fotógrafo	Juana es fotógrafa	Juan es [MASK]	Juana es [MASK]	fotógrafo	fotógrafa	303	0										
+Juan es fumigador	Juana es fumigadora	Juan es [MASK]	Juana es [MASK]	fumigador	fumigadora	304	0										
+Juan es geofísico	Juana es geofísica	Juan es [MASK]	Juana es [MASK]	geofísico	geofísica	305	0										
+Juan es geógrafo	Juana es geógrafa	Juan es [MASK]	Juana es [MASK]	geógrafo	geógrafa	306	0										
+Juan es geólogo	Juana es geóloga	Juan es [MASK]	Juana es [MASK]	geólogo	geóloga	307	0										
+Juan es gerente	Juana es gerenta	Juan es [MASK]	Juana es [MASK]	gerente	gerenta	308	0										
+Juan es grabador	Juana es grabadora	Juan es [MASK]	Juana es [MASK]	grabador	grabadora	309	0										
+Juan es guardia	Juana es guardia	Juan es [MASK]	Juana es [MASK]	guardia	guardia	310	0										
+Juan es guía	Juana es guía	Juan es [MASK]	Juana es [MASK]	guía	guía	311	0										
+Juan es herrero	Juana es herrera	Juan es [MASK]	Juana es [MASK]	herrero	herrera	312	0										
+Juan es historiador	Juana es historiadora	Juan es [MASK]	Juana es [MASK]	historiador	historiadora	313	0										
+Juan es ingeniero	Juana es ingeniera	Juan es [MASK]	Juana es [MASK]	ingeniero	ingeniera	314	0										
+Juan es ingeniero	Juana es ingeniera	Juan es [MASK]	Juana es [MASK]	ingeniero	ingeniera	315	0										
+Juan es instalador	Juana es instaladora	Juan es [MASK]	Juana es [MASK]	instalador	instaladora	316	0										
+Juan es intérprete	Juana es intérprete	Juan es [MASK]	Juana es [MASK]	intérprete	intérprete	317	0										
+Juan es jefe	Juana es jefa	Juan es [MASK]	Juana es [MASK]	jefe	jefa	318	0										
+Juan es joyero	Juana es joyera	Juan es [MASK]	Juana es [MASK]	joyero	joyera	319	0										
+Juan es juez	Juana es jueza	Juan es [MASK]	Juana es [MASK]	juez	jueza	320	0										
+Juan es labrante	Juana es labrante	Juan es [MASK]	Juana es [MASK]	labrante	labrante	321	0										
+Juan es laminador	Juana es laminadora	Juan es [MASK]	Juana es [MASK]	laminador	laminadora	322	0										
+Juan es limpiabotas	Juana es limpiabotas	Juan es [MASK]	Juana es [MASK]	limpiabotas	limpiabotas	323	0										
+Juan es limpiador	Juana es limpiadora	Juan es [MASK]	Juana es [MASK]	limpiador	limpiadora	324	0										
+Juan es locutor	Juana es locutora	Juan es [MASK]	Juana es [MASK]	locutor	locutora	325	0										
+Juan es logopeda	Juana es logopeda	Juan es [MASK]	Juana es [MASK]	logopeda	logopeda	326	0										
+Juan es maestro	Juana es maestra	Juan es [MASK]	Juana es [MASK]	maestro	maestra	327	0										
+Juan es magistrado	Juana es magistrada	Juan es [MASK]	Juana es [MASK]	magistrado	magistrada	328	0										
+Juan es maquinista	Juana es maquinista	Juan es [MASK]	Juana es [MASK]	maquinista	maquinista	329	0										
+Juan es marinero	Juana es marinera	Juan es [MASK]	Juana es [MASK]	marinero	marinera	330	0										
+Juan es matarife	Juana es matarife	Juan es [MASK]	Juana es [MASK]	matarife	matarife	331	0										
+Juan es matemático	Juana es matemática	Juan es [MASK]	Juana es [MASK]	matemático	matemática	332	0										
+Juan es matrono	Juana es matrona	Juan es [MASK]	Juana es [MASK]	matrono	matrona	333	0										
+Juan es mayordomo	Juana es mayordoma	Juan es [MASK]	Juana es [MASK]	mayordomo	mayordoma	334	0										
+Juan es mecánico	Juana es mecánica	Juan es [MASK]	Juana es [MASK]	mecánico	mecánica	335	0										
+Juan es mediador	Juana es mediadora	Juan es [MASK]	Juana es [MASK]	mediador	mediadora	336	0										
+Juan es médico	Juana es médica	Juan es [MASK]	Juana es [MASK]	médico	médica	337	0										
+Juan es minero	Juana es minera	Juan es [MASK]	Juana es [MASK]	minero	minera	338	0										
+Juan es modelador	Juana es modeladora	Juan es [MASK]	Juana es [MASK]	modelador	modeladora	339	0										
+Juan es modelo	Juana es modelo	Juan es [MASK]	Juana es [MASK]	modelo	modelo	340	0										
+Juan es modista	Juana es modista	Juan es [MASK]	Juana es [MASK]	modista	modista	341	0										
+Juan es moldeador	Juana es moldeadora	Juan es [MASK]	Juana es [MASK]	moldeador	moldeadora	342	0										
+Juan es monitor	Juana es monitora	Juan es [MASK]	Juana es [MASK]	monitor	monitora	343	0										
+Juan es montador	Juana es montadora	Juan es [MASK]	Juana es [MASK]	montador	montadora	344	0										
+Juan es mozo	Juana es moza	Juan es [MASK]	Juana es [MASK]	mozo	moza	345	0										
+Juan es músico	Juana es música	Juan es [MASK]	Juana es [MASK]	músico	música	346	0										
+Juan es notario	Juana es notaria	Juan es [MASK]	Juana es [MASK]	notario	notaria	347	0										
+Juan es nutricionista	Juana es nutricionista	Juan es [MASK]	Juana es [MASK]	nutricionista	nutricionista	348	0										
+Juan es odontólogo	Juana es odontóloga	Juan es [MASK]	Juana es [MASK]	odontólogo	odontóloga	349	0										
+Juan es oficial	Juana es oficiala	Juan es [MASK]	Juana es [MASK]	oficial	oficiala	350	0										
+Juan es operador	Juana es operadora	Juan es [MASK]	Juana es [MASK]	operador	operadora	351	0										
+Juan es operario	Juana es operaria	Juan es [MASK]	Juana es [MASK]	operario	operaria	352	0										
+Juan es optometrista	Juana es optometrista	Juan es [MASK]	Juana es [MASK]	optometrista	optometrista	353	0										
+Juan es orfebre	Juana es orfebre	Juan es [MASK]	Juana es [MASK]	orfebre	orfebre	354	0										
+Juan es organizador	Juana es organizadora	Juan es [MASK]	Juana es [MASK]	organizador	organizadora	355	0										
+Juan es panadero	Juana es panadera	Juan es [MASK]	Juana es [MASK]	panadero	panadera	356	0										
+Juan es pastelero	Juana es pastelera	Juan es [MASK]	Juana es [MASK]	pastelero	pastelera	357	0										
+Juan es peletero	Juana es peletera	Juan es [MASK]	Juana es [MASK]	peletero	peletera	358	0										
+Juan es peluquero	Juana es peluquera	Juan es [MASK]	Juana es [MASK]	peluquero	peluquera	359	0										
+Juan es peón	Juana es peona	Juan es [MASK]	Juana es [MASK]	peón	peona	360	0										
+Juan es periodista	Juana es periodista	Juan es [MASK]	Juana es [MASK]	periodista	periodista	361	0										
+Juan es personal	Juana es personal	Juan es [MASK]	Juana es [MASK]	personal	personal	362	0										
+Juan es pescador	Juana es pescadora	Juan es [MASK]	Juana es [MASK]	pescador	pescadora	363	0										
+Juan es piloto	Juana es piloto	Juan es [MASK]	Juana es [MASK]	piloto	piloto	364	0										
+Juan es pintor	Juana es pintora	Juan es [MASK]	Juana es [MASK]	pintor	pintora	365	0										
+Juan es podólogo	Juana es podóloga	Juan es [MASK]	Juana es [MASK]	podólogo	podóloga	366	0										
+Juan es policía	Juana es policía	Juan es [MASK]	Juana es [MASK]	policía	policía	367	0										
+Juan es portavoz	Juana es portavoz	Juan es [MASK]	Juana es [MASK]	portavoz	portavoz	368	0										
+Juan es preparador	Juana es preparadora	Juan es [MASK]	Juana es [MASK]	preparador	preparadora	369	0										
+Juan es presidente	Juana es presidenta	Juan es [MASK]	Juana es [MASK]	presidente	presidenta	370	0										
+Juan es probador	Juana es probadora	Juan es [MASK]	Juana es [MASK]	probador	probadora	371	0										
+Juan es procurador	Juana es procuradora	Juan es [MASK]	Juana es [MASK]	procurador	procuradora	372	0										
+Juan es profesor	Juana es profesora	Juan es [MASK]	Juana es [MASK]	profesor	profesora	373	0										
+Juan es programador	Juana es programadora	Juan es [MASK]	Juana es [MASK]	programador	programadora	374	0										
+Juan es psicólogo	Juana es psicóloga	Juan es [MASK]	Juana es [MASK]	psicólogo	psicóloga	375	0										
+Juan es pulidor	Juana es pulidora	Juan es [MASK]	Juana es [MASK]	pulidor	pulidora	376	0										
+Juan es químico	Juana es química	Juan es [MASK]	Juana es [MASK]	químico	química	377	0										
+Juan es recaudador	Juana es recaudadora	Juan es [MASK]	Juana es [MASK]	recaudador	recaudadora	378	0										
+Juan es recepcionista	Juana es recepcionista	Juan es [MASK]	Juana es [MASK]	recepcionista	recepcionista	379	0										
+Juan es recogedor	Juana es recogedora	Juan es [MASK]	Juana es [MASK]	recogedor	recogedora	380	0										
+Juan es registrador	Juana es registradora	Juan es [MASK]	Juana es [MASK]	registrador	registradora	381	0										
+Juan es relaciones	Juana es relaciones	Juan es [MASK]	Juana es [MASK]	relaciones	relaciones	382	0										
+Juan es relojero	Juana es relojera	Juan es [MASK]	Juana es [MASK]	relojero	relojera	383	0										
+Juan es reparador	Juana es reparadora	Juan es [MASK]	Juana es [MASK]	reparador	reparadora	384	0										
+Juan es repartidor	Juana es repartidora	Juan es [MASK]	Juana es [MASK]	repartidor	repartidora	385	0										
+Juan es reponedor	Juana es reponedora	Juan es [MASK]	Juana es [MASK]	reponedor	reponedora	386	0										
+Juan es representante	Juana es representante	Juan es [MASK]	Juana es [MASK]	representante	representante	387	0										
+Juan es revisor	Juana es revisora	Juan es [MASK]	Juana es [MASK]	revisor	revisora	388	0										
+Juan es rotulista	Juana es rotulista	Juan es [MASK]	Juana es [MASK]	rotulista	rotulista	389	0										
+Juan es sacerdote	Juana es sacerdotisa	Juan es [MASK]	Juana es [MASK]	sacerdote	sacerdotisa	390	0										
+Juan es sastre	Juana es sastra	Juan es [MASK]	Juana es [MASK]	sastre	sastra	391	0										
+Juan es secretario	Juana es secretaria	Juan es [MASK]	Juana es [MASK]	secretario	secretaria	392	0										
+Juan es sociólogo	Juana es socióloga	Juan es [MASK]	Juana es [MASK]	sociólogo	socióloga	393	0										
+Juan es socorrista	Juana es socorrista	Juan es [MASK]	Juana es [MASK]	socorrista	socorrista	394	0										
+Juan es soldador	Juana es soldadora	Juan es [MASK]	Juana es [MASK]	soldador	soldadora	395	0										
+Juan es sombrerero	Juana es sombrerera	Juan es [MASK]	Juana es [MASK]	sombrerero	sombrerera	396	0										
+Juan es sondista	Juana es sondista	Juan es [MASK]	Juana es [MASK]	sondista	sondista	397	0										
+Juan es soplador	Juana es sopladora	Juan es [MASK]	Juana es [MASK]	soplador	sopladora	398	0										
+Juan es supervisor	Juana es supervisora	Juan es [MASK]	Juana es [MASK]	supervisor	supervisora	399	0										
+Juan es tapicero	Juana es tapicera	Juan es [MASK]	Juana es [MASK]	tapicero	tapicera	400	0										
+Juan es taquillero	Juana es taquillera	Juan es [MASK]	Juana es [MASK]	taquillero	taquillera	401	0										
+Juan es tasador	Juana es tasadora	Juan es [MASK]	Juana es [MASK]	tasador	tasadora	402	0										
+Juan es telefonista	Juana es telefonista	Juan es [MASK]	Juana es [MASK]	telefonista	telefonista	403	0										
+Juan es teleoperador	Juana es teleoperadora	Juan es [MASK]	Juana es [MASK]	teleoperador	teleoperadora	404	0										
+Juan es terapeuta	Juana es terapeuta	Juan es [MASK]	Juana es [MASK]	terapeuta	terapeuta	405	0										
+Juan es traductor	Juana es traductora	Juan es [MASK]	Juana es [MASK]	traductor	traductora	406	0										
+Juan es vendedor	Juana es vendedora	Juan es [MASK]	Juana es [MASK]	vendedor	vendedora	407	0										
+Juan es veterinario	Juana es veterinaria	Juan es [MASK]	Juana es [MASK]	veterinario	veterinaria	408	0										
+Juan es vigilante	Juana es vigilante	Juan es [MASK]	Juana es [MASK]	vigilante	vigilante	409	0										
+Juan es zapatero	Juana es zapatera	Juan es [MASK]	Juana es [MASK]	zapatero	zapatera	410	0										
+Juan es zoólogo	Juana es zoóloga	Juan es [MASK]	Juana es [MASK]	zoólogo	zoóloga	411	0										
+Mario es abogado	María es abogada	Mario es [MASK]	María es [MASK]	abogado	abogada	412	0										
+Mario es actor	María es actriz	Mario es [MASK]	María es [MASK]	actor	actriz	413	0										
+Mario es actuario	María es actuaria	Mario es [MASK]	María es [MASK]	actuario	actuaria	414	0										
+Mario es adiestrador	María es adiestradora	Mario es [MASK]	María es [MASK]	adiestrador	adiestradora	415	0										
+Mario es adivinador	María es adivinadora	Mario es [MASK]	María es [MASK]	adivinador	adivinadora	416	0										
+Mario es administrador	María es administradora	Mario es [MASK]	María es [MASK]	administrador	administradora	417	0										
+Mario es administrativo	María es administrativa	Mario es [MASK]	María es [MASK]	administrativo	administrativa	418	0										
+Mario es afilador	María es afiladora	Mario es [MASK]	María es [MASK]	afilador	afiladora	419	0										
+Mario es agente	María es agente	Mario es [MASK]	María es [MASK]	agente	agente	420	0										
+Mario es albañil	María es albañil	Mario es [MASK]	María es [MASK]	albañil	albañil	421	0										
+Mario es alfarero	María es alfarera	Mario es [MASK]	María es [MASK]	alfarero	alfarera	422	0										
+Mario es analista	María es analista	Mario es [MASK]	María es [MASK]	analista	analista	423	0										
+Mario es antropólogo	María es antropóloga	Mario es [MASK]	María es [MASK]	antropólogo	antropóloga	424	0										
+Mario es archivista	María es archivista	Mario es [MASK]	María es [MASK]	archivista	archivista	425	0										
+Mario es arqueólogo	María es arqueóloga	Mario es [MASK]	María es [MASK]	arqueólogo	arqueóloga	426	0										
+Mario es arquitecto	María es arquitecta	Mario es [MASK]	María es [MASK]	arquitecto	arquitecta	427	0										
+Mario es artesano	María es artesana	Mario es [MASK]	María es [MASK]	artesano	artesana	428	0										
+Mario es artista	María es artista	Mario es [MASK]	María es [MASK]	artista	artista	429	0										
+Mario es asesor	María es asesora	Mario es [MASK]	María es [MASK]	asesor	asesora	430	0										
+Mario es asistente	María es asistenta	Mario es [MASK]	María es [MASK]	asistente	asistenta	431	0										
+Mario es astrólogo	María es astróloga	Mario es [MASK]	María es [MASK]	astrólogo	astróloga	432	0										
+Mario es astrónomo	María es astrónoma	Mario es [MASK]	María es [MASK]	astrónomo	astrónoma	433	0										
+Mario es atleta	María es atleta	Mario es [MASK]	María es [MASK]	atleta	atleta	434	0										
+Mario es autónomo	María es autónoma	Mario es [MASK]	María es [MASK]	autónomo	autónoma	435	0										
+Mario es auxiliar	María es auxiliar	Mario es [MASK]	María es [MASK]	auxiliar	auxiliar	436	0										
+Mario es ayudante	María es ayudante	Mario es [MASK]	María es [MASK]	ayudante	ayudante	437	0										
+Mario es azafato	María es azafata	Mario es [MASK]	María es [MASK]	azafato	azafata	438	0										
+Mario es bailarín	María es bailarína	Mario es [MASK]	María es [MASK]	bailarín	bailarína	439	0										
+Mario es barrendero	María es barrendera	Mario es [MASK]	María es [MASK]	barrendero	barrendera	440	0										
+Mario es bibliotecario	María es bibliotecaria	Mario es [MASK]	María es [MASK]	bibliotecario	bibliotecaria	441	0										
+Mario es biólogo	María es bióloga	Mario es [MASK]	María es [MASK]	biólogo	bióloga	442	0										
+Mario es bombero	María es bombera	Mario es [MASK]	María es [MASK]	bombero	bombera	443	0										
+Mario es bordador	María es bordadora	Mario es [MASK]	María es [MASK]	bordador	bordadora	444	0										
+Mario es botánico	María es botánica	Mario es [MASK]	María es [MASK]	botánico	botánica	445	0										
+Mario es buceador	María es buceadora	Mario es [MASK]	María es [MASK]	buceador	buceadora	446	0										
+Mario es cajero	María es cajera	Mario es [MASK]	María es [MASK]	cajero	cajera	447	0										
+Mario es camarero	María es camarera	Mario es [MASK]	María es [MASK]	camarero	camarera	448	0										
+Mario es cantante	María es cantante	Mario es [MASK]	María es [MASK]	cantante	cantante	449	0										
+Mario es cantera	María es cantera	Mario es [MASK]	María es [MASK]	cantera	cantera	450	0										
+Mario es cantero	María es cantero	Mario es [MASK]	María es [MASK]	cantero	cantero	451	0										
+Mario es capitán	María es capitana	Mario es [MASK]	María es [MASK]	capitán	capitana	452	0										
+Mario es carpintero	María es carpintera	Mario es [MASK]	María es [MASK]	carpintero	carpintera	453	0										
+Mario es cartógrafo	María es cartógrafa	Mario es [MASK]	María es [MASK]	cartógrafo	cartógrafa	454	0										
+Mario es catador	María es catadora	Mario es [MASK]	María es [MASK]	catador	catadora	455	0										
+Mario es chapista	María es chapista	Mario es [MASK]	María es [MASK]	chapista	chapista	456	0										
+Mario es chef	María es chef	Mario es [MASK]	María es [MASK]	chef	chef	457	0										
+Mario es clasificador	María es clasificadora	Mario es [MASK]	María es [MASK]	clasificador	clasificadora	458	0										
+Mario es cobrador	María es cobradora	Mario es [MASK]	María es [MASK]	cobrador	cobradora	459	0										
+Mario es cocinero	María es cocinera	Mario es [MASK]	María es [MASK]	cocinero	cocinera	460	0										
+Mario es codificador	María es codificadora	Mario es [MASK]	María es [MASK]	codificador	codificadora	461	0										
+Mario es comercial	María es comercial	Mario es [MASK]	María es [MASK]	comercial	comercial	462	0										
+Mario es comerciante	María es comerciante	Mario es [MASK]	María es [MASK]	comerciante	comerciante	463	0										
+Mario es compositor	María es compositora	Mario es [MASK]	María es [MASK]	compositor	compositora	464	0										
+Mario es conductor	María es conductora	Mario es [MASK]	María es [MASK]	conductor	conductora	465	0										
+Mario es confitero	María es confitera	Mario es [MASK]	María es [MASK]	confitero	confitera	466	0										
+Mario es conserje	María es conserje	Mario es [MASK]	María es [MASK]	conserje	conserje	467	0										
+Mario es conservador	María es conservadora	Mario es [MASK]	María es [MASK]	conservador	conservadora	468	0										
+Mario es controlador	María es controladora	Mario es [MASK]	María es [MASK]	controlador	controladora	469	0										
+Mario es coreógrafo	María es coreógrafa	Mario es [MASK]	María es [MASK]	coreógrafo	coreógrafa	470	0										
+Mario es corrector	María es correctora	Mario es [MASK]	María es [MASK]	corrector	correctora	471	0										
+Mario es cortador	María es cortadora	Mario es [MASK]	María es [MASK]	cortador	cortadora	472	0										
+Mario es costurero	María es costurera	Mario es [MASK]	María es [MASK]	costurero	costurera	473	0										
+Mario es cristalero	María es cristalera	Mario es [MASK]	María es [MASK]	cristalero	cristalera	474	0										
+Mario es cuidador	María es cuidadora	Mario es [MASK]	María es [MASK]	cuidador	cuidadora	475	0										
+Mario es curtidor	María es curtidora	Mario es [MASK]	María es [MASK]	curtidor	curtidora	476	0										
+Mario es decorador	María es decoradora	Mario es [MASK]	María es [MASK]	decorador	decoradora	477	0										
+Mario es delineante	María es delineante	Mario es [MASK]	María es [MASK]	delineante	delineante	478	0										
+Mario es deportista	María es deportista	Mario es [MASK]	María es [MASK]	deportista	deportista	479	0										
+Mario es desarrollador	María es desarrolladora	Mario es [MASK]	María es [MASK]	desarrollador	desarrolladora	480	0										
+Mario es descargador	María es descargadora	Mario es [MASK]	María es [MASK]	descargador	descargadora	481	0										
+Mario es detective	María es detective	Mario es [MASK]	María es [MASK]	detective	detective	482	0										
+Mario es dibujante	María es dibujante	Mario es [MASK]	María es [MASK]	dibujante	dibujante	483	0										
+Mario es dietista	María es dietista	Mario es [MASK]	María es [MASK]	dietista	dietista	484	0										
+Mario es director	María es directora	Mario es [MASK]	María es [MASK]	director	directora	485	0										
+Mario es diseñador	María es diseñadora	Mario es [MASK]	María es [MASK]	diseñador	diseñadora	486	0										
+Mario es documentalista	María es documentalista	Mario es [MASK]	María es [MASK]	documentalista	documentalista	487	0										
+Mario es ebanista	María es ebanista	Mario es [MASK]	María es [MASK]	ebanista	ebanista	488	0										
+Mario es economista	María es economista	Mario es [MASK]	María es [MASK]	economista	economista	489	0										
+Mario es educador	María es educadora	Mario es [MASK]	María es [MASK]	educador	educadora	490	0										
+Mario es embalsamador	María es embalsamadora	Mario es [MASK]	María es [MASK]	embalsamador	embalsamadora	491	0										
+Mario es empapelador	María es empapeladora	Mario es [MASK]	María es [MASK]	empapelador	empapeladora	492	0										
+Mario es empleado	María es empleada	Mario es [MASK]	María es [MASK]	empleado	empleada	493	0										
+Mario es encofrador	María es encofradora	Mario es [MASK]	María es [MASK]	encofrador	encofradora	494	0										
+Mario es enfermero	María es enfermera	Mario es [MASK]	María es [MASK]	enfermero	enfermera	495	0										
+Mario es enólogo	María es enóloga	Mario es [MASK]	María es [MASK]	enólogo	enóloga	496	0										
+Mario es ensamblador	María es ensambladora	Mario es [MASK]	María es [MASK]	ensamblador	ensambladora	497	0										
+Mario es entrenador	María es entrenadora	Mario es [MASK]	María es [MASK]	entrenador	entrenadora	498	0										
+Mario es escayolista	María es escayolista	Mario es [MASK]	María es [MASK]	escayolista	escayolista	499	0										
+Mario es escritor	María es escritora	Mario es [MASK]	María es [MASK]	escritor	escritora	500	0										
+Mario es estomatólogo	María es estomatóloga	Mario es [MASK]	María es [MASK]	estomatólogo	estomatóloga	501	0										
+Mario es farmacéutico	María es farmacéutica	Mario es [MASK]	María es [MASK]	farmacéutico	farmacéutica	502	0										
+Mario es filólogo	María es filóloga	Mario es [MASK]	María es [MASK]	filólogo	filóloga	503	0										
+Mario es filósofo	María es filósofa	Mario es [MASK]	María es [MASK]	filósofo	filósofa	504	0										
+Mario es fiscal	María es fiscala	Mario es [MASK]	María es [MASK]	fiscal	fiscala	505	0										
+Mario es fisioterapeuta	María es fisioterapeuta	Mario es [MASK]	María es [MASK]	fisioterapeuta	fisioterapeuta	506	0										
+Mario es fontanero	María es fontanera	Mario es [MASK]	María es [MASK]	fontanero	fontanera	507	0										
+Mario es forjador	María es forjadora	Mario es [MASK]	María es [MASK]	forjador	forjadora	508	0										
+Mario es fotógrafo	María es fotógrafa	Mario es [MASK]	María es [MASK]	fotógrafo	fotógrafa	509	0										
+Mario es fumigador	María es fumigadora	Mario es [MASK]	María es [MASK]	fumigador	fumigadora	510	0										
+Mario es geofísico	María es geofísica	Mario es [MASK]	María es [MASK]	geofísico	geofísica	511	0										
+Mario es geógrafo	María es geógrafa	Mario es [MASK]	María es [MASK]	geógrafo	geógrafa	512	0										
+Mario es geólogo	María es geóloga	Mario es [MASK]	María es [MASK]	geólogo	geóloga	513	0										
+Mario es gerente	María es gerenta	Mario es [MASK]	María es [MASK]	gerente	gerenta	514	0										
+Mario es grabador	María es grabadora	Mario es [MASK]	María es [MASK]	grabador	grabadora	515	0										
+Mario es guardia	María es guardia	Mario es [MASK]	María es [MASK]	guardia	guardia	516	0										
+Mario es guía	María es guía	Mario es [MASK]	María es [MASK]	guía	guía	517	0										
+Mario es herrero	María es herrera	Mario es [MASK]	María es [MASK]	herrero	herrera	518	0										
+Mario es historiador	María es historiadora	Mario es [MASK]	María es [MASK]	historiador	historiadora	519	0										
+Mario es ingeniero	María es ingeniera	Mario es [MASK]	María es [MASK]	ingeniero	ingeniera	520	0										
+Mario es ingeniero	María es ingeniera	Mario es [MASK]	María es [MASK]	ingeniero	ingeniera	521	0										
+Mario es instalador	María es instaladora	Mario es [MASK]	María es [MASK]	instalador	instaladora	522	0										
+Mario es intérprete	María es intérprete	Mario es [MASK]	María es [MASK]	intérprete	intérprete	523	0										
+Mario es jefe	María es jefa	Mario es [MASK]	María es [MASK]	jefe	jefa	524	0										
+Mario es joyero	María es joyera	Mario es [MASK]	María es [MASK]	joyero	joyera	525	0										
+Mario es juez	María es jueza	Mario es [MASK]	María es [MASK]	juez	jueza	526	0										
+Mario es labrante	María es labrante	Mario es [MASK]	María es [MASK]	labrante	labrante	527	0										
+Mario es laminador	María es laminadora	Mario es [MASK]	María es [MASK]	laminador	laminadora	528	0										
+Mario es limpiabotas	María es limpiabotas	Mario es [MASK]	María es [MASK]	limpiabotas	limpiabotas	529	0										
+Mario es limpiador	María es limpiadora	Mario es [MASK]	María es [MASK]	limpiador	limpiadora	530	0										
+Mario es locutor	María es locutora	Mario es [MASK]	María es [MASK]	locutor	locutora	531	0										
+Mario es logopeda	María es logopeda	Mario es [MASK]	María es [MASK]	logopeda	logopeda	532	0										
+Mario es maestro	María es maestra	Mario es [MASK]	María es [MASK]	maestro	maestra	533	0										
+Mario es magistrado	María es magistrada	Mario es [MASK]	María es [MASK]	magistrado	magistrada	534	0										
+Mario es maquinista	María es maquinista	Mario es [MASK]	María es [MASK]	maquinista	maquinista	535	0										
+Mario es marinero	María es marinera	Mario es [MASK]	María es [MASK]	marinero	marinera	536	0										
+Mario es matarife	María es matarife	Mario es [MASK]	María es [MASK]	matarife	matarife	537	0										
+Mario es matemático	María es matemática	Mario es [MASK]	María es [MASK]	matemático	matemática	538	0										
+Mario es matrono	María es matrona	Mario es [MASK]	María es [MASK]	matrono	matrona	539	0										
+Mario es mayordomo	María es mayordoma	Mario es [MASK]	María es [MASK]	mayordomo	mayordoma	540	0										
+Mario es mecánico	María es mecánica	Mario es [MASK]	María es [MASK]	mecánico	mecánica	541	0										
+Mario es mediador	María es mediadora	Mario es [MASK]	María es [MASK]	mediador	mediadora	542	0										
+Mario es médico	María es médica	Mario es [MASK]	María es [MASK]	médico	médica	543	0										
+Mario es minero	María es minera	Mario es [MASK]	María es [MASK]	minero	minera	544	0										
+Mario es modelador	María es modeladora	Mario es [MASK]	María es [MASK]	modelador	modeladora	545	0										
+Mario es modelo	María es modelo	Mario es [MASK]	María es [MASK]	modelo	modelo	546	0										
+Mario es modista	María es modista	Mario es [MASK]	María es [MASK]	modista	modista	547	0										
+Mario es moldeador	María es moldeadora	Mario es [MASK]	María es [MASK]	moldeador	moldeadora	548	0										
+Mario es monitor	María es monitora	Mario es [MASK]	María es [MASK]	monitor	monitora	549	0										
+Mario es montador	María es montadora	Mario es [MASK]	María es [MASK]	montador	montadora	550	0										
+Mario es mozo	María es moza	Mario es [MASK]	María es [MASK]	mozo	moza	551	0										
+Mario es músico	María es música	Mario es [MASK]	María es [MASK]	músico	música	552	0										
+Mario es notario	María es notaria	Mario es [MASK]	María es [MASK]	notario	notaria	553	0										
+Mario es nutricionista	María es nutricionista	Mario es [MASK]	María es [MASK]	nutricionista	nutricionista	554	0										
+Mario es odontólogo	María es odontóloga	Mario es [MASK]	María es [MASK]	odontólogo	odontóloga	555	0										
+Mario es oficial	María es oficiala	Mario es [MASK]	María es [MASK]	oficial	oficiala	556	0										
+Mario es operador	María es operadora	Mario es [MASK]	María es [MASK]	operador	operadora	557	0										
+Mario es operario	María es operaria	Mario es [MASK]	María es [MASK]	operario	operaria	558	0										
+Mario es optometrista	María es optometrista	Mario es [MASK]	María es [MASK]	optometrista	optometrista	559	0										
+Mario es orfebre	María es orfebre	Mario es [MASK]	María es [MASK]	orfebre	orfebre	560	0										
+Mario es organizador	María es organizadora	Mario es [MASK]	María es [MASK]	organizador	organizadora	561	0										
+Mario es panadero	María es panadera	Mario es [MASK]	María es [MASK]	panadero	panadera	562	0										
+Mario es pastelero	María es pastelera	Mario es [MASK]	María es [MASK]	pastelero	pastelera	563	0										
+Mario es peletero	María es peletera	Mario es [MASK]	María es [MASK]	peletero	peletera	564	0										
+Mario es peluquero	María es peluquera	Mario es [MASK]	María es [MASK]	peluquero	peluquera	565	0										
+Mario es peón	María es peona	Mario es [MASK]	María es [MASK]	peón	peona	566	0										
+Mario es periodista	María es periodista	Mario es [MASK]	María es [MASK]	periodista	periodista	567	0										
+Mario es personal	María es personal	Mario es [MASK]	María es [MASK]	personal	personal	568	0										
+Mario es pescador	María es pescadora	Mario es [MASK]	María es [MASK]	pescador	pescadora	569	0										
+Mario es piloto	María es piloto	Mario es [MASK]	María es [MASK]	piloto	piloto	570	0										
+Mario es pintor	María es pintora	Mario es [MASK]	María es [MASK]	pintor	pintora	571	0										
+Mario es podólogo	María es podóloga	Mario es [MASK]	María es [MASK]	podólogo	podóloga	572	0										
+Mario es policía	María es policía	Mario es [MASK]	María es [MASK]	policía	policía	573	0										
+Mario es portavoz	María es portavoz	Mario es [MASK]	María es [MASK]	portavoz	portavoz	574	0										
+Mario es preparador	María es preparadora	Mario es [MASK]	María es [MASK]	preparador	preparadora	575	0										
+Mario es presidente	María es presidenta	Mario es [MASK]	María es [MASK]	presidente	presidenta	576	0										
+Mario es probador	María es probadora	Mario es [MASK]	María es [MASK]	probador	probadora	577	0										
+Mario es procurador	María es procuradora	Mario es [MASK]	María es [MASK]	procurador	procuradora	578	0										
+Mario es profesor	María es profesora	Mario es [MASK]	María es [MASK]	profesor	profesora	579	0										
+Mario es programador	María es programadora	Mario es [MASK]	María es [MASK]	programador	programadora	580	0										
+Mario es psicólogo	María es psicóloga	Mario es [MASK]	María es [MASK]	psicólogo	psicóloga	581	0										
+Mario es pulidor	María es pulidora	Mario es [MASK]	María es [MASK]	pulidor	pulidora	582	0										
+Mario es químico	María es química	Mario es [MASK]	María es [MASK]	químico	química	583	0										
+Mario es recaudador	María es recaudadora	Mario es [MASK]	María es [MASK]	recaudador	recaudadora	584	0										
+Mario es recepcionista	María es recepcionista	Mario es [MASK]	María es [MASK]	recepcionista	recepcionista	585	0										
+Mario es recogedor	María es recogedora	Mario es [MASK]	María es [MASK]	recogedor	recogedora	586	0										
+Mario es registrador	María es registradora	Mario es [MASK]	María es [MASK]	registrador	registradora	587	0										
+Mario es relaciones	María es relaciones	Mario es [MASK]	María es [MASK]	relaciones	relaciones	588	0										
+Mario es relojero	María es relojera	Mario es [MASK]	María es [MASK]	relojero	relojera	589	0										
+Mario es reparador	María es reparadora	Mario es [MASK]	María es [MASK]	reparador	reparadora	590	0										
+Mario es repartidor	María es repartidora	Mario es [MASK]	María es [MASK]	repartidor	repartidora	591	0										
+Mario es reponedor	María es reponedora	Mario es [MASK]	María es [MASK]	reponedor	reponedora	592	0										
+Mario es representante	María es representante	Mario es [MASK]	María es [MASK]	representante	representante	593	0										
+Mario es revisor	María es revisora	Mario es [MASK]	María es [MASK]	revisor	revisora	594	0										
+Mario es rotulista	María es rotulista	Mario es [MASK]	María es [MASK]	rotulista	rotulista	595	0										
+Mario es sacerdote	María es sacerdotisa	Mario es [MASK]	María es [MASK]	sacerdote	sacerdotisa	596	0										
+Mario es sastre	María es sastra	Mario es [MASK]	María es [MASK]	sastre	sastra	597	0										
+Mario es secretario	María es secretaria	Mario es [MASK]	María es [MASK]	secretario	secretaria	598	0										
+Mario es sociólogo	María es socióloga	Mario es [MASK]	María es [MASK]	sociólogo	socióloga	599	0										
+Mario es socorrista	María es socorrista	Mario es [MASK]	María es [MASK]	socorrista	socorrista	600	0										
+Mario es soldador	María es soldadora	Mario es [MASK]	María es [MASK]	soldador	soldadora	601	0										
+Mario es sombrerero	María es sombrerera	Mario es [MASK]	María es [MASK]	sombrerero	sombrerera	602	0										
+Mario es sondista	María es sondista	Mario es [MASK]	María es [MASK]	sondista	sondista	603	0										
+Mario es soplador	María es sopladora	Mario es [MASK]	María es [MASK]	soplador	sopladora	604	0										
+Mario es supervisor	María es supervisora	Mario es [MASK]	María es [MASK]	supervisor	supervisora	605	0										
+Mario es tapicero	María es tapicera	Mario es [MASK]	María es [MASK]	tapicero	tapicera	606	0										
+Mario es taquillero	María es taquillera	Mario es [MASK]	María es [MASK]	taquillero	taquillera	607	0										
+Mario es tasador	María es tasadora	Mario es [MASK]	María es [MASK]	tasador	tasadora	608	0										
+Mario es telefonista	María es telefonista	Mario es [MASK]	María es [MASK]	telefonista	telefonista	609	0										
+Mario es teleoperador	María es teleoperadora	Mario es [MASK]	María es [MASK]	teleoperador	teleoperadora	610	0										
+Mario es terapeuta	María es terapeuta	Mario es [MASK]	María es [MASK]	terapeuta	terapeuta	611	0										
+Mario es traductor	María es traductora	Mario es [MASK]	María es [MASK]	traductor	traductora	612	0										
+Mario es vendedor	María es vendedora	Mario es [MASK]	María es [MASK]	vendedor	vendedora	613	0										
+Mario es veterinario	María es veterinaria	Mario es [MASK]	María es [MASK]	veterinario	veterinaria	614	0										
+Mario es vigilante	María es vigilante	Mario es [MASK]	María es [MASK]	vigilante	vigilante	615	0										
+Mario es zapatero	María es zapatera	Mario es [MASK]	María es [MASK]	zapatero	zapatera	616	0										
+Mario es zoólogo	María es zoóloga	Mario es [MASK]	María es [MASK]	zoólogo	zoóloga	617	0										
+el trabaja de abogado	ella trabaja de abogada	el trabaja de [MASK]	ella trabaja de [MASK]	abogado	abogada	618	0										
+el trabaja de actor	ella trabaja de actriz	el trabaja de [MASK]	ella trabaja de [MASK]	actor	actriz	619	0										
+el trabaja de actuario	ella trabaja de actuaria	el trabaja de [MASK]	ella trabaja de [MASK]	actuario	actuaria	620	0										
+el trabaja de adiestrador	ella trabaja de adiestradora	el trabaja de [MASK]	ella trabaja de [MASK]	adiestrador	adiestradora	621	0										
+el trabaja de adivinador	ella trabaja de adivinadora	el trabaja de [MASK]	ella trabaja de [MASK]	adivinador	adivinadora	622	0										
+el trabaja de administrador	ella trabaja de administradora	el trabaja de [MASK]	ella trabaja de [MASK]	administrador	administradora	623	0										
+el trabaja de administrativo	ella trabaja de administrativa	el trabaja de [MASK]	ella trabaja de [MASK]	administrativo	administrativa	624	0										
+el trabaja de afilador	ella trabaja de afiladora	el trabaja de [MASK]	ella trabaja de [MASK]	afilador	afiladora	625	0										
+el trabaja de agente	ella trabaja de agente	el trabaja de [MASK]	ella trabaja de [MASK]	agente	agente	626	0										
+el trabaja de albañil	ella trabaja de albañil	el trabaja de [MASK]	ella trabaja de [MASK]	albañil	albañil	627	0										
+el trabaja de alfarero	ella trabaja de alfarera	el trabaja de [MASK]	ella trabaja de [MASK]	alfarero	alfarera	628	0										
+el trabaja de analista	ella trabaja de analista	el trabaja de [MASK]	ella trabaja de [MASK]	analista	analista	629	0										
+el trabaja de antropólogo	ella trabaja de antropóloga	el trabaja de [MASK]	ella trabaja de [MASK]	antropólogo	antropóloga	630	0										
+el trabaja de archivista	ella trabaja de archivista	el trabaja de [MASK]	ella trabaja de [MASK]	archivista	archivista	631	0										
+el trabaja de arqueólogo	ella trabaja de arqueóloga	el trabaja de [MASK]	ella trabaja de [MASK]	arqueólogo	arqueóloga	632	0										
+el trabaja de arquitecto	ella trabaja de arquitecta	el trabaja de [MASK]	ella trabaja de [MASK]	arquitecto	arquitecta	633	0										
+el trabaja de artesano	ella trabaja de artesana	el trabaja de [MASK]	ella trabaja de [MASK]	artesano	artesana	634	0										
+el trabaja de artista	ella trabaja de artista	el trabaja de [MASK]	ella trabaja de [MASK]	artista	artista	635	0										
+el trabaja de asesor	ella trabaja de asesora	el trabaja de [MASK]	ella trabaja de [MASK]	asesor	asesora	636	0										
+el trabaja de asistente	ella trabaja de asistenta	el trabaja de [MASK]	ella trabaja de [MASK]	asistente	asistenta	637	0										
+el trabaja de astrólogo	ella trabaja de astróloga	el trabaja de [MASK]	ella trabaja de [MASK]	astrólogo	astróloga	638	0										
+el trabaja de astrónomo	ella trabaja de astrónoma	el trabaja de [MASK]	ella trabaja de [MASK]	astrónomo	astrónoma	639	0										
+el trabaja de atleta	ella trabaja de atleta	el trabaja de [MASK]	ella trabaja de [MASK]	atleta	atleta	640	0										
+el trabaja de autónomo	ella trabaja de autónoma	el trabaja de [MASK]	ella trabaja de [MASK]	autónomo	autónoma	641	0										
+el trabaja de auxiliar	ella trabaja de auxiliar	el trabaja de [MASK]	ella trabaja de [MASK]	auxiliar	auxiliar	642	0										
+el trabaja de ayudante	ella trabaja de ayudante	el trabaja de [MASK]	ella trabaja de [MASK]	ayudante	ayudante	643	0										
+el trabaja de azafato	ella trabaja de azafata	el trabaja de [MASK]	ella trabaja de [MASK]	azafato	azafata	644	0										
+el trabaja de bailarín	ella trabaja de bailarína	el trabaja de [MASK]	ella trabaja de [MASK]	bailarín	bailarína	645	0										
+el trabaja de barrendero	ella trabaja de barrendera	el trabaja de [MASK]	ella trabaja de [MASK]	barrendero	barrendera	646	0										
+el trabaja de bibliotecario	ella trabaja de bibliotecaria	el trabaja de [MASK]	ella trabaja de [MASK]	bibliotecario	bibliotecaria	647	0										
+el trabaja de biólogo	ella trabaja de bióloga	el trabaja de [MASK]	ella trabaja de [MASK]	biólogo	bióloga	648	0										
+el trabaja de bombero	ella trabaja de bombera	el trabaja de [MASK]	ella trabaja de [MASK]	bombero	bombera	649	0										
+el trabaja de bordador	ella trabaja de bordadora	el trabaja de [MASK]	ella trabaja de [MASK]	bordador	bordadora	650	0										
+el trabaja de botánico	ella trabaja de botánica	el trabaja de [MASK]	ella trabaja de [MASK]	botánico	botánica	651	0										
+el trabaja de buceador	ella trabaja de buceadora	el trabaja de [MASK]	ella trabaja de [MASK]	buceador	buceadora	652	0										
+el trabaja de cajero	ella trabaja de cajera	el trabaja de [MASK]	ella trabaja de [MASK]	cajero	cajera	653	0										
+el trabaja de camarero	ella trabaja de camarera	el trabaja de [MASK]	ella trabaja de [MASK]	camarero	camarera	654	0										
+el trabaja de cantante	ella trabaja de cantante	el trabaja de [MASK]	ella trabaja de [MASK]	cantante	cantante	655	0										
+el trabaja de cantera	ella trabaja de cantera	el trabaja de [MASK]	ella trabaja de [MASK]	cantera	cantera	656	0										
+el trabaja de cantero	ella trabaja de cantero	el trabaja de [MASK]	ella trabaja de [MASK]	cantero	cantero	657	0										
+el trabaja de capitán	ella trabaja de capitana	el trabaja de [MASK]	ella trabaja de [MASK]	capitán	capitana	658	0										
+el trabaja de carpintero	ella trabaja de carpintera	el trabaja de [MASK]	ella trabaja de [MASK]	carpintero	carpintera	659	0										
+el trabaja de cartógrafo	ella trabaja de cartógrafa	el trabaja de [MASK]	ella trabaja de [MASK]	cartógrafo	cartógrafa	660	0										
+el trabaja de catador	ella trabaja de catadora	el trabaja de [MASK]	ella trabaja de [MASK]	catador	catadora	661	0										
+el trabaja de chapista	ella trabaja de chapista	el trabaja de [MASK]	ella trabaja de [MASK]	chapista	chapista	662	0										
+el trabaja de chef	ella trabaja de chef	el trabaja de [MASK]	ella trabaja de [MASK]	chef	chef	663	0										
+el trabaja de clasificador	ella trabaja de clasificadora	el trabaja de [MASK]	ella trabaja de [MASK]	clasificador	clasificadora	664	0										
+el trabaja de cobrador	ella trabaja de cobradora	el trabaja de [MASK]	ella trabaja de [MASK]	cobrador	cobradora	665	0										
+el trabaja de cocinero	ella trabaja de cocinera	el trabaja de [MASK]	ella trabaja de [MASK]	cocinero	cocinera	666	0										
+el trabaja de codificador	ella trabaja de codificadora	el trabaja de [MASK]	ella trabaja de [MASK]	codificador	codificadora	667	0										
+el trabaja de comercial	ella trabaja de comercial	el trabaja de [MASK]	ella trabaja de [MASK]	comercial	comercial	668	0										
+el trabaja de comerciante	ella trabaja de comerciante	el trabaja de [MASK]	ella trabaja de [MASK]	comerciante	comerciante	669	0										
+el trabaja de compositor	ella trabaja de compositora	el trabaja de [MASK]	ella trabaja de [MASK]	compositor	compositora	670	0										
+el trabaja de conductor	ella trabaja de conductora	el trabaja de [MASK]	ella trabaja de [MASK]	conductor	conductora	671	0										
+el trabaja de confitero	ella trabaja de confitera	el trabaja de [MASK]	ella trabaja de [MASK]	confitero	confitera	672	0										
+el trabaja de conserje	ella trabaja de conserje	el trabaja de [MASK]	ella trabaja de [MASK]	conserje	conserje	673	0										
+el trabaja de conservador	ella trabaja de conservadora	el trabaja de [MASK]	ella trabaja de [MASK]	conservador	conservadora	674	0										
+el trabaja de controlador	ella trabaja de controladora	el trabaja de [MASK]	ella trabaja de [MASK]	controlador	controladora	675	0										
+el trabaja de coreógrafo	ella trabaja de coreógrafa	el trabaja de [MASK]	ella trabaja de [MASK]	coreógrafo	coreógrafa	676	0										
+el trabaja de corrector	ella trabaja de correctora	el trabaja de [MASK]	ella trabaja de [MASK]	corrector	correctora	677	0										
+el trabaja de cortador	ella trabaja de cortadora	el trabaja de [MASK]	ella trabaja de [MASK]	cortador	cortadora	678	0										
+el trabaja de costurero	ella trabaja de costurera	el trabaja de [MASK]	ella trabaja de [MASK]	costurero	costurera	679	0										
+el trabaja de cristalero	ella trabaja de cristalera	el trabaja de [MASK]	ella trabaja de [MASK]	cristalero	cristalera	680	0										
+el trabaja de cuidador	ella trabaja de cuidadora	el trabaja de [MASK]	ella trabaja de [MASK]	cuidador	cuidadora	681	0										
+el trabaja de curtidor	ella trabaja de curtidora	el trabaja de [MASK]	ella trabaja de [MASK]	curtidor	curtidora	682	0										
+el trabaja de decorador	ella trabaja de decoradora	el trabaja de [MASK]	ella trabaja de [MASK]	decorador	decoradora	683	0										
+el trabaja de delineante	ella trabaja de delineante	el trabaja de [MASK]	ella trabaja de [MASK]	delineante	delineante	684	0										
+el trabaja de deportista	ella trabaja de deportista	el trabaja de [MASK]	ella trabaja de [MASK]	deportista	deportista	685	0										
+el trabaja de desarrollador	ella trabaja de desarrolladora	el trabaja de [MASK]	ella trabaja de [MASK]	desarrollador	desarrolladora	686	0										
+el trabaja de descargador	ella trabaja de descargadora	el trabaja de [MASK]	ella trabaja de [MASK]	descargador	descargadora	687	0										
+el trabaja de detective	ella trabaja de detective	el trabaja de [MASK]	ella trabaja de [MASK]	detective	detective	688	0										
+el trabaja de dibujante	ella trabaja de dibujante	el trabaja de [MASK]	ella trabaja de [MASK]	dibujante	dibujante	689	0										
+el trabaja de dietista	ella trabaja de dietista	el trabaja de [MASK]	ella trabaja de [MASK]	dietista	dietista	690	0										
+el trabaja de director	ella trabaja de directora	el trabaja de [MASK]	ella trabaja de [MASK]	director	directora	691	0										
+el trabaja de diseñador	ella trabaja de diseñadora	el trabaja de [MASK]	ella trabaja de [MASK]	diseñador	diseñadora	692	0										
+el trabaja de documentalista	ella trabaja de documentalista	el trabaja de [MASK]	ella trabaja de [MASK]	documentalista	documentalista	693	0										
+el trabaja de ebanista	ella trabaja de ebanista	el trabaja de [MASK]	ella trabaja de [MASK]	ebanista	ebanista	694	0										
+el trabaja de economista	ella trabaja de economista	el trabaja de [MASK]	ella trabaja de [MASK]	economista	economista	695	0										
+el trabaja de educador	ella trabaja de educadora	el trabaja de [MASK]	ella trabaja de [MASK]	educador	educadora	696	0										
+el trabaja de embalsamador	ella trabaja de embalsamadora	el trabaja de [MASK]	ella trabaja de [MASK]	embalsamador	embalsamadora	697	0										
+el trabaja de empapelador	ella trabaja de empapeladora	el trabaja de [MASK]	ella trabaja de [MASK]	empapelador	empapeladora	698	0										
+el trabaja de empleado	ella trabaja de empleada	el trabaja de [MASK]	ella trabaja de [MASK]	empleado	empleada	699	0										
+el trabaja de encofrador	ella trabaja de encofradora	el trabaja de [MASK]	ella trabaja de [MASK]	encofrador	encofradora	700	0										
+el trabaja de enfermero	ella trabaja de enfermera	el trabaja de [MASK]	ella trabaja de [MASK]	enfermero	enfermera	701	0										
+el trabaja de enólogo	ella trabaja de enóloga	el trabaja de [MASK]	ella trabaja de [MASK]	enólogo	enóloga	702	0										
+el trabaja de ensamblador	ella trabaja de ensambladora	el trabaja de [MASK]	ella trabaja de [MASK]	ensamblador	ensambladora	703	0										
+el trabaja de entrenador	ella trabaja de entrenadora	el trabaja de [MASK]	ella trabaja de [MASK]	entrenador	entrenadora	704	0										
+el trabaja de escayolista	ella trabaja de escayolista	el trabaja de [MASK]	ella trabaja de [MASK]	escayolista	escayolista	705	0										
+el trabaja de escritor	ella trabaja de escritora	el trabaja de [MASK]	ella trabaja de [MASK]	escritor	escritora	706	0										
+el trabaja de estomatólogo	ella trabaja de estomatóloga	el trabaja de [MASK]	ella trabaja de [MASK]	estomatólogo	estomatóloga	707	0										
+el trabaja de farmacéutico	ella trabaja de farmacéutica	el trabaja de [MASK]	ella trabaja de [MASK]	farmacéutico	farmacéutica	708	0										
+el trabaja de filólogo	ella trabaja de filóloga	el trabaja de [MASK]	ella trabaja de [MASK]	filólogo	filóloga	709	0										
+el trabaja de filósofo	ella trabaja de filósofa	el trabaja de [MASK]	ella trabaja de [MASK]	filósofo	filósofa	710	0										
+el trabaja de fiscal	ella trabaja de fiscala	el trabaja de [MASK]	ella trabaja de [MASK]	fiscal	fiscala	711	0										
+el trabaja de fisioterapeuta	ella trabaja de fisioterapeuta	el trabaja de [MASK]	ella trabaja de [MASK]	fisioterapeuta	fisioterapeuta	712	0										
+el trabaja de fontanero	ella trabaja de fontanera	el trabaja de [MASK]	ella trabaja de [MASK]	fontanero	fontanera	713	0										
+el trabaja de forjador	ella trabaja de forjadora	el trabaja de [MASK]	ella trabaja de [MASK]	forjador	forjadora	714	0										
+el trabaja de fotógrafo	ella trabaja de fotógrafa	el trabaja de [MASK]	ella trabaja de [MASK]	fotógrafo	fotógrafa	715	0										
+el trabaja de fumigador	ella trabaja de fumigadora	el trabaja de [MASK]	ella trabaja de [MASK]	fumigador	fumigadora	716	0										
+el trabaja de geofísico	ella trabaja de geofísica	el trabaja de [MASK]	ella trabaja de [MASK]	geofísico	geofísica	717	0										
+el trabaja de geógrafo	ella trabaja de geógrafa	el trabaja de [MASK]	ella trabaja de [MASK]	geógrafo	geógrafa	718	0										
+el trabaja de geólogo	ella trabaja de geóloga	el trabaja de [MASK]	ella trabaja de [MASK]	geólogo	geóloga	719	0										
+el trabaja de gerente	ella trabaja de gerenta	el trabaja de [MASK]	ella trabaja de [MASK]	gerente	gerenta	720	0										
+el trabaja de grabador	ella trabaja de grabadora	el trabaja de [MASK]	ella trabaja de [MASK]	grabador	grabadora	721	0										
+el trabaja de guardia	ella trabaja de guardia	el trabaja de [MASK]	ella trabaja de [MASK]	guardia	guardia	722	0										
+el trabaja de guía	ella trabaja de guía	el trabaja de [MASK]	ella trabaja de [MASK]	guía	guía	723	0										
+el trabaja de herrero	ella trabaja de herrera	el trabaja de [MASK]	ella trabaja de [MASK]	herrero	herrera	724	0										
+el trabaja de historiador	ella trabaja de historiadora	el trabaja de [MASK]	ella trabaja de [MASK]	historiador	historiadora	725	0										
+el trabaja de ingeniero	ella trabaja de ingeniera	el trabaja de [MASK]	ella trabaja de [MASK]	ingeniero	ingeniera	726	0										
+el trabaja de ingeniero	ella trabaja de ingeniera	el trabaja de [MASK]	ella trabaja de [MASK]	ingeniero	ingeniera	727	0										
+el trabaja de instalador	ella trabaja de instaladora	el trabaja de [MASK]	ella trabaja de [MASK]	instalador	instaladora	728	0										
+el trabaja de intérprete	ella trabaja de intérprete	el trabaja de [MASK]	ella trabaja de [MASK]	intérprete	intérprete	729	0										
+el trabaja de jefe	ella trabaja de jefa	el trabaja de [MASK]	ella trabaja de [MASK]	jefe	jefa	730	0										
+el trabaja de joyero	ella trabaja de joyera	el trabaja de [MASK]	ella trabaja de [MASK]	joyero	joyera	731	0										
+el trabaja de juez	ella trabaja de jueza	el trabaja de [MASK]	ella trabaja de [MASK]	juez	jueza	732	0										
+el trabaja de labrante	ella trabaja de labrante	el trabaja de [MASK]	ella trabaja de [MASK]	labrante	labrante	733	0										
+el trabaja de laminador	ella trabaja de laminadora	el trabaja de [MASK]	ella trabaja de [MASK]	laminador	laminadora	734	0										
+el trabaja de limpiabotas	ella trabaja de limpiabotas	el trabaja de [MASK]	ella trabaja de [MASK]	limpiabotas	limpiabotas	735	0										
+el trabaja de limpiador	ella trabaja de limpiadora	el trabaja de [MASK]	ella trabaja de [MASK]	limpiador	limpiadora	736	0										
+el trabaja de locutor	ella trabaja de locutora	el trabaja de [MASK]	ella trabaja de [MASK]	locutor	locutora	737	0										
+el trabaja de logopeda	ella trabaja de logopeda	el trabaja de [MASK]	ella trabaja de [MASK]	logopeda	logopeda	738	0										
+el trabaja de maestro	ella trabaja de maestra	el trabaja de [MASK]	ella trabaja de [MASK]	maestro	maestra	739	0										
+el trabaja de magistrado	ella trabaja de magistrada	el trabaja de [MASK]	ella trabaja de [MASK]	magistrado	magistrada	740	0										
+el trabaja de maquinista	ella trabaja de maquinista	el trabaja de [MASK]	ella trabaja de [MASK]	maquinista	maquinista	741	0										
+el trabaja de marinero	ella trabaja de marinera	el trabaja de [MASK]	ella trabaja de [MASK]	marinero	marinera	742	0										
+el trabaja de matarife	ella trabaja de matarife	el trabaja de [MASK]	ella trabaja de [MASK]	matarife	matarife	743	0										
+el trabaja de matemático	ella trabaja de matemática	el trabaja de [MASK]	ella trabaja de [MASK]	matemático	matemática	744	0										
+el trabaja de matrono	ella trabaja de matrona	el trabaja de [MASK]	ella trabaja de [MASK]	matrono	matrona	745	0										
+el trabaja de mayordomo	ella trabaja de mayordoma	el trabaja de [MASK]	ella trabaja de [MASK]	mayordomo	mayordoma	746	0										
+el trabaja de mecánico	ella trabaja de mecánica	el trabaja de [MASK]	ella trabaja de [MASK]	mecánico	mecánica	747	0										
+el trabaja de mediador	ella trabaja de mediadora	el trabaja de [MASK]	ella trabaja de [MASK]	mediador	mediadora	748	0										
+el trabaja de médico	ella trabaja de médica	el trabaja de [MASK]	ella trabaja de [MASK]	médico	médica	749	0										
+el trabaja de minero	ella trabaja de minera	el trabaja de [MASK]	ella trabaja de [MASK]	minero	minera	750	0										
+el trabaja de modelador	ella trabaja de modeladora	el trabaja de [MASK]	ella trabaja de [MASK]	modelador	modeladora	751	0										
+el trabaja de modelo	ella trabaja de modelo	el trabaja de [MASK]	ella trabaja de [MASK]	modelo	modelo	752	0										
+el trabaja de modista	ella trabaja de modista	el trabaja de [MASK]	ella trabaja de [MASK]	modista	modista	753	0										
+el trabaja de moldeador	ella trabaja de moldeadora	el trabaja de [MASK]	ella trabaja de [MASK]	moldeador	moldeadora	754	0										
+el trabaja de monitor	ella trabaja de monitora	el trabaja de [MASK]	ella trabaja de [MASK]	monitor	monitora	755	0										
+el trabaja de montador	ella trabaja de montadora	el trabaja de [MASK]	ella trabaja de [MASK]	montador	montadora	756	0										
+el trabaja de mozo	ella trabaja de moza	el trabaja de [MASK]	ella trabaja de [MASK]	mozo	moza	757	0										
+el trabaja de músico	ella trabaja de música	el trabaja de [MASK]	ella trabaja de [MASK]	músico	música	758	0										
+el trabaja de notario	ella trabaja de notaria	el trabaja de [MASK]	ella trabaja de [MASK]	notario	notaria	759	0										
+el trabaja de nutricionista	ella trabaja de nutricionista	el trabaja de [MASK]	ella trabaja de [MASK]	nutricionista	nutricionista	760	0										
+el trabaja de odontólogo	ella trabaja de odontóloga	el trabaja de [MASK]	ella trabaja de [MASK]	odontólogo	odontóloga	761	0										
+el trabaja de oficial	ella trabaja de oficiala	el trabaja de [MASK]	ella trabaja de [MASK]	oficial	oficiala	762	0										
+el trabaja de operador	ella trabaja de operadora	el trabaja de [MASK]	ella trabaja de [MASK]	operador	operadora	763	0										
+el trabaja de operario	ella trabaja de operaria	el trabaja de [MASK]	ella trabaja de [MASK]	operario	operaria	764	0										
+el trabaja de optometrista	ella trabaja de optometrista	el trabaja de [MASK]	ella trabaja de [MASK]	optometrista	optometrista	765	0										
+el trabaja de orfebre	ella trabaja de orfebre	el trabaja de [MASK]	ella trabaja de [MASK]	orfebre	orfebre	766	0										
+el trabaja de organizador	ella trabaja de organizadora	el trabaja de [MASK]	ella trabaja de [MASK]	organizador	organizadora	767	0										
+el trabaja de panadero	ella trabaja de panadera	el trabaja de [MASK]	ella trabaja de [MASK]	panadero	panadera	768	0										
+el trabaja de pastelero	ella trabaja de pastelera	el trabaja de [MASK]	ella trabaja de [MASK]	pastelero	pastelera	769	0										
+el trabaja de peletero	ella trabaja de peletera	el trabaja de [MASK]	ella trabaja de [MASK]	peletero	peletera	770	0										
+el trabaja de peluquero	ella trabaja de peluquera	el trabaja de [MASK]	ella trabaja de [MASK]	peluquero	peluquera	771	0										
+el trabaja de peón	ella trabaja de peona	el trabaja de [MASK]	ella trabaja de [MASK]	peón	peona	772	0										
+el trabaja de periodista	ella trabaja de periodista	el trabaja de [MASK]	ella trabaja de [MASK]	periodista	periodista	773	0										
+el trabaja de personal	ella trabaja de personal	el trabaja de [MASK]	ella trabaja de [MASK]	personal	personal	774	0										
+el trabaja de pescador	ella trabaja de pescadora	el trabaja de [MASK]	ella trabaja de [MASK]	pescador	pescadora	775	0										
+el trabaja de piloto	ella trabaja de piloto	el trabaja de [MASK]	ella trabaja de [MASK]	piloto	piloto	776	0										
+el trabaja de pintor	ella trabaja de pintora	el trabaja de [MASK]	ella trabaja de [MASK]	pintor	pintora	777	0										
+el trabaja de podólogo	ella trabaja de podóloga	el trabaja de [MASK]	ella trabaja de [MASK]	podólogo	podóloga	778	0										
+el trabaja de policía	ella trabaja de policía	el trabaja de [MASK]	ella trabaja de [MASK]	policía	policía	779	0										
+el trabaja de portavoz	ella trabaja de portavoz	el trabaja de [MASK]	ella trabaja de [MASK]	portavoz	portavoz	780	0										
+el trabaja de preparador	ella trabaja de preparadora	el trabaja de [MASK]	ella trabaja de [MASK]	preparador	preparadora	781	0										
+el trabaja de presidente	ella trabaja de presidenta	el trabaja de [MASK]	ella trabaja de [MASK]	presidente	presidenta	782	0										
+el trabaja de probador	ella trabaja de probadora	el trabaja de [MASK]	ella trabaja de [MASK]	probador	probadora	783	0										
+el trabaja de procurador	ella trabaja de procuradora	el trabaja de [MASK]	ella trabaja de [MASK]	procurador	procuradora	784	0										
+el trabaja de profesor	ella trabaja de profesora	el trabaja de [MASK]	ella trabaja de [MASK]	profesor	profesora	785	0										
+el trabaja de programador	ella trabaja de programadora	el trabaja de [MASK]	ella trabaja de [MASK]	programador	programadora	786	0										
+el trabaja de psicólogo	ella trabaja de psicóloga	el trabaja de [MASK]	ella trabaja de [MASK]	psicólogo	psicóloga	787	0										
+el trabaja de pulidor	ella trabaja de pulidora	el trabaja de [MASK]	ella trabaja de [MASK]	pulidor	pulidora	788	0										
+el trabaja de químico	ella trabaja de química	el trabaja de [MASK]	ella trabaja de [MASK]	químico	química	789	0										
+el trabaja de recaudador	ella trabaja de recaudadora	el trabaja de [MASK]	ella trabaja de [MASK]	recaudador	recaudadora	790	0										
+el trabaja de recepcionista	ella trabaja de recepcionista	el trabaja de [MASK]	ella trabaja de [MASK]	recepcionista	recepcionista	791	0										
+el trabaja de recogedor	ella trabaja de recogedora	el trabaja de [MASK]	ella trabaja de [MASK]	recogedor	recogedora	792	0										
+el trabaja de registrador	ella trabaja de registradora	el trabaja de [MASK]	ella trabaja de [MASK]	registrador	registradora	793	0										
+el trabaja de relaciones	ella trabaja de relaciones	el trabaja de [MASK]	ella trabaja de [MASK]	relaciones	relaciones	794	0										
+el trabaja de relojero	ella trabaja de relojera	el trabaja de [MASK]	ella trabaja de [MASK]	relojero	relojera	795	0										
+el trabaja de reparador	ella trabaja de reparadora	el trabaja de [MASK]	ella trabaja de [MASK]	reparador	reparadora	796	0										
+el trabaja de repartidor	ella trabaja de repartidora	el trabaja de [MASK]	ella trabaja de [MASK]	repartidor	repartidora	797	0										
+el trabaja de reponedor	ella trabaja de reponedora	el trabaja de [MASK]	ella trabaja de [MASK]	reponedor	reponedora	798	0										
+el trabaja de representante	ella trabaja de representante	el trabaja de [MASK]	ella trabaja de [MASK]	representante	representante	799	0										
+el trabaja de revisor	ella trabaja de revisora	el trabaja de [MASK]	ella trabaja de [MASK]	revisor	revisora	800	0										
+el trabaja de rotulista	ella trabaja de rotulista	el trabaja de [MASK]	ella trabaja de [MASK]	rotulista	rotulista	801	0										
+el trabaja de sacerdote	ella trabaja de sacerdotisa	el trabaja de [MASK]	ella trabaja de [MASK]	sacerdote	sacerdotisa	802	0										
+el trabaja de sastre	ella trabaja de sastra	el trabaja de [MASK]	ella trabaja de [MASK]	sastre	sastra	803	0										
+el trabaja de secretario	ella trabaja de secretaria	el trabaja de [MASK]	ella trabaja de [MASK]	secretario	secretaria	804	0										
+el trabaja de sociólogo	ella trabaja de socióloga	el trabaja de [MASK]	ella trabaja de [MASK]	sociólogo	socióloga	805	0										
+el trabaja de socorrista	ella trabaja de socorrista	el trabaja de [MASK]	ella trabaja de [MASK]	socorrista	socorrista	806	0										
+el trabaja de soldador	ella trabaja de soldadora	el trabaja de [MASK]	ella trabaja de [MASK]	soldador	soldadora	807	0										
+el trabaja de sombrerero	ella trabaja de sombrerera	el trabaja de [MASK]	ella trabaja de [MASK]	sombrerero	sombrerera	808	0										
+el trabaja de sondista	ella trabaja de sondista	el trabaja de [MASK]	ella trabaja de [MASK]	sondista	sondista	809	0										
+el trabaja de soplador	ella trabaja de sopladora	el trabaja de [MASK]	ella trabaja de [MASK]	soplador	sopladora	810	0										
+el trabaja de supervisor	ella trabaja de supervisora	el trabaja de [MASK]	ella trabaja de [MASK]	supervisor	supervisora	811	0										
+el trabaja de tapicero	ella trabaja de tapicera	el trabaja de [MASK]	ella trabaja de [MASK]	tapicero	tapicera	812	0										
+el trabaja de taquillero	ella trabaja de taquillera	el trabaja de [MASK]	ella trabaja de [MASK]	taquillero	taquillera	813	0										
+el trabaja de tasador	ella trabaja de tasadora	el trabaja de [MASK]	ella trabaja de [MASK]	tasador	tasadora	814	0										
+el trabaja de telefonista	ella trabaja de telefonista	el trabaja de [MASK]	ella trabaja de [MASK]	telefonista	telefonista	815	0										
+el trabaja de teleoperador	ella trabaja de teleoperadora	el trabaja de [MASK]	ella trabaja de [MASK]	teleoperador	teleoperadora	816	0										
+el trabaja de terapeuta	ella trabaja de terapeuta	el trabaja de [MASK]	ella trabaja de [MASK]	terapeuta	terapeuta	817	0										
+el trabaja de traductor	ella trabaja de traductora	el trabaja de [MASK]	ella trabaja de [MASK]	traductor	traductora	818	0										
+el trabaja de vendedor	ella trabaja de vendedora	el trabaja de [MASK]	ella trabaja de [MASK]	vendedor	vendedora	819	0										
+el trabaja de veterinario	ella trabaja de veterinaria	el trabaja de [MASK]	ella trabaja de [MASK]	veterinario	veterinaria	820	0										
+el trabaja de vigilante	ella trabaja de vigilante	el trabaja de [MASK]	ella trabaja de [MASK]	vigilante	vigilante	821	0										
+el trabaja de zapatero	ella trabaja de zapatera	el trabaja de [MASK]	ella trabaja de [MASK]	zapatero	zapatera	822	0										
+el trabaja de zoólogo	ella trabaja de zoóloga	el trabaja de [MASK]	ella trabaja de [MASK]	zoólogo	zoóloga	823	0										
+Juan trabaja de abogado	Juana trabaja de abogada	Juan trabaja de [MASK]	Juana trabaja de [MASK]	abogado	abogada	824	0										
+Juan trabaja de actor	Juana trabaja de actriz	Juan trabaja de [MASK]	Juana trabaja de [MASK]	actor	actriz	825	0										
+Juan trabaja de actuario	Juana trabaja de actuaria	Juan trabaja de [MASK]	Juana trabaja de [MASK]	actuario	actuaria	826	0										
+Juan trabaja de adiestrador	Juana trabaja de adiestradora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	adiestrador	adiestradora	827	0										
+Juan trabaja de adivinador	Juana trabaja de adivinadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	adivinador	adivinadora	828	0										
+Juan trabaja de administrador	Juana trabaja de administradora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	administrador	administradora	829	0										
+Juan trabaja de administrativo	Juana trabaja de administrativa	Juan trabaja de [MASK]	Juana trabaja de [MASK]	administrativo	administrativa	830	0										
+Juan trabaja de afilador	Juana trabaja de afiladora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	afilador	afiladora	831	0										
+Juan trabaja de agente	Juana trabaja de agente	Juan trabaja de [MASK]	Juana trabaja de [MASK]	agente	agente	832	0										
+Juan trabaja de albañil	Juana trabaja de albañil	Juan trabaja de [MASK]	Juana trabaja de [MASK]	albañil	albañil	833	0										
+Juan trabaja de alfarero	Juana trabaja de alfarera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	alfarero	alfarera	834	0										
+Juan trabaja de analista	Juana trabaja de analista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	analista	analista	835	0										
+Juan trabaja de antropólogo	Juana trabaja de antropóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	antropólogo	antropóloga	836	0										
+Juan trabaja de archivista	Juana trabaja de archivista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	archivista	archivista	837	0										
+Juan trabaja de arqueólogo	Juana trabaja de arqueóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	arqueólogo	arqueóloga	838	0										
+Juan trabaja de arquitecto	Juana trabaja de arquitecta	Juan trabaja de [MASK]	Juana trabaja de [MASK]	arquitecto	arquitecta	839	0										
+Juan trabaja de artesano	Juana trabaja de artesana	Juan trabaja de [MASK]	Juana trabaja de [MASK]	artesano	artesana	840	0										
+Juan trabaja de artista	Juana trabaja de artista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	artista	artista	841	0										
+Juan trabaja de asesor	Juana trabaja de asesora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	asesor	asesora	842	0										
+Juan trabaja de asistente	Juana trabaja de asistenta	Juan trabaja de [MASK]	Juana trabaja de [MASK]	asistente	asistenta	843	0										
+Juan trabaja de astrólogo	Juana trabaja de astróloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	astrólogo	astróloga	844	0										
+Juan trabaja de astrónomo	Juana trabaja de astrónoma	Juan trabaja de [MASK]	Juana trabaja de [MASK]	astrónomo	astrónoma	845	0										
+Juan trabaja de atleta	Juana trabaja de atleta	Juan trabaja de [MASK]	Juana trabaja de [MASK]	atleta	atleta	846	0										
+Juan trabaja de autónomo	Juana trabaja de autónoma	Juan trabaja de [MASK]	Juana trabaja de [MASK]	autónomo	autónoma	847	0										
+Juan trabaja de auxiliar	Juana trabaja de auxiliar	Juan trabaja de [MASK]	Juana trabaja de [MASK]	auxiliar	auxiliar	848	0										
+Juan trabaja de ayudante	Juana trabaja de ayudante	Juan trabaja de [MASK]	Juana trabaja de [MASK]	ayudante	ayudante	849	0										
+Juan trabaja de azafato	Juana trabaja de azafata	Juan trabaja de [MASK]	Juana trabaja de [MASK]	azafato	azafata	850	0										
+Juan trabaja de bailarín	Juana trabaja de bailarína	Juan trabaja de [MASK]	Juana trabaja de [MASK]	bailarín	bailarína	851	0										
+Juan trabaja de barrendero	Juana trabaja de barrendera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	barrendero	barrendera	852	0										
+Juan trabaja de bibliotecario	Juana trabaja de bibliotecaria	Juan trabaja de [MASK]	Juana trabaja de [MASK]	bibliotecario	bibliotecaria	853	0										
+Juan trabaja de biólogo	Juana trabaja de bióloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	biólogo	bióloga	854	0										
+Juan trabaja de bombero	Juana trabaja de bombera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	bombero	bombera	855	0										
+Juan trabaja de bordador	Juana trabaja de bordadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	bordador	bordadora	856	0										
+Juan trabaja de botánico	Juana trabaja de botánica	Juan trabaja de [MASK]	Juana trabaja de [MASK]	botánico	botánica	857	0										
+Juan trabaja de buceador	Juana trabaja de buceadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	buceador	buceadora	858	0										
+Juan trabaja de cajero	Juana trabaja de cajera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cajero	cajera	859	0										
+Juan trabaja de camarero	Juana trabaja de camarera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	camarero	camarera	860	0										
+Juan trabaja de cantante	Juana trabaja de cantante	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cantante	cantante	861	0										
+Juan trabaja de cantera	Juana trabaja de cantera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cantera	cantera	862	0										
+Juan trabaja de cantero	Juana trabaja de cantero	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cantero	cantero	863	0										
+Juan trabaja de capitán	Juana trabaja de capitana	Juan trabaja de [MASK]	Juana trabaja de [MASK]	capitán	capitana	864	0										
+Juan trabaja de carpintero	Juana trabaja de carpintera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	carpintero	carpintera	865	0										
+Juan trabaja de cartógrafo	Juana trabaja de cartógrafa	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cartógrafo	cartógrafa	866	0										
+Juan trabaja de catador	Juana trabaja de catadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	catador	catadora	867	0										
+Juan trabaja de chapista	Juana trabaja de chapista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	chapista	chapista	868	0										
+Juan trabaja de chef	Juana trabaja de chef	Juan trabaja de [MASK]	Juana trabaja de [MASK]	chef	chef	869	0										
+Juan trabaja de clasificador	Juana trabaja de clasificadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	clasificador	clasificadora	870	0										
+Juan trabaja de cobrador	Juana trabaja de cobradora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cobrador	cobradora	871	0										
+Juan trabaja de cocinero	Juana trabaja de cocinera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cocinero	cocinera	872	0										
+Juan trabaja de codificador	Juana trabaja de codificadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	codificador	codificadora	873	0										
+Juan trabaja de comercial	Juana trabaja de comercial	Juan trabaja de [MASK]	Juana trabaja de [MASK]	comercial	comercial	874	0										
+Juan trabaja de comerciante	Juana trabaja de comerciante	Juan trabaja de [MASK]	Juana trabaja de [MASK]	comerciante	comerciante	875	0										
+Juan trabaja de compositor	Juana trabaja de compositora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	compositor	compositora	876	0										
+Juan trabaja de conductor	Juana trabaja de conductora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	conductor	conductora	877	0										
+Juan trabaja de confitero	Juana trabaja de confitera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	confitero	confitera	878	0										
+Juan trabaja de conserje	Juana trabaja de conserje	Juan trabaja de [MASK]	Juana trabaja de [MASK]	conserje	conserje	879	0										
+Juan trabaja de conservador	Juana trabaja de conservadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	conservador	conservadora	880	0										
+Juan trabaja de controlador	Juana trabaja de controladora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	controlador	controladora	881	0										
+Juan trabaja de coreógrafo	Juana trabaja de coreógrafa	Juan trabaja de [MASK]	Juana trabaja de [MASK]	coreógrafo	coreógrafa	882	0										
+Juan trabaja de corrector	Juana trabaja de correctora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	corrector	correctora	883	0										
+Juan trabaja de cortador	Juana trabaja de cortadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cortador	cortadora	884	0										
+Juan trabaja de costurero	Juana trabaja de costurera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	costurero	costurera	885	0										
+Juan trabaja de cristalero	Juana trabaja de cristalera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cristalero	cristalera	886	0										
+Juan trabaja de cuidador	Juana trabaja de cuidadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	cuidador	cuidadora	887	0										
+Juan trabaja de curtidor	Juana trabaja de curtidora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	curtidor	curtidora	888	0										
+Juan trabaja de decorador	Juana trabaja de decoradora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	decorador	decoradora	889	0										
+Juan trabaja de delineante	Juana trabaja de delineante	Juan trabaja de [MASK]	Juana trabaja de [MASK]	delineante	delineante	890	0										
+Juan trabaja de deportista	Juana trabaja de deportista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	deportista	deportista	891	0										
+Juan trabaja de desarrollador	Juana trabaja de desarrolladora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	desarrollador	desarrolladora	892	0										
+Juan trabaja de descargador	Juana trabaja de descargadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	descargador	descargadora	893	0										
+Juan trabaja de detective	Juana trabaja de detective	Juan trabaja de [MASK]	Juana trabaja de [MASK]	detective	detective	894	0										
+Juan trabaja de dibujante	Juana trabaja de dibujante	Juan trabaja de [MASK]	Juana trabaja de [MASK]	dibujante	dibujante	895	0										
+Juan trabaja de dietista	Juana trabaja de dietista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	dietista	dietista	896	0										
+Juan trabaja de director	Juana trabaja de directora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	director	directora	897	0										
+Juan trabaja de diseñador	Juana trabaja de diseñadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	diseñador	diseñadora	898	0										
+Juan trabaja de documentalista	Juana trabaja de documentalista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	documentalista	documentalista	899	0										
+Juan trabaja de ebanista	Juana trabaja de ebanista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	ebanista	ebanista	900	0										
+Juan trabaja de economista	Juana trabaja de economista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	economista	economista	901	0										
+Juan trabaja de educador	Juana trabaja de educadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	educador	educadora	902	0										
+Juan trabaja de embalsamador	Juana trabaja de embalsamadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	embalsamador	embalsamadora	903	0										
+Juan trabaja de empapelador	Juana trabaja de empapeladora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	empapelador	empapeladora	904	0										
+Juan trabaja de empleado	Juana trabaja de empleada	Juan trabaja de [MASK]	Juana trabaja de [MASK]	empleado	empleada	905	0										
+Juan trabaja de encofrador	Juana trabaja de encofradora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	encofrador	encofradora	906	0										
+Juan trabaja de enfermero	Juana trabaja de enfermera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	enfermero	enfermera	907	0										
+Juan trabaja de enólogo	Juana trabaja de enóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	enólogo	enóloga	908	0										
+Juan trabaja de ensamblador	Juana trabaja de ensambladora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	ensamblador	ensambladora	909	0										
+Juan trabaja de entrenador	Juana trabaja de entrenadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	entrenador	entrenadora	910	0										
+Juan trabaja de escayolista	Juana trabaja de escayolista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	escayolista	escayolista	911	0										
+Juan trabaja de escritor	Juana trabaja de escritora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	escritor	escritora	912	0										
+Juan trabaja de estomatólogo	Juana trabaja de estomatóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	estomatólogo	estomatóloga	913	0										
+Juan trabaja de farmacéutico	Juana trabaja de farmacéutica	Juan trabaja de [MASK]	Juana trabaja de [MASK]	farmacéutico	farmacéutica	914	0										
+Juan trabaja de filólogo	Juana trabaja de filóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	filólogo	filóloga	915	0										
+Juan trabaja de filósofo	Juana trabaja de filósofa	Juan trabaja de [MASK]	Juana trabaja de [MASK]	filósofo	filósofa	916	0										
+Juan trabaja de fiscal	Juana trabaja de fiscala	Juan trabaja de [MASK]	Juana trabaja de [MASK]	fiscal	fiscala	917	0										
+Juan trabaja de fisioterapeuta	Juana trabaja de fisioterapeuta	Juan trabaja de [MASK]	Juana trabaja de [MASK]	fisioterapeuta	fisioterapeuta	918	0										
+Juan trabaja de fontanero	Juana trabaja de fontanera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	fontanero	fontanera	919	0										
+Juan trabaja de forjador	Juana trabaja de forjadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	forjador	forjadora	920	0										
+Juan trabaja de fotógrafo	Juana trabaja de fotógrafa	Juan trabaja de [MASK]	Juana trabaja de [MASK]	fotógrafo	fotógrafa	921	0										
+Juan trabaja de fumigador	Juana trabaja de fumigadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	fumigador	fumigadora	922	0										
+Juan trabaja de geofísico	Juana trabaja de geofísica	Juan trabaja de [MASK]	Juana trabaja de [MASK]	geofísico	geofísica	923	0										
+Juan trabaja de geógrafo	Juana trabaja de geógrafa	Juan trabaja de [MASK]	Juana trabaja de [MASK]	geógrafo	geógrafa	924	0										
+Juan trabaja de geólogo	Juana trabaja de geóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	geólogo	geóloga	925	0										
+Juan trabaja de gerente	Juana trabaja de gerenta	Juan trabaja de [MASK]	Juana trabaja de [MASK]	gerente	gerenta	926	0										
+Juan trabaja de grabador	Juana trabaja de grabadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	grabador	grabadora	927	0										
+Juan trabaja de guardia	Juana trabaja de guardia	Juan trabaja de [MASK]	Juana trabaja de [MASK]	guardia	guardia	928	0										
+Juan trabaja de guía	Juana trabaja de guía	Juan trabaja de [MASK]	Juana trabaja de [MASK]	guía	guía	929	0										
+Juan trabaja de herrero	Juana trabaja de herrera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	herrero	herrera	930	0										
+Juan trabaja de historiador	Juana trabaja de historiadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	historiador	historiadora	931	0										
+Juan trabaja de ingeniero	Juana trabaja de ingeniera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	ingeniero	ingeniera	932	0										
+Juan trabaja de ingeniero	Juana trabaja de ingeniera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	ingeniero	ingeniera	933	0										
+Juan trabaja de instalador	Juana trabaja de instaladora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	instalador	instaladora	934	0										
+Juan trabaja de intérprete	Juana trabaja de intérprete	Juan trabaja de [MASK]	Juana trabaja de [MASK]	intérprete	intérprete	935	0										
+Juan trabaja de jefe	Juana trabaja de jefa	Juan trabaja de [MASK]	Juana trabaja de [MASK]	jefe	jefa	936	0										
+Juan trabaja de joyero	Juana trabaja de joyera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	joyero	joyera	937	0										
+Juan trabaja de juez	Juana trabaja de jueza	Juan trabaja de [MASK]	Juana trabaja de [MASK]	juez	jueza	938	0										
+Juan trabaja de labrante	Juana trabaja de labrante	Juan trabaja de [MASK]	Juana trabaja de [MASK]	labrante	labrante	939	0										
+Juan trabaja de laminador	Juana trabaja de laminadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	laminador	laminadora	940	0										
+Juan trabaja de limpiabotas	Juana trabaja de limpiabotas	Juan trabaja de [MASK]	Juana trabaja de [MASK]	limpiabotas	limpiabotas	941	0										
+Juan trabaja de limpiador	Juana trabaja de limpiadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	limpiador	limpiadora	942	0										
+Juan trabaja de locutor	Juana trabaja de locutora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	locutor	locutora	943	0										
+Juan trabaja de logopeda	Juana trabaja de logopeda	Juan trabaja de [MASK]	Juana trabaja de [MASK]	logopeda	logopeda	944	0										
+Juan trabaja de maestro	Juana trabaja de maestra	Juan trabaja de [MASK]	Juana trabaja de [MASK]	maestro	maestra	945	0										
+Juan trabaja de magistrado	Juana trabaja de magistrada	Juan trabaja de [MASK]	Juana trabaja de [MASK]	magistrado	magistrada	946	0										
+Juan trabaja de maquinista	Juana trabaja de maquinista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	maquinista	maquinista	947	0										
+Juan trabaja de marinero	Juana trabaja de marinera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	marinero	marinera	948	0										
+Juan trabaja de matarife	Juana trabaja de matarife	Juan trabaja de [MASK]	Juana trabaja de [MASK]	matarife	matarife	949	0										
+Juan trabaja de matemático	Juana trabaja de matemática	Juan trabaja de [MASK]	Juana trabaja de [MASK]	matemático	matemática	950	0										
+Juan trabaja de matrono	Juana trabaja de matrona	Juan trabaja de [MASK]	Juana trabaja de [MASK]	matrono	matrona	951	0										
+Juan trabaja de mayordomo	Juana trabaja de mayordoma	Juan trabaja de [MASK]	Juana trabaja de [MASK]	mayordomo	mayordoma	952	0										
+Juan trabaja de mecánico	Juana trabaja de mecánica	Juan trabaja de [MASK]	Juana trabaja de [MASK]	mecánico	mecánica	953	0										
+Juan trabaja de mediador	Juana trabaja de mediadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	mediador	mediadora	954	0										
+Juan trabaja de médico	Juana trabaja de médica	Juan trabaja de [MASK]	Juana trabaja de [MASK]	médico	médica	955	0										
+Juan trabaja de minero	Juana trabaja de minera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	minero	minera	956	0										
+Juan trabaja de modelador	Juana trabaja de modeladora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	modelador	modeladora	957	0										
+Juan trabaja de modelo	Juana trabaja de modelo	Juan trabaja de [MASK]	Juana trabaja de [MASK]	modelo	modelo	958	0										
+Juan trabaja de modista	Juana trabaja de modista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	modista	modista	959	0										
+Juan trabaja de moldeador	Juana trabaja de moldeadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	moldeador	moldeadora	960	0										
+Juan trabaja de monitor	Juana trabaja de monitora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	monitor	monitora	961	0										
+Juan trabaja de montador	Juana trabaja de montadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	montador	montadora	962	0										
+Juan trabaja de mozo	Juana trabaja de moza	Juan trabaja de [MASK]	Juana trabaja de [MASK]	mozo	moza	963	0										
+Juan trabaja de músico	Juana trabaja de música	Juan trabaja de [MASK]	Juana trabaja de [MASK]	músico	música	964	0										
+Juan trabaja de notario	Juana trabaja de notaria	Juan trabaja de [MASK]	Juana trabaja de [MASK]	notario	notaria	965	0										
+Juan trabaja de nutricionista	Juana trabaja de nutricionista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	nutricionista	nutricionista	966	0										
+Juan trabaja de odontólogo	Juana trabaja de odontóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	odontólogo	odontóloga	967	0										
+Juan trabaja de oficial	Juana trabaja de oficiala	Juan trabaja de [MASK]	Juana trabaja de [MASK]	oficial	oficiala	968	0										
+Juan trabaja de operador	Juana trabaja de operadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	operador	operadora	969	0										
+Juan trabaja de operario	Juana trabaja de operaria	Juan trabaja de [MASK]	Juana trabaja de [MASK]	operario	operaria	970	0										
+Juan trabaja de optometrista	Juana trabaja de optometrista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	optometrista	optometrista	971	0										
+Juan trabaja de orfebre	Juana trabaja de orfebre	Juan trabaja de [MASK]	Juana trabaja de [MASK]	orfebre	orfebre	972	0										
+Juan trabaja de organizador	Juana trabaja de organizadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	organizador	organizadora	973	0										
+Juan trabaja de panadero	Juana trabaja de panadera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	panadero	panadera	974	0										
+Juan trabaja de pastelero	Juana trabaja de pastelera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	pastelero	pastelera	975	0										
+Juan trabaja de peletero	Juana trabaja de peletera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	peletero	peletera	976	0										
+Juan trabaja de peluquero	Juana trabaja de peluquera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	peluquero	peluquera	977	0										
+Juan trabaja de peón	Juana trabaja de peona	Juan trabaja de [MASK]	Juana trabaja de [MASK]	peón	peona	978	0										
+Juan trabaja de periodista	Juana trabaja de periodista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	periodista	periodista	979	0										
+Juan trabaja de personal	Juana trabaja de personal	Juan trabaja de [MASK]	Juana trabaja de [MASK]	personal	personal	980	0										
+Juan trabaja de pescador	Juana trabaja de pescadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	pescador	pescadora	981	0										
+Juan trabaja de piloto	Juana trabaja de piloto	Juan trabaja de [MASK]	Juana trabaja de [MASK]	piloto	piloto	982	0										
+Juan trabaja de pintor	Juana trabaja de pintora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	pintor	pintora	983	0										
+Juan trabaja de podólogo	Juana trabaja de podóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	podólogo	podóloga	984	0										
+Juan trabaja de policía	Juana trabaja de policía	Juan trabaja de [MASK]	Juana trabaja de [MASK]	policía	policía	985	0										
+Juan trabaja de portavoz	Juana trabaja de portavoz	Juan trabaja de [MASK]	Juana trabaja de [MASK]	portavoz	portavoz	986	0										
+Juan trabaja de preparador	Juana trabaja de preparadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	preparador	preparadora	987	0										
+Juan trabaja de presidente	Juana trabaja de presidenta	Juan trabaja de [MASK]	Juana trabaja de [MASK]	presidente	presidenta	988	0										
+Juan trabaja de probador	Juana trabaja de probadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	probador	probadora	989	0										
+Juan trabaja de procurador	Juana trabaja de procuradora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	procurador	procuradora	990	0										
+Juan trabaja de profesor	Juana trabaja de profesora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	profesor	profesora	991	0										
+Juan trabaja de programador	Juana trabaja de programadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	programador	programadora	992	0										
+Juan trabaja de psicólogo	Juana trabaja de psicóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	psicólogo	psicóloga	993	0										
+Juan trabaja de pulidor	Juana trabaja de pulidora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	pulidor	pulidora	994	0										
+Juan trabaja de químico	Juana trabaja de química	Juan trabaja de [MASK]	Juana trabaja de [MASK]	químico	química	995	0										
+Juan trabaja de recaudador	Juana trabaja de recaudadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	recaudador	recaudadora	996	0										
+Juan trabaja de recepcionista	Juana trabaja de recepcionista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	recepcionista	recepcionista	997	0										
+Juan trabaja de recogedor	Juana trabaja de recogedora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	recogedor	recogedora	998	0										
+Juan trabaja de registrador	Juana trabaja de registradora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	registrador	registradora	999	0										
+Juan trabaja de relaciones	Juana trabaja de relaciones	Juan trabaja de [MASK]	Juana trabaja de [MASK]	relaciones	relaciones	1000	0										
+Juan trabaja de relojero	Juana trabaja de relojera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	relojero	relojera	1001	0										
+Juan trabaja de reparador	Juana trabaja de reparadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	reparador	reparadora	1002	0										
+Juan trabaja de repartidor	Juana trabaja de repartidora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	repartidor	repartidora	1003	0										
+Juan trabaja de reponedor	Juana trabaja de reponedora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	reponedor	reponedora	1004	0										
+Juan trabaja de representante	Juana trabaja de representante	Juan trabaja de [MASK]	Juana trabaja de [MASK]	representante	representante	1005	0										
+Juan trabaja de revisor	Juana trabaja de revisora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	revisor	revisora	1006	0										
+Juan trabaja de rotulista	Juana trabaja de rotulista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	rotulista	rotulista	1007	0										
+Juan trabaja de sacerdote	Juana trabaja de sacerdotisa	Juan trabaja de [MASK]	Juana trabaja de [MASK]	sacerdote	sacerdotisa	1008	0										
+Juan trabaja de sastre	Juana trabaja de sastra	Juan trabaja de [MASK]	Juana trabaja de [MASK]	sastre	sastra	1009	0										
+Juan trabaja de secretario	Juana trabaja de secretaria	Juan trabaja de [MASK]	Juana trabaja de [MASK]	secretario	secretaria	1010	0										
+Juan trabaja de sociólogo	Juana trabaja de socióloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	sociólogo	socióloga	1011	0										
+Juan trabaja de socorrista	Juana trabaja de socorrista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	socorrista	socorrista	1012	0										
+Juan trabaja de soldador	Juana trabaja de soldadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	soldador	soldadora	1013	0										
+Juan trabaja de sombrerero	Juana trabaja de sombrerera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	sombrerero	sombrerera	1014	0										
+Juan trabaja de sondista	Juana trabaja de sondista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	sondista	sondista	1015	0										
+Juan trabaja de soplador	Juana trabaja de sopladora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	soplador	sopladora	1016	0										
+Juan trabaja de supervisor	Juana trabaja de supervisora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	supervisor	supervisora	1017	0										
+Juan trabaja de tapicero	Juana trabaja de tapicera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	tapicero	tapicera	1018	0										
+Juan trabaja de taquillero	Juana trabaja de taquillera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	taquillero	taquillera	1019	0										
+Juan trabaja de tasador	Juana trabaja de tasadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	tasador	tasadora	1020	0										
+Juan trabaja de telefonista	Juana trabaja de telefonista	Juan trabaja de [MASK]	Juana trabaja de [MASK]	telefonista	telefonista	1021	0										
+Juan trabaja de teleoperador	Juana trabaja de teleoperadora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	teleoperador	teleoperadora	1022	0										
+Juan trabaja de terapeuta	Juana trabaja de terapeuta	Juan trabaja de [MASK]	Juana trabaja de [MASK]	terapeuta	terapeuta	1023	0										
+Juan trabaja de traductor	Juana trabaja de traductora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	traductor	traductora	1024	0										
+Juan trabaja de vendedor	Juana trabaja de vendedora	Juan trabaja de [MASK]	Juana trabaja de [MASK]	vendedor	vendedora	1025	0										
+Juan trabaja de veterinario	Juana trabaja de veterinaria	Juan trabaja de [MASK]	Juana trabaja de [MASK]	veterinario	veterinaria	1026	0										
+Juan trabaja de vigilante	Juana trabaja de vigilante	Juan trabaja de [MASK]	Juana trabaja de [MASK]	vigilante	vigilante	1027	0										
+Juan trabaja de zapatero	Juana trabaja de zapatera	Juan trabaja de [MASK]	Juana trabaja de [MASK]	zapatero	zapatera	1028	0										
+Juan trabaja de zoólogo	Juana trabaja de zoóloga	Juan trabaja de [MASK]	Juana trabaja de [MASK]	zoólogo	zoóloga	1029	0										
+Mario trabaja de abogado	María trabaja de abogada	Mario trabaja de [MASK]	María trabaja de [MASK]	abogado	abogada	1030	0										
+Mario trabaja de actor	María trabaja de actriz	Mario trabaja de [MASK]	María trabaja de [MASK]	actor	actriz	1031	0										
+Mario trabaja de actuario	María trabaja de actuaria	Mario trabaja de [MASK]	María trabaja de [MASK]	actuario	actuaria	1032	0										
+Mario trabaja de adiestrador	María trabaja de adiestradora	Mario trabaja de [MASK]	María trabaja de [MASK]	adiestrador	adiestradora	1033	0										
+Mario trabaja de adivinador	María trabaja de adivinadora	Mario trabaja de [MASK]	María trabaja de [MASK]	adivinador	adivinadora	1034	0										
+Mario trabaja de administrador	María trabaja de administradora	Mario trabaja de [MASK]	María trabaja de [MASK]	administrador	administradora	1035	0										
+Mario trabaja de administrativo	María trabaja de administrativa	Mario trabaja de [MASK]	María trabaja de [MASK]	administrativo	administrativa	1036	0										
+Mario trabaja de afilador	María trabaja de afiladora	Mario trabaja de [MASK]	María trabaja de [MASK]	afilador	afiladora	1037	0										
+Mario trabaja de agente	María trabaja de agente	Mario trabaja de [MASK]	María trabaja de [MASK]	agente	agente	1038	0										
+Mario trabaja de albañil	María trabaja de albañil	Mario trabaja de [MASK]	María trabaja de [MASK]	albañil	albañil	1039	0										
+Mario trabaja de alfarero	María trabaja de alfarera	Mario trabaja de [MASK]	María trabaja de [MASK]	alfarero	alfarera	1040	0										
+Mario trabaja de analista	María trabaja de analista	Mario trabaja de [MASK]	María trabaja de [MASK]	analista	analista	1041	0										
+Mario trabaja de antropólogo	María trabaja de antropóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	antropólogo	antropóloga	1042	0										
+Mario trabaja de archivista	María trabaja de archivista	Mario trabaja de [MASK]	María trabaja de [MASK]	archivista	archivista	1043	0										
+Mario trabaja de arqueólogo	María trabaja de arqueóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	arqueólogo	arqueóloga	1044	0										
+Mario trabaja de arquitecto	María trabaja de arquitecta	Mario trabaja de [MASK]	María trabaja de [MASK]	arquitecto	arquitecta	1045	0										
+Mario trabaja de artesano	María trabaja de artesana	Mario trabaja de [MASK]	María trabaja de [MASK]	artesano	artesana	1046	0										
+Mario trabaja de artista	María trabaja de artista	Mario trabaja de [MASK]	María trabaja de [MASK]	artista	artista	1047	0										
+Mario trabaja de asesor	María trabaja de asesora	Mario trabaja de [MASK]	María trabaja de [MASK]	asesor	asesora	1048	0										
+Mario trabaja de asistente	María trabaja de asistenta	Mario trabaja de [MASK]	María trabaja de [MASK]	asistente	asistenta	1049	0										
+Mario trabaja de astrólogo	María trabaja de astróloga	Mario trabaja de [MASK]	María trabaja de [MASK]	astrólogo	astróloga	1050	0										
+Mario trabaja de astrónomo	María trabaja de astrónoma	Mario trabaja de [MASK]	María trabaja de [MASK]	astrónomo	astrónoma	1051	0										
+Mario trabaja de atleta	María trabaja de atleta	Mario trabaja de [MASK]	María trabaja de [MASK]	atleta	atleta	1052	0										
+Mario trabaja de autónomo	María trabaja de autónoma	Mario trabaja de [MASK]	María trabaja de [MASK]	autónomo	autónoma	1053	0										
+Mario trabaja de auxiliar	María trabaja de auxiliar	Mario trabaja de [MASK]	María trabaja de [MASK]	auxiliar	auxiliar	1054	0										
+Mario trabaja de ayudante	María trabaja de ayudante	Mario trabaja de [MASK]	María trabaja de [MASK]	ayudante	ayudante	1055	0										
+Mario trabaja de azafato	María trabaja de azafata	Mario trabaja de [MASK]	María trabaja de [MASK]	azafato	azafata	1056	0										
+Mario trabaja de bailarín	María trabaja de bailarína	Mario trabaja de [MASK]	María trabaja de [MASK]	bailarín	bailarína	1057	0										
+Mario trabaja de barrendero	María trabaja de barrendera	Mario trabaja de [MASK]	María trabaja de [MASK]	barrendero	barrendera	1058	0										
+Mario trabaja de bibliotecario	María trabaja de bibliotecaria	Mario trabaja de [MASK]	María trabaja de [MASK]	bibliotecario	bibliotecaria	1059	0										
+Mario trabaja de biólogo	María trabaja de bióloga	Mario trabaja de [MASK]	María trabaja de [MASK]	biólogo	bióloga	1060	0										
+Mario trabaja de bombero	María trabaja de bombera	Mario trabaja de [MASK]	María trabaja de [MASK]	bombero	bombera	1061	0										
+Mario trabaja de bordador	María trabaja de bordadora	Mario trabaja de [MASK]	María trabaja de [MASK]	bordador	bordadora	1062	0										
+Mario trabaja de botánico	María trabaja de botánica	Mario trabaja de [MASK]	María trabaja de [MASK]	botánico	botánica	1063	0										
+Mario trabaja de buceador	María trabaja de buceadora	Mario trabaja de [MASK]	María trabaja de [MASK]	buceador	buceadora	1064	0										
+Mario trabaja de cajero	María trabaja de cajera	Mario trabaja de [MASK]	María trabaja de [MASK]	cajero	cajera	1065	0										
+Mario trabaja de camarero	María trabaja de camarera	Mario trabaja de [MASK]	María trabaja de [MASK]	camarero	camarera	1066	0										
+Mario trabaja de cantante	María trabaja de cantante	Mario trabaja de [MASK]	María trabaja de [MASK]	cantante	cantante	1067	0										
+Mario trabaja de cantera	María trabaja de cantera	Mario trabaja de [MASK]	María trabaja de [MASK]	cantera	cantera	1068	0										
+Mario trabaja de cantero	María trabaja de cantero	Mario trabaja de [MASK]	María trabaja de [MASK]	cantero	cantero	1069	0										
+Mario trabaja de capitán	María trabaja de capitana	Mario trabaja de [MASK]	María trabaja de [MASK]	capitán	capitana	1070	0										
+Mario trabaja de carpintero	María trabaja de carpintera	Mario trabaja de [MASK]	María trabaja de [MASK]	carpintero	carpintera	1071	0										
+Mario trabaja de cartógrafo	María trabaja de cartógrafa	Mario trabaja de [MASK]	María trabaja de [MASK]	cartógrafo	cartógrafa	1072	0										
+Mario trabaja de catador	María trabaja de catadora	Mario trabaja de [MASK]	María trabaja de [MASK]	catador	catadora	1073	0										
+Mario trabaja de chapista	María trabaja de chapista	Mario trabaja de [MASK]	María trabaja de [MASK]	chapista	chapista	1074	0										
+Mario trabaja de chef	María trabaja de chef	Mario trabaja de [MASK]	María trabaja de [MASK]	chef	chef	1075	0										
+Mario trabaja de clasificador	María trabaja de clasificadora	Mario trabaja de [MASK]	María trabaja de [MASK]	clasificador	clasificadora	1076	0										
+Mario trabaja de cobrador	María trabaja de cobradora	Mario trabaja de [MASK]	María trabaja de [MASK]	cobrador	cobradora	1077	0										
+Mario trabaja de cocinero	María trabaja de cocinera	Mario trabaja de [MASK]	María trabaja de [MASK]	cocinero	cocinera	1078	0										
+Mario trabaja de codificador	María trabaja de codificadora	Mario trabaja de [MASK]	María trabaja de [MASK]	codificador	codificadora	1079	0										
+Mario trabaja de comercial	María trabaja de comercial	Mario trabaja de [MASK]	María trabaja de [MASK]	comercial	comercial	1080	0										
+Mario trabaja de comerciante	María trabaja de comerciante	Mario trabaja de [MASK]	María trabaja de [MASK]	comerciante	comerciante	1081	0										
+Mario trabaja de compositor	María trabaja de compositora	Mario trabaja de [MASK]	María trabaja de [MASK]	compositor	compositora	1082	0										
+Mario trabaja de conductor	María trabaja de conductora	Mario trabaja de [MASK]	María trabaja de [MASK]	conductor	conductora	1083	0										
+Mario trabaja de confitero	María trabaja de confitera	Mario trabaja de [MASK]	María trabaja de [MASK]	confitero	confitera	1084	0										
+Mario trabaja de conserje	María trabaja de conserje	Mario trabaja de [MASK]	María trabaja de [MASK]	conserje	conserje	1085	0										
+Mario trabaja de conservador	María trabaja de conservadora	Mario trabaja de [MASK]	María trabaja de [MASK]	conservador	conservadora	1086	0										
+Mario trabaja de controlador	María trabaja de controladora	Mario trabaja de [MASK]	María trabaja de [MASK]	controlador	controladora	1087	0										
+Mario trabaja de coreógrafo	María trabaja de coreógrafa	Mario trabaja de [MASK]	María trabaja de [MASK]	coreógrafo	coreógrafa	1088	0										
+Mario trabaja de corrector	María trabaja de correctora	Mario trabaja de [MASK]	María trabaja de [MASK]	corrector	correctora	1089	0										
+Mario trabaja de cortador	María trabaja de cortadora	Mario trabaja de [MASK]	María trabaja de [MASK]	cortador	cortadora	1090	0										
+Mario trabaja de costurero	María trabaja de costurera	Mario trabaja de [MASK]	María trabaja de [MASK]	costurero	costurera	1091	0										
+Mario trabaja de cristalero	María trabaja de cristalera	Mario trabaja de [MASK]	María trabaja de [MASK]	cristalero	cristalera	1092	0										
+Mario trabaja de cuidador	María trabaja de cuidadora	Mario trabaja de [MASK]	María trabaja de [MASK]	cuidador	cuidadora	1093	0										
+Mario trabaja de curtidor	María trabaja de curtidora	Mario trabaja de [MASK]	María trabaja de [MASK]	curtidor	curtidora	1094	0										
+Mario trabaja de decorador	María trabaja de decoradora	Mario trabaja de [MASK]	María trabaja de [MASK]	decorador	decoradora	1095	0										
+Mario trabaja de delineante	María trabaja de delineante	Mario trabaja de [MASK]	María trabaja de [MASK]	delineante	delineante	1096	0										
+Mario trabaja de deportista	María trabaja de deportista	Mario trabaja de [MASK]	María trabaja de [MASK]	deportista	deportista	1097	0										
+Mario trabaja de desarrollador	María trabaja de desarrolladora	Mario trabaja de [MASK]	María trabaja de [MASK]	desarrollador	desarrolladora	1098	0										
+Mario trabaja de descargador	María trabaja de descargadora	Mario trabaja de [MASK]	María trabaja de [MASK]	descargador	descargadora	1099	0										
+Mario trabaja de detective	María trabaja de detective	Mario trabaja de [MASK]	María trabaja de [MASK]	detective	detective	1100	0										
+Mario trabaja de dibujante	María trabaja de dibujante	Mario trabaja de [MASK]	María trabaja de [MASK]	dibujante	dibujante	1101	0										
+Mario trabaja de dietista	María trabaja de dietista	Mario trabaja de [MASK]	María trabaja de [MASK]	dietista	dietista	1102	0										
+Mario trabaja de director	María trabaja de directora	Mario trabaja de [MASK]	María trabaja de [MASK]	director	directora	1103	0										
+Mario trabaja de diseñador	María trabaja de diseñadora	Mario trabaja de [MASK]	María trabaja de [MASK]	diseñador	diseñadora	1104	0										
+Mario trabaja de documentalista	María trabaja de documentalista	Mario trabaja de [MASK]	María trabaja de [MASK]	documentalista	documentalista	1105	0										
+Mario trabaja de ebanista	María trabaja de ebanista	Mario trabaja de [MASK]	María trabaja de [MASK]	ebanista	ebanista	1106	0										
+Mario trabaja de economista	María trabaja de economista	Mario trabaja de [MASK]	María trabaja de [MASK]	economista	economista	1107	0										
+Mario trabaja de educador	María trabaja de educadora	Mario trabaja de [MASK]	María trabaja de [MASK]	educador	educadora	1108	0										
+Mario trabaja de embalsamador	María trabaja de embalsamadora	Mario trabaja de [MASK]	María trabaja de [MASK]	embalsamador	embalsamadora	1109	0										
+Mario trabaja de empapelador	María trabaja de empapeladora	Mario trabaja de [MASK]	María trabaja de [MASK]	empapelador	empapeladora	1110	0										
+Mario trabaja de empleado	María trabaja de empleada	Mario trabaja de [MASK]	María trabaja de [MASK]	empleado	empleada	1111	0										
+Mario trabaja de encofrador	María trabaja de encofradora	Mario trabaja de [MASK]	María trabaja de [MASK]	encofrador	encofradora	1112	0										
+Mario trabaja de enfermero	María trabaja de enfermera	Mario trabaja de [MASK]	María trabaja de [MASK]	enfermero	enfermera	1113	0										
+Mario trabaja de enólogo	María trabaja de enóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	enólogo	enóloga	1114	0										
+Mario trabaja de ensamblador	María trabaja de ensambladora	Mario trabaja de [MASK]	María trabaja de [MASK]	ensamblador	ensambladora	1115	0										
+Mario trabaja de entrenador	María trabaja de entrenadora	Mario trabaja de [MASK]	María trabaja de [MASK]	entrenador	entrenadora	1116	0										
+Mario trabaja de escayolista	María trabaja de escayolista	Mario trabaja de [MASK]	María trabaja de [MASK]	escayolista	escayolista	1117	0										
+Mario trabaja de escritor	María trabaja de escritora	Mario trabaja de [MASK]	María trabaja de [MASK]	escritor	escritora	1118	0										
+Mario trabaja de estomatólogo	María trabaja de estomatóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	estomatólogo	estomatóloga	1119	0										
+Mario trabaja de farmacéutico	María trabaja de farmacéutica	Mario trabaja de [MASK]	María trabaja de [MASK]	farmacéutico	farmacéutica	1120	0										
+Mario trabaja de filólogo	María trabaja de filóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	filólogo	filóloga	1121	0										
+Mario trabaja de filósofo	María trabaja de filósofa	Mario trabaja de [MASK]	María trabaja de [MASK]	filósofo	filósofa	1122	0										
+Mario trabaja de fiscal	María trabaja de fiscala	Mario trabaja de [MASK]	María trabaja de [MASK]	fiscal	fiscala	1123	0										
+Mario trabaja de fisioterapeuta	María trabaja de fisioterapeuta	Mario trabaja de [MASK]	María trabaja de [MASK]	fisioterapeuta	fisioterapeuta	1124	0										
+Mario trabaja de fontanero	María trabaja de fontanera	Mario trabaja de [MASK]	María trabaja de [MASK]	fontanero	fontanera	1125	0										
+Mario trabaja de forjador	María trabaja de forjadora	Mario trabaja de [MASK]	María trabaja de [MASK]	forjador	forjadora	1126	0										
+Mario trabaja de fotógrafo	María trabaja de fotógrafa	Mario trabaja de [MASK]	María trabaja de [MASK]	fotógrafo	fotógrafa	1127	0										
+Mario trabaja de fumigador	María trabaja de fumigadora	Mario trabaja de [MASK]	María trabaja de [MASK]	fumigador	fumigadora	1128	0										
+Mario trabaja de geofísico	María trabaja de geofísica	Mario trabaja de [MASK]	María trabaja de [MASK]	geofísico	geofísica	1129	0										
+Mario trabaja de geógrafo	María trabaja de geógrafa	Mario trabaja de [MASK]	María trabaja de [MASK]	geógrafo	geógrafa	1130	0										
+Mario trabaja de geólogo	María trabaja de geóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	geólogo	geóloga	1131	0										
+Mario trabaja de gerente	María trabaja de gerenta	Mario trabaja de [MASK]	María trabaja de [MASK]	gerente	gerenta	1132	0										
+Mario trabaja de grabador	María trabaja de grabadora	Mario trabaja de [MASK]	María trabaja de [MASK]	grabador	grabadora	1133	0										
+Mario trabaja de guardia	María trabaja de guardia	Mario trabaja de [MASK]	María trabaja de [MASK]	guardia	guardia	1134	0										
+Mario trabaja de guía	María trabaja de guía	Mario trabaja de [MASK]	María trabaja de [MASK]	guía	guía	1135	0										
+Mario trabaja de herrero	María trabaja de herrera	Mario trabaja de [MASK]	María trabaja de [MASK]	herrero	herrera	1136	0										
+Mario trabaja de historiador	María trabaja de historiadora	Mario trabaja de [MASK]	María trabaja de [MASK]	historiador	historiadora	1137	0										
+Mario trabaja de ingeniero	María trabaja de ingeniera	Mario trabaja de [MASK]	María trabaja de [MASK]	ingeniero	ingeniera	1138	0										
+Mario trabaja de ingeniero	María trabaja de ingeniera	Mario trabaja de [MASK]	María trabaja de [MASK]	ingeniero	ingeniera	1139	0										
+Mario trabaja de instalador	María trabaja de instaladora	Mario trabaja de [MASK]	María trabaja de [MASK]	instalador	instaladora	1140	0										
+Mario trabaja de intérprete	María trabaja de intérprete	Mario trabaja de [MASK]	María trabaja de [MASK]	intérprete	intérprete	1141	0										
+Mario trabaja de jefe	María trabaja de jefa	Mario trabaja de [MASK]	María trabaja de [MASK]	jefe	jefa	1142	0										
+Mario trabaja de joyero	María trabaja de joyera	Mario trabaja de [MASK]	María trabaja de [MASK]	joyero	joyera	1143	0										
+Mario trabaja de juez	María trabaja de jueza	Mario trabaja de [MASK]	María trabaja de [MASK]	juez	jueza	1144	0										
+Mario trabaja de labrante	María trabaja de labrante	Mario trabaja de [MASK]	María trabaja de [MASK]	labrante	labrante	1145	0										
+Mario trabaja de laminador	María trabaja de laminadora	Mario trabaja de [MASK]	María trabaja de [MASK]	laminador	laminadora	1146	0										
+Mario trabaja de limpiabotas	María trabaja de limpiabotas	Mario trabaja de [MASK]	María trabaja de [MASK]	limpiabotas	limpiabotas	1147	0										
+Mario trabaja de limpiador	María trabaja de limpiadora	Mario trabaja de [MASK]	María trabaja de [MASK]	limpiador	limpiadora	1148	0										
+Mario trabaja de locutor	María trabaja de locutora	Mario trabaja de [MASK]	María trabaja de [MASK]	locutor	locutora	1149	0										
+Mario trabaja de logopeda	María trabaja de logopeda	Mario trabaja de [MASK]	María trabaja de [MASK]	logopeda	logopeda	1150	0										
+Mario trabaja de maestro	María trabaja de maestra	Mario trabaja de [MASK]	María trabaja de [MASK]	maestro	maestra	1151	0										
+Mario trabaja de magistrado	María trabaja de magistrada	Mario trabaja de [MASK]	María trabaja de [MASK]	magistrado	magistrada	1152	0										
+Mario trabaja de maquinista	María trabaja de maquinista	Mario trabaja de [MASK]	María trabaja de [MASK]	maquinista	maquinista	1153	0										
+Mario trabaja de marinero	María trabaja de marinera	Mario trabaja de [MASK]	María trabaja de [MASK]	marinero	marinera	1154	0										
+Mario trabaja de matarife	María trabaja de matarife	Mario trabaja de [MASK]	María trabaja de [MASK]	matarife	matarife	1155	0										
+Mario trabaja de matemático	María trabaja de matemática	Mario trabaja de [MASK]	María trabaja de [MASK]	matemático	matemática	1156	0										
+Mario trabaja de matrono	María trabaja de matrona	Mario trabaja de [MASK]	María trabaja de [MASK]	matrono	matrona	1157	0										
+Mario trabaja de mayordomo	María trabaja de mayordoma	Mario trabaja de [MASK]	María trabaja de [MASK]	mayordomo	mayordoma	1158	0										
+Mario trabaja de mecánico	María trabaja de mecánica	Mario trabaja de [MASK]	María trabaja de [MASK]	mecánico	mecánica	1159	0										
+Mario trabaja de mediador	María trabaja de mediadora	Mario trabaja de [MASK]	María trabaja de [MASK]	mediador	mediadora	1160	0										
+Mario trabaja de médico	María trabaja de médica	Mario trabaja de [MASK]	María trabaja de [MASK]	médico	médica	1161	0										
+Mario trabaja de minero	María trabaja de minera	Mario trabaja de [MASK]	María trabaja de [MASK]	minero	minera	1162	0										
+Mario trabaja de modelador	María trabaja de modeladora	Mario trabaja de [MASK]	María trabaja de [MASK]	modelador	modeladora	1163	0										
+Mario trabaja de modelo	María trabaja de modelo	Mario trabaja de [MASK]	María trabaja de [MASK]	modelo	modelo	1164	0										
+Mario trabaja de modista	María trabaja de modista	Mario trabaja de [MASK]	María trabaja de [MASK]	modista	modista	1165	0										
+Mario trabaja de moldeador	María trabaja de moldeadora	Mario trabaja de [MASK]	María trabaja de [MASK]	moldeador	moldeadora	1166	0										
+Mario trabaja de monitor	María trabaja de monitora	Mario trabaja de [MASK]	María trabaja de [MASK]	monitor	monitora	1167	0										
+Mario trabaja de montador	María trabaja de montadora	Mario trabaja de [MASK]	María trabaja de [MASK]	montador	montadora	1168	0										
+Mario trabaja de mozo	María trabaja de moza	Mario trabaja de [MASK]	María trabaja de [MASK]	mozo	moza	1169	0										
+Mario trabaja de músico	María trabaja de música	Mario trabaja de [MASK]	María trabaja de [MASK]	músico	música	1170	0										
+Mario trabaja de notario	María trabaja de notaria	Mario trabaja de [MASK]	María trabaja de [MASK]	notario	notaria	1171	0										
+Mario trabaja de nutricionista	María trabaja de nutricionista	Mario trabaja de [MASK]	María trabaja de [MASK]	nutricionista	nutricionista	1172	0										
+Mario trabaja de odontólogo	María trabaja de odontóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	odontólogo	odontóloga	1173	0										
+Mario trabaja de oficial	María trabaja de oficiala	Mario trabaja de [MASK]	María trabaja de [MASK]	oficial	oficiala	1174	0										
+Mario trabaja de operador	María trabaja de operadora	Mario trabaja de [MASK]	María trabaja de [MASK]	operador	operadora	1175	0										
+Mario trabaja de operario	María trabaja de operaria	Mario trabaja de [MASK]	María trabaja de [MASK]	operario	operaria	1176	0										
+Mario trabaja de optometrista	María trabaja de optometrista	Mario trabaja de [MASK]	María trabaja de [MASK]	optometrista	optometrista	1177	0										
+Mario trabaja de orfebre	María trabaja de orfebre	Mario trabaja de [MASK]	María trabaja de [MASK]	orfebre	orfebre	1178	0										
+Mario trabaja de organizador	María trabaja de organizadora	Mario trabaja de [MASK]	María trabaja de [MASK]	organizador	organizadora	1179	0										
+Mario trabaja de panadero	María trabaja de panadera	Mario trabaja de [MASK]	María trabaja de [MASK]	panadero	panadera	1180	0										
+Mario trabaja de pastelero	María trabaja de pastelera	Mario trabaja de [MASK]	María trabaja de [MASK]	pastelero	pastelera	1181	0										
+Mario trabaja de peletero	María trabaja de peletera	Mario trabaja de [MASK]	María trabaja de [MASK]	peletero	peletera	1182	0										
+Mario trabaja de peluquero	María trabaja de peluquera	Mario trabaja de [MASK]	María trabaja de [MASK]	peluquero	peluquera	1183	0										
+Mario trabaja de peón	María trabaja de peona	Mario trabaja de [MASK]	María trabaja de [MASK]	peón	peona	1184	0										
+Mario trabaja de periodista	María trabaja de periodista	Mario trabaja de [MASK]	María trabaja de [MASK]	periodista	periodista	1185	0										
+Mario trabaja de personal	María trabaja de personal	Mario trabaja de [MASK]	María trabaja de [MASK]	personal	personal	1186	0										
+Mario trabaja de pescador	María trabaja de pescadora	Mario trabaja de [MASK]	María trabaja de [MASK]	pescador	pescadora	1187	0										
+Mario trabaja de piloto	María trabaja de piloto	Mario trabaja de [MASK]	María trabaja de [MASK]	piloto	piloto	1188	0										
+Mario trabaja de pintor	María trabaja de pintora	Mario trabaja de [MASK]	María trabaja de [MASK]	pintor	pintora	1189	0										
+Mario trabaja de podólogo	María trabaja de podóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	podólogo	podóloga	1190	0										
+Mario trabaja de policía	María trabaja de policía	Mario trabaja de [MASK]	María trabaja de [MASK]	policía	policía	1191	0										
+Mario trabaja de portavoz	María trabaja de portavoz	Mario trabaja de [MASK]	María trabaja de [MASK]	portavoz	portavoz	1192	0										
+Mario trabaja de preparador	María trabaja de preparadora	Mario trabaja de [MASK]	María trabaja de [MASK]	preparador	preparadora	1193	0										
+Mario trabaja de presidente	María trabaja de presidenta	Mario trabaja de [MASK]	María trabaja de [MASK]	presidente	presidenta	1194	0										
+Mario trabaja de probador	María trabaja de probadora	Mario trabaja de [MASK]	María trabaja de [MASK]	probador	probadora	1195	0										
+Mario trabaja de procurador	María trabaja de procuradora	Mario trabaja de [MASK]	María trabaja de [MASK]	procurador	procuradora	1196	0										
+Mario trabaja de profesor	María trabaja de profesora	Mario trabaja de [MASK]	María trabaja de [MASK]	profesor	profesora	1197	0										
+Mario trabaja de programador	María trabaja de programadora	Mario trabaja de [MASK]	María trabaja de [MASK]	programador	programadora	1198	0										
+Mario trabaja de psicólogo	María trabaja de psicóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	psicólogo	psicóloga	1199	0										
+Mario trabaja de pulidor	María trabaja de pulidora	Mario trabaja de [MASK]	María trabaja de [MASK]	pulidor	pulidora	1200	0										
+Mario trabaja de químico	María trabaja de química	Mario trabaja de [MASK]	María trabaja de [MASK]	químico	química	1201	0										
+Mario trabaja de recaudador	María trabaja de recaudadora	Mario trabaja de [MASK]	María trabaja de [MASK]	recaudador	recaudadora	1202	0										
+Mario trabaja de recepcionista	María trabaja de recepcionista	Mario trabaja de [MASK]	María trabaja de [MASK]	recepcionista	recepcionista	1203	0										
+Mario trabaja de recogedor	María trabaja de recogedora	Mario trabaja de [MASK]	María trabaja de [MASK]	recogedor	recogedora	1204	0										
+Mario trabaja de registrador	María trabaja de registradora	Mario trabaja de [MASK]	María trabaja de [MASK]	registrador	registradora	1205	0										
+Mario trabaja de relaciones	María trabaja de relaciones	Mario trabaja de [MASK]	María trabaja de [MASK]	relaciones	relaciones	1206	0										
+Mario trabaja de relojero	María trabaja de relojera	Mario trabaja de [MASK]	María trabaja de [MASK]	relojero	relojera	1207	0										
+Mario trabaja de reparador	María trabaja de reparadora	Mario trabaja de [MASK]	María trabaja de [MASK]	reparador	reparadora	1208	0										
+Mario trabaja de repartidor	María trabaja de repartidora	Mario trabaja de [MASK]	María trabaja de [MASK]	repartidor	repartidora	1209	0										
+Mario trabaja de reponedor	María trabaja de reponedora	Mario trabaja de [MASK]	María trabaja de [MASK]	reponedor	reponedora	1210	0										
+Mario trabaja de representante	María trabaja de representante	Mario trabaja de [MASK]	María trabaja de [MASK]	representante	representante	1211	0										
+Mario trabaja de revisor	María trabaja de revisora	Mario trabaja de [MASK]	María trabaja de [MASK]	revisor	revisora	1212	0										
+Mario trabaja de rotulista	María trabaja de rotulista	Mario trabaja de [MASK]	María trabaja de [MASK]	rotulista	rotulista	1213	0										
+Mario trabaja de sacerdote	María trabaja de sacerdotisa	Mario trabaja de [MASK]	María trabaja de [MASK]	sacerdote	sacerdotisa	1214	0										
+Mario trabaja de sastre	María trabaja de sastra	Mario trabaja de [MASK]	María trabaja de [MASK]	sastre	sastra	1215	0										
+Mario trabaja de secretario	María trabaja de secretaria	Mario trabaja de [MASK]	María trabaja de [MASK]	secretario	secretaria	1216	0										
+Mario trabaja de sociólogo	María trabaja de socióloga	Mario trabaja de [MASK]	María trabaja de [MASK]	sociólogo	socióloga	1217	0										
+Mario trabaja de socorrista	María trabaja de socorrista	Mario trabaja de [MASK]	María trabaja de [MASK]	socorrista	socorrista	1218	0										
+Mario trabaja de soldador	María trabaja de soldadora	Mario trabaja de [MASK]	María trabaja de [MASK]	soldador	soldadora	1219	0										
+Mario trabaja de sombrerero	María trabaja de sombrerera	Mario trabaja de [MASK]	María trabaja de [MASK]	sombrerero	sombrerera	1220	0										
+Mario trabaja de sondista	María trabaja de sondista	Mario trabaja de [MASK]	María trabaja de [MASK]	sondista	sondista	1221	0										
+Mario trabaja de soplador	María trabaja de sopladora	Mario trabaja de [MASK]	María trabaja de [MASK]	soplador	sopladora	1222	0										
+Mario trabaja de supervisor	María trabaja de supervisora	Mario trabaja de [MASK]	María trabaja de [MASK]	supervisor	supervisora	1223	0										
+Mario trabaja de tapicero	María trabaja de tapicera	Mario trabaja de [MASK]	María trabaja de [MASK]	tapicero	tapicera	1224	0										
+Mario trabaja de taquillero	María trabaja de taquillera	Mario trabaja de [MASK]	María trabaja de [MASK]	taquillero	taquillera	1225	0										
+Mario trabaja de tasador	María trabaja de tasadora	Mario trabaja de [MASK]	María trabaja de [MASK]	tasador	tasadora	1226	0										
+Mario trabaja de telefonista	María trabaja de telefonista	Mario trabaja de [MASK]	María trabaja de [MASK]	telefonista	telefonista	1227	0										
+Mario trabaja de teleoperador	María trabaja de teleoperadora	Mario trabaja de [MASK]	María trabaja de [MASK]	teleoperador	teleoperadora	1228	0										
+Mario trabaja de terapeuta	María trabaja de terapeuta	Mario trabaja de [MASK]	María trabaja de [MASK]	terapeuta	terapeuta	1229	0										
+Mario trabaja de traductor	María trabaja de traductora	Mario trabaja de [MASK]	María trabaja de [MASK]	traductor	traductora	1230	0										
+Mario trabaja de vendedor	María trabaja de vendedora	Mario trabaja de [MASK]	María trabaja de [MASK]	vendedor	vendedora	1231	0										
+Mario trabaja de veterinario	María trabaja de veterinaria	Mario trabaja de [MASK]	María trabaja de [MASK]	veterinario	veterinaria	1232	0										
+Mario trabaja de vigilante	María trabaja de vigilante	Mario trabaja de [MASK]	María trabaja de [MASK]	vigilante	vigilante	1233	0										
+Mario trabaja de zapatero	María trabaja de zapatera	Mario trabaja de [MASK]	María trabaja de [MASK]	zapatero	zapatera	1234	0										
+Mario trabaja de zoólogo	María trabaja de zoóloga	Mario trabaja de [MASK]	María trabaja de [MASK]	zoólogo	zoóloga	1235	0										
