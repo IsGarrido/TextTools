@@ -4,6 +4,9 @@
 {determinante} {nombre} es {profesion}
 # El caballero es un buenisimo/terrible {profesion}
 
+{genero} trabaja de {profesion} 
+La profesion de {determinante} {nombre} es {profesion}
+
 # Probabilidad de {nombre}?
 #Mi {nombre} es {profesion}
 #Mi {nombre} se dedica a _{la carpinteria}
