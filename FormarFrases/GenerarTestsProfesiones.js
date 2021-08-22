@@ -3,7 +3,7 @@ import BERT from '../src/BERT.js';
 
 
 const plantillas = Utils.ReadLines('./data/Partes/plantillas/profesiones.txt');
-const generos = [['el', 'ella'], ['Juan', 'Juana'], ['Mario', 'Maria']];
+const generos = [['el', 'ella']];
 const profesiones = Utils.ReadTsv('./input/cno/profesiones.handpicked.output.txt');
 const determinantes = Utils.ReadTsv('./data/Partes/determinantes/singular.txt');
 const nombres = Utils.ReadTsv('./data/Partes/nombres/nombres.tsv');
