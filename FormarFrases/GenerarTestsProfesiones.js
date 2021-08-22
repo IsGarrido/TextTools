@@ -12,7 +12,7 @@ const adjNegativos = Utils.ReadTsv('./data/Partes/adjetivos/negativos.singular.t
 const adjPositivos = Utils.ReadTsv('./data/Partes/adjetivos/positivos.singular.txt');
 let adjOtros = Utils.ReadTsv('./data/Partes/adjetivos/otros.singular.txt');
 const adjColores = Utils.ReadTsv('./data/Partes/adjetivos/colores.txt');
-//adjOtros = adjColores;
+adjOtros = adjColores;
 
 let uid = 0;
 let pId = 0;
