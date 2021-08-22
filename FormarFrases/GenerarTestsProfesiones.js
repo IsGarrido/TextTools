@@ -8,7 +8,7 @@ const profesiones = Utils.ReadTsv('./input/cno/profesiones.handpicked.output.no_
 const determinantes = Utils.ReadTsv('./data/Partes/determinantes/singular.txt');
 const nombres = Utils.ReadTsv('./data/Partes/nombres/nombres.tsv');
 
-//const adjNegativos = Utils.ReadTsv('./data/Partes/adjetivos/negativos.singular.txt');
+// const adjNegativos = Utils.ReadTsv('./data/Partes/adjetivos/negativos.singular.txt');
 const adjNegativos = Utils.ReadTsv('./data/Partes/adjetivos/colores.txt');
 const adjPositivos = Utils.ReadTsv('./data/Partes/adjetivos/positivos.singular.txt');
 const adjOtros = Utils.ReadTsv('./data/Partes/adjetivos/otros.singular.txt');
