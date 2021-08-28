@@ -10,13 +10,32 @@ const nombres = Utils.ReadTsv('./data/Partes/nombres/nombres.tsv');
 
 const adjNegativos = Utils.ReadTsv('./data/Partes/adjetivos/negativos.singular.txt');
 const adjPositivos = Utils.ReadTsv('./data/Partes/adjetivos/positivos.singular.txt');
-let adjOtros = Utils.ReadTsv('./data/Partes/adjetivos/otros.singular.txt');
+const adjOtros = Utils.ReadTsv('./data/Partes/adjetivos/otros.singular.txt');
 const adjColores = Utils.ReadTsv('./data/Partes/adjetivos/colores.txt');
-adjOtros = adjColores;
+
+// Mezcla equilibrada de adj positivos, negativos y otros. Se mete un color al final para llegar a los 100.
+const adjMixed = [];
+Array(33).fill(0).map((_, i) => {
+  adjMixed.push(adjNegativos[i]);
+  adjMixed.push(adjPositivos[i]);
+  adjMixed.push(adjOtros[i]);
+});
+adjMixed.push(adjColores[0]);
+
+
 
 let uid = 0;
 let pId = 0;
 let results = [];
+
+function WriteTest(lines, masked_items, tested_item, tested_with, extra = ''){
+  let prePath = './FormarFrases/tests/';
+  let path = prePath + masked_items + '/' + tested_item + "_foreach_" + tested_with;
+  if(extra != '')
+    path = path + "_" + extra;
+  path += ".test.tsv";
+  Utils.WriteLines(path, lines);
+}
 
 /*
 ██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████         ███    ███ 
@@ -49,7 +68,9 @@ for(const plantillaIt of plantillasGenero){
     }
   }
 }
-Utils.WriteLines('./FormarFrases/tests/test1.profesiones_small.test.tsv', results);
+
+WriteTest(results, 'profesion', 'profesion', 'genero', '1_small');
+//Utils.WriteLines('./FormarFrases/tests/test1.profesiones_small.test.tsv', results);
 
 // Test avanzado 1
 pId++;
@@ -75,7 +96,9 @@ for(const plantillaIt of plantillasDeterminante){
   }
 }
 
-Utils.WriteLines('./FormarFrases/tests/test2.profesiones_big.test.tsv', results);
+WriteTest(results, 'profesion', 'profesion', 'genero', '2_big');
+// Utils.WriteLines('./FormarFrases/tests/test2.profesiones_big.test.tsv', results);
+
 
 /*
 ██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████          ██████  ███████ ███    ██ ███████ ██████   ██████          ███    ███ 
@@ -84,6 +107,7 @@ Utils.WriteLines('./FormarFrases/tests/test2.profesiones_big.test.tsv', results)
 ██      ██   ██ ██    ██ ██      ██           ██ ██ ██    ██ ██  ██ ██ ██           ██         ██    ██ ██      ██  ██ ██ ██      ██   ██ ██    ██         ██  ██  ██ 
 ██      ██   ██  ██████  ██      ███████ ███████ ██  ██████  ██   ████ ███████ ███████ ███████  ██████  ███████ ██   ████ ███████ ██   ██  ██████  ███████ ██      ██ 
 */
+
 // invertir 1 y 2
 results = []
 plantilla = plantillas[0];
@@ -104,7 +128,10 @@ for(const plantillaIt of plantillasGenero){
     }
   }
 }
-Utils.WriteLines('./FormarFrases/tests/test3.profesiones_small_alt.test.tsv', results);
+
+WriteTest(results, 'genero', 'genero', 'profesion', '1_small');
+
+// Utils.WriteLines('./FormarFrases/tests/test3.profesiones_small_alt.test.tsv', results);
 
 pId++;
 plantilla = plantillas[1];
@@ -129,7 +156,8 @@ for(const plantillaIt of plantillasDeterminante){
   }
 }
 
-Utils.WriteLines('./FormarFrases/tests/test4.profesiones_big_alt.test.tsv', results);
+WriteTest(results, 'genero', 'genero', 'profesion', '2_big');
+//Utils.WriteLines('./FormarFrases/tests/test4.profesiones_big_alt.test.tsv', results);
 
 
 /* Log odds */
@@ -185,9 +213,9 @@ for(const plantillaIt of plantillasDeterminante){
   }
 }
 
+WriteTest(results, 'nombre_determinante_profesion', 'profesion', 'nombre_determinante', 'odss');
 
-Utils.WriteLines('./FormarFrases/tests/profesiones.odds.test.tsv', results);
-//Utils.WriteLines('./FormarFrases/tests/profesiones.odds.test.csv', results.map((x) => x.replace(/\t/g, ';')));
+//Utils.WriteLines('./FormarFrases/tests/profesiones.odds.test.tsv', results);
   
 
 /* Log odds genero */
@@ -217,7 +245,8 @@ for(const plantillaIt of plantillasGenero){
   }
 }
 
-Utils.WriteLines('./FormarFrases/tests/profesiones.alt.odds.test.tsv', results);
+WriteTest(results, 'genero_profesion', 'genero', 'profesion', 'odss');
+//Utils.WriteLines('./FormarFrases/tests/profesiones.alt.odds.test.tsv', results);
 
 
 /* Test cargandote el attributo */
@@ -249,7 +278,9 @@ for(const plantillaIt of plantillasGenero){
   }
 }
 
-Utils.WriteLines('./FormarFrases/tests/profesiones.6.test.tsv', results);
+WriteTest(results, 'genero_profesion', 'profesion', 'genero', 'odss');
+Utils.WriteLines('./FormarFrases/tests/Z_Revisar/profesiones.6.test.tsv', results);
+//Utils.WriteLines('./FormarFrases/tests/profesiones.6.test.tsv', results);
 
 /*
 ██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████         ███    ███     ███    ███  █████  ███████  ██████ 
@@ -282,7 +313,9 @@ for(const plantillaIt of plantillasGenero){
   }
 }
 
-Utils.WriteLines('./FormarFrases/tests/test7.profesiones_masculinas_el_ella.test.tsv', results);
+WriteTest(results, 'genero', 'genero', 'profesion', 'masculina_el_ella');
+
+//Utils.WriteLines('./FormarFrases/tests/5_genero_enmascarado_profesion_masculina/1_el_ella.test.tsv', results);
 
 /*
 ██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████          ██████  ███████ ███    ██ ███████ ██████   ██████          ███    ███     ███    ███  █████  ███████  ██████ 
@@ -316,7 +349,8 @@ for(const plantillaIt of plantillasGenero){
   }
 }
 
-Utils.WriteLines('./FormarFrases/tests/test8.genero_profesiones_masculinas_el_ella.test.tsv', results);
+WriteTest(results, 'profesion', 'profesion_masculina', 'genero');
+//Utils.WriteLines('./FormarFrases/tests/6_profesion_enmascarado_genero_m.test.tsv', results);
 
 /*
  █████  ██████       ██ ███████ ████████ ██ ██    ██  ██████  ███████ 
@@ -378,17 +412,32 @@ function generarTestAdjetivosEnmascaraGenero(listaAdjetivos){
 //    9 - Adjetivos positivos. 
 //    10 - Adjetivos otros. 
 //    11 - Adjetivos negativos. 
-Utils.WriteLines('./FormarFrases/tests/test9.adjetivos_enmascarados_positivos.test.tsv', generarTestAdjetivos(adjPositivos));
-Utils.WriteLines('./FormarFrases/tests/test10.adjetivos_enmascarados_otros.test.tsv', generarTestAdjetivos(adjOtros));
-Utils.WriteLines('./FormarFrases/tests/test11.adjetivos_enmascarados_negativos.test.tsv', generarTestAdjetivos(adjNegativos));
+WriteTest(generarTestAdjetivos(adjPositivos), 'adjetivo', 'adjetivo', 'genero', 'positivos');
+WriteTest(generarTestAdjetivos(adjOtros), 'adjetivo', 'adjetivo', 'genero', 'otros');
+WriteTest(generarTestAdjetivos(adjColores), 'adjetivo', 'adjetivo', 'genero', 'colores');
+WriteTest(generarTestAdjetivos(adjNegativos), 'adjetivo', 'adjetivo', 'genero', 'negativos');
+WriteTest(generarTestAdjetivos(adjMixed), 'adjetivo', 'adjetivo', 'genero', 'mezclados');
+
+// Utils.WriteLines('./FormarFrases/tests/test9.adjetivos_enmascarados_positivos.test.tsv', generarTestAdjetivos(adjPositivos));
+// Utils.WriteLines('./FormarFrases/tests/test10.adjetivos_enmascarados_otros.test.tsv', generarTestAdjetivos(adjOtros));
+// Utils.WriteLines('./FormarFrases/tests/test10.adjetivos_enmascarados_otros.test.tsv', generarTestAdjetivos(adjColores));
+// Utils.WriteLines('./FormarFrases/tests/test11.adjetivos_enmascarados_negativos.test.tsv', generarTestAdjetivos(adjNegativos));
 
 // Enmascara el genero
 //    12 - Adjetivos positivos. 
 //    13 - Adjetivos otros. 
 //    14 - Adjetivos negativos. 
-Utils.WriteLines('./FormarFrases/tests/test12.genero_adjetivos_enmascarados_positivos.test.tsv', generarTestAdjetivosEnmascaraGenero(adjPositivos));
-Utils.WriteLines('./FormarFrases/tests/test13.genero_adjetivos_enmascarados_otros.test.tsv', generarTestAdjetivosEnmascaraGenero(adjOtros));
-Utils.WriteLines('./FormarFrases/tests/test14.genero_adjetivos_enmascarados_negativos.test.tsv', generarTestAdjetivosEnmascaraGenero(adjNegativos));
+WriteTest(generarTestAdjetivosEnmascaraGenero(adjPositivos), 'genero', 'genero', 'adjetivo', 'positivos');
+WriteTest(generarTestAdjetivosEnmascaraGenero(adjOtros), 'genero', 'genero', 'adjetivo', 'otros');
+WriteTest(generarTestAdjetivosEnmascaraGenero(adjColores), 'genero', 'genero', 'adjetivo', 'colores');
+WriteTest(generarTestAdjetivosEnmascaraGenero(adjNegativos), 'genero', 'genero', 'adjetivo', 'negativos');
+WriteTest(generarTestAdjetivosEnmascaraGenero(adjMixed), 'genero', 'genero', 'adjetivo', 'mezclados');
+
+
+
+// Utils.WriteLines('./FormarFrases/tests/test12.genero_adjetivos_enmascarados_positivos.test.tsv', generarTestAdjetivosEnmascaraGenero(adjPositivos));
+// Utils.WriteLines('./FormarFrases/tests/test13.genero_adjetivos_enmascarados_otros.test.tsv', generarTestAdjetivosEnmascaraGenero(adjOtros));
+// Utils.WriteLines('./FormarFrases/tests/test14.genero_adjetivos_enmascarados_negativos.test.tsv', generarTestAdjetivosEnmascaraGenero(adjNegativos));
 
 
 
@@ -438,18 +487,30 @@ function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos, plantilla = '
 //    15 - Adjetivos positivos. 
 //    16 - Adjetivos otros. 
 //    17 - Adjetivos negativos. 
-Utils.WriteLines('./FormarFrases/tests/test15.genero_adjetivos_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos));
-Utils.WriteLines('./FormarFrases/tests/test16.genero_adjetivos_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros));
-Utils.WriteLines('./FormarFrases/tests/test17.genero_adjetivos_enmascarados_negativos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos));
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos), 'genero', 'genero', 'adjetivo', 'positivos');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjOtros), 'genero', 'genero', 'adjetivo', 'otros');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjColores), 'genero', 'genero', 'adjetivo', 'colores');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos), 'genero', 'genero', 'adjetivo', 'negativos');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjMixed), 'genero', 'genero', 'adjetivo', 'mezclados');
+
+// Utils.WriteLines('./FormarFrases/tests/test15.genero_adjetivos_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos));
+// Utils.WriteLines('./FormarFrases/tests/test16.genero_adjetivos_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros));
+// Utils.WriteLines('./FormarFrases/tests/test17.genero_adjetivos_enmascarados_negativos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos));
 
 // Niega la frase - Enmascara el genero - Grande
 //    21 - Adjetivos positivos con negación. 
 //    22 - Adjetivos otros con negación. 
 //    23 - Adjetivos negativos con negación. 
 let plantillaNegada = 'su {genero} no es {adjetivo}';
-Utils.WriteLines('./FormarFrases/tests/test21.genero_adjetivos_negados_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos, plantillaNegada));
-Utils.WriteLines('./FormarFrases/tests/test22.genero_adjetivos_negados_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros, plantillaNegada));
-Utils.WriteLines('./FormarFrases/tests/test23.genero_adjetivos_negados_enmascarados_negativos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos, plantillaNegada));
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos, plantillaNegada), 'genero', 'genero', 'adjetivo', 'positivos', 'plantilla_negada');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjOtros, plantillaNegada), 'genero', 'genero', 'adjetivo', 'otros', 'plantilla_negada');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjColores, plantillaNegada), 'genero', 'genero', 'adjetivo', 'colores', 'plantilla_negada');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos, plantillaNegada), 'genero', 'genero', 'adjetivo', 'negativos', 'plantilla_negada');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjMixed, plantillaNegada), 'genero', 'genero', 'adjetivo', 'mezclados', 'plantilla_negada');
+
+// Utils.WriteLines('./FormarFrases/tests/test21.genero_adjetivos_negados_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos, plantillaNegada));
+// Utils.WriteLines('./FormarFrases/tests/test22.genero_adjetivos_negados_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros, plantillaNegada));
+// Utils.WriteLines('./FormarFrases/tests/test23.genero_adjetivos_negados_enmascarados_negativos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos, plantillaNegada));
 
 /*
  █████  ██████       ██ ███████ ████████ ██ ██    ██  ██████  ███████      ██████  ██████  ███    ██     ██████  ██████   ██████  ███████ ███████ ███████ ██  ██████  ███    ██ ███████ ███████ 
@@ -488,6 +549,19 @@ function generarTestAdjetivosConProfesionesEnmascaraProfesion(listaAdjetivos){
 //    18 - Adjetivos positivos. 
 //    19 - Adjetivos otros. 
 //    20 - Adjetivos negativos. 
-Utils.WriteLines('./FormarFrases/tests/test18.adjetivos_con_profesiones_enmascaradas_positivos.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjPositivos));
-Utils.WriteLines('./FormarFrases/tests/test19.adjetivos_con_profesiones_enmascaradas_otros.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjOtros));
-Utils.WriteLines('./FormarFrases/tests/test20.adjetivos_con_profesiones_enmascaradas_negativos.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjNegativos));
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos, plantillaNegada), 'genero', 'genero', 'adjetivo', 'positivos', 'plantilla_negada');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjOtros, plantillaNegada), 'genero', 'genero', 'adjetivo', 'otros', 'plantilla_negada');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjColores, plantillaNegada), 'genero', 'genero', 'adjetivo', 'colores', 'plantilla_negada');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos, plantillaNegada), 'genero', 'genero', 'adjetivo', 'negativos', 'plantilla_negada');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjMixed, plantillaNegada), 'genero', 'genero', 'adjetivo', 'mezclados', 'plantilla_negada');
+
+WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjPositivos), 'genero', 'genero', 'adjetivo', 'positivos');
+WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjOtros), 'genero', 'genero', 'adjetivo', 'colores');
+WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjColores), 'genero', 'genero', 'adjetivo', 'colores');
+WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjNegativos), 'genero', 'genero', 'adjetivo', 'negativos');
+WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjMixed), 'genero', 'genero', 'adjetivo', 'mezclados');
+
+
+// Utils.WriteLines('./FormarFrases/tests/test18.adjetivos_con_profesiones_enmascaradas_positivos.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjPositivos));
+// Utils.WriteLines('./FormarFrases/tests/test19.adjetivos_con_profesiones_enmascaradas_otros.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjOtros));
+// Utils.WriteLines('./FormarFrases/tests/test20.adjetivos_con_profesiones_enmascaradas_negativos.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjNegativos));
