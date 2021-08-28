@@ -28,6 +28,8 @@ let uid = 0;
 let pId = 0;
 let results = [];
 
+let dictEscrituras = {};
+
 function WriteTest(lines, masked_items, tested_item, tested_with, extra = ''){
   let prePath = './FormarFrases/tests/';
   let path = prePath + masked_items + '/' + tested_item + "_foreach_" + tested_with;
@@ -35,6 +37,7 @@ function WriteTest(lines, masked_items, tested_item, tested_with, extra = ''){
     path = path + "_" + extra;
   path += ".test.tsv";
   Utils.WriteLines(path, lines);
+  dictEscrituras[path] = dictEscrituras[path] ? dictEscrituras[path] + 1 : 0;
 }
 
 /*
@@ -487,11 +490,11 @@ function generarTestAdjetivosEnmascaraGeneroGrande(listaAdjetivos, plantilla = '
 //    15 - Adjetivos positivos. 
 //    16 - Adjetivos otros. 
 //    17 - Adjetivos negativos. 
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos), 'genero', 'genero', 'adjetivo', 'positivos');
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjOtros), 'genero', 'genero', 'adjetivo', 'otros');
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjColores), 'genero', 'genero', 'adjetivo', 'colores');
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos), 'genero', 'genero', 'adjetivo', 'negativos');
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjMixed), 'genero', 'genero', 'adjetivo', 'mezclados');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos), 'genero', 'genero', 'adjetivo', 'positivos', 'grande');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjOtros), 'genero', 'genero', 'adjetivo', 'otros', 'grande');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjColores), 'genero', 'genero', 'adjetivo', 'colores', 'grande');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos), 'genero', 'genero', 'adjetivo', 'negativos', 'grande');
+WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjMixed), 'genero', 'genero', 'adjetivo', 'mezclados', 'grande');
 
 // Utils.WriteLines('./FormarFrases/tests/test15.genero_adjetivos_enmascarados_positivos_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos));
 // Utils.WriteLines('./FormarFrases/tests/test16.genero_adjetivos_enmascarados_otros_grande.test.tsv', generarTestAdjetivosEnmascaraGeneroGrande(adjOtros));
@@ -549,12 +552,6 @@ function generarTestAdjetivosConProfesionesEnmascaraProfesion(listaAdjetivos){
 //    18 - Adjetivos positivos. 
 //    19 - Adjetivos otros. 
 //    20 - Adjetivos negativos. 
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjPositivos, plantillaNegada), 'genero', 'genero', 'adjetivo', 'positivos', 'plantilla_negada');
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjOtros, plantillaNegada), 'genero', 'genero', 'adjetivo', 'otros', 'plantilla_negada');
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjColores, plantillaNegada), 'genero', 'genero', 'adjetivo', 'colores', 'plantilla_negada');
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjNegativos, plantillaNegada), 'genero', 'genero', 'adjetivo', 'negativos', 'plantilla_negada');
-WriteTest(generarTestAdjetivosEnmascaraGeneroGrande(adjMixed, plantillaNegada), 'genero', 'genero', 'adjetivo', 'mezclados', 'plantilla_negada');
-
 WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjPositivos), 'genero', 'genero', 'adjetivo', 'positivos');
 WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjOtros), 'genero', 'genero', 'adjetivo', 'colores');
 WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjColores), 'genero', 'genero', 'adjetivo', 'colores');
@@ -565,3 +562,5 @@ WriteTest(generarTestAdjetivosConProfesionesEnmascaraProfesion(adjMixed), 'gener
 // Utils.WriteLines('./FormarFrases/tests/test18.adjetivos_con_profesiones_enmascaradas_positivos.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjPositivos));
 // Utils.WriteLines('./FormarFrases/tests/test19.adjetivos_con_profesiones_enmascaradas_otros.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjOtros));
 // Utils.WriteLines('./FormarFrases/tests/test20.adjetivos_con_profesiones_enmascaradas_negativos.test.tsv', generarTestAdjetivosConProfesionesEnmascaraProfesion(adjNegativos));
+
+console.log(dictEscrituras);
