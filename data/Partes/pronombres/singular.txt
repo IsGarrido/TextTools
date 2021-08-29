@@ -1,4 +1,4 @@
-él	ella
+el	ella
 este	esta
 ese	esa
 aquel	aquella
