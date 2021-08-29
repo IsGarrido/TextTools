@@ -1,4 +1,6 @@
-el	ella
+él	ella
 este	esta
 ese	esa
 aquel	aquella
+luis	luisa
+juan	juana
