@@ -9,7 +9,9 @@ class Repository {
 
     load(){
         this.plantillas = Utils.ReadLines('./data/Plantillas/plantillas.txt');
-        this.genero = [['el', 'ella']/*, ['Juan', 'Juana'], ['Mario', 'María']*/];
+        //his.genero = [['el', 'ella']/*, ['Juan', 'Juana'], ['Mario', 'María']*/];
+        this.genero = Utils.ReadTsv('./data/Partes/pronombres/singular.txt');
+        //Utils.ReadTsv('./data/Partes/articulos/singular.txt');
         this.profesion = Utils.ReadTsv('./input/cno/profesiones.handpicked.output.no_spaces.txt');
         this.determinante = Utils.ReadTsv('./data/Partes/determinantes/singular.txt');
         this.nombre = Utils.ReadTsv('./data/Partes/nombres/nombres.tsv');
