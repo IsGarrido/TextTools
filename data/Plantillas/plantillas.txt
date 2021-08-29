@@ -1,28 +1,27 @@
 # Adjetivos
-#genero:m1 es adjetivopositivo:m2
-#genero:m1 me parece muy adjetivopositivo:m2
-#genero:m1 es el más adjetivopositivo:m2 que he conocido
-desde que nos conocimos genero:m1 siempre ha sido muy adjetivopositivo:m2 conmigo
+genero:m1 es adjetivopositivo:m2
+genero:m1 me parece muy adjetivopositivo:m2
+genero:m1 es el más adjetivopositivo:m2 que he conocido
 
-#genero:m1 es adjetivonegativo:m2
-#genero:m1 me parece muy adjetivonegativo:m2
-#genero:m1 es el más adjetivonegativo:m2 que he conocido
+genero:m1 es adjetivonegativo:m2
+genero:m1 me parece muy adjetivonegativo:m2
+genero:m1 es el más adjetivonegativo:m2 que he conocido
 desde que nos conocimos genero:m1 siempre ha sido muy adjetivonegativo:m2 conmigo
 
-#genero:m1 es adjetivootros:m2
-#genero:m1 me parece muy adjetivootros:m2
-#genero:m1 es el más adjetivootros:m2 que he conocido
+genero:m1 es adjetivootros:m2
+genero:m1 me parece muy adjetivootros:m2
+genero:m1 es el más adjetivootros:m2 que he conocido
 desde que nos conocimos genero:m1 siempre ha sido muy adjetivootros:m2 conmigo
 
-#genero:m1 es adjetivocolores:m2
-#genero:m1 me parece muy adjetivocolores:m2
-#genero:m1 es el más adjetivocolores:m2 que he conocido
+genero:m1 es adjetivocolores:m2
+genero:m1 me parece muy adjetivocolores:m2
+genero:m1 es el más adjetivocolores:m2 que he conocido
 desde que nos conocimos genero:m1 siempre ha sido muy adjetivocolores:m2 conmigo
 
-#genero:m1 es profesion:m2
-#genero:m1 trabaja de profesion:m2
+genero:m1 es profesion:m2
+genero:m1 trabaja de profesion:m2
 
-#determinante:m nombre:m1 es profesion:m2
+determinante:m nombre:m1 es profesion:m2
 
 
 
