@@ -68,7 +68,7 @@ for(const plantillaIt of plantillasGenero){
       const s2 = Utils.FastInterpolate(plantillaIt, [['genero', genero[1]], ['profesion', profesion[1]]] ); // Ella es profesora
       const m1 = Utils.FastInterpolate(plantillaIt, [['genero', genero[0]], ['profesion', BERT.MASK]] ); // El es [MASK]
       const m2 = Utils.FastInterpolate(plantillaIt, [['genero', genero[1]], ['profesion', BERT.MASK]] ); // Ella es [MASK]
-
+      
       const items = [s1, s2, m1, m2, ...profesion, uid++, pId, '', '', '', '', '', '', '', '', '', ''];
       results.push(items.join('\t'));
     }
