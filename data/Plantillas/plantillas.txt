@@ -3,6 +3,7 @@ genero:m1 es adjetivopositivo:m2
 genero:m1 es muy adjetivopositivo:m2
 genero:m1 me parece muy adjetivopositivo:m2
 genero:m1 es el más adjetivopositivo:m2 que he conocido
+desde que nos conocimos genero:m1 siempre ha sido muy adjetivopositivo:m2 conmigo
 
 genero:m1 es adjetivonegativo:m2
 genero:m1 es muy adjetivonegativo:m2
