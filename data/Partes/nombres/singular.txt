@@ -2,14 +2,14 @@
 caballero	dama
 #chaval	chavala
 chico	chica
-chiquillo	chiquilla
+#chiquillo	chiquilla
 hombre	mujer
 marido	esposa
 muchacho	muchacha
 nene	nena
 niño	niña
 señor	señora
-tipo	tipa
+#tipo	tipa
 
 # Familia
 abuelo	abuela
