@@ -58,9 +58,6 @@ function GenerateMixed(template) {
     let oddsM = [template];
     let oddsF = [template];
 
-    let targetWordsM = [''];
-    let targetWordsF = [''];
-
     let parts = template.split(' ');
     for(let part of parts){
         let parsed = Parse(part);
@@ -90,36 +87,47 @@ function GenerateMixed(template) {
         oddsM = ReplaceExpandWithMASK(oddsM, parsed.item, targetsM);
         oddsF = ReplaceExpandWithMASK(oddsF, parsed.item, targetsF);
         
-        // 4. Palabras target originales
-        targetWordsM = ExpandTarget(targetWordsM, targetsM);
-        targetWordsF = ExpandTarget(targetWordsF, targetsF);
-
-
     }
-    return FormaterSalida([targetWordsM, targetWordsF, origM, origF, maskedM, maskedF, oddsM, oddsF]);
+    return FormaterSalida(template, [origM, origF, maskedM, maskedF, oddsM, oddsF]);
 
 }
 
-function FormaterSalida(items){
+function FindTargetWorkds(template, sentence){
+    let idx = template.split(" ").findIndex( x => x.includes(":m1"));
+    let word = sentence.split(" ")[idx];
+    return word;
+}
+
+let Indexes = {
+    OrigM: 0,
+    OrigF: 1,
+    MaskedM: 2,
+    MasdkedF: 3,
+    OddsM: 4,
+    OddsF: 5,
+}
+
+function FormaterSalida(template, items){
     let res = Array(items[0].length)
     .fill(0)
     .map((_, idx) => [
-        items[0][idx],
-        items[1][idx],
-        items[2][idx],
-        items[3][idx],
-        items[4][idx],
-        items[5][idx],
-        items[6][idx],
-        items[7][idx],
-    ] )
-    .map( x => x.join("\t") );
+        items[Indexes.OrigM][idx],
+        items[Indexes.OrigF][idx],
+        items[Indexes.MaskedM][idx],
+        items[Indexes.MasdkedF][idx],
+        items[Indexes.OddsM][idx],
+        items[Indexes.OddsF][idx],
+    ] );
+
+    res = res.map( item => {
+        let targetM = FindTargetWorkds(template, item[Indexes.OrigM]);
+        let targetF = FindTargetWorkds(template, item[Indexes.OrigF]);
+        return [...item, targetM, targetF];
+    })
+
+    res.map( x => x.join("\t") );
 
     return res;
-}
-
-function ExpandTarget(sentences, values){
-    return sentences.flatMap( sentence => values.map( val => val) );
 }
 
 function ReplaceExpandWithMASK(sentences, key, values){
