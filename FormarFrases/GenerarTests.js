@@ -125,7 +125,7 @@ function FormaterSalida(template, items){
         return [...item, targetM, targetF];
     })
 
-    res.map( x => x.join("\t") );
+    res = res.map( x => x.join("\t") );
 
     return res;
 }
