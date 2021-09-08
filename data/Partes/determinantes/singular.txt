@@ -1,4 +1,3 @@
-# https://www.elabueloeduca.com/aprender/lengua/palabras/determinantes.html
 #aquel	aquella
 el	la
 #ese	esa

@@ -11,4 +11,5 @@ node RellenarGenero/FillGenre.js ./input/Cno/profesiones.handpicked.txt
 ```
 cd TextTools
 node FormarFrases/GenerarTestsProfesiones.js
+node FormarFrases/GenerarTests.js
 ```
