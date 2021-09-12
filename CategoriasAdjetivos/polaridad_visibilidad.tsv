@@ -1,177 +1,336 @@
 Visible Positivo	Invisible positivo	Otros	Visible negativo	Invisible negativo
 [Visible +]	[Invisible +]	[???]	[Visible -]	[Invisible -]
-alta	verdadero	absoluto	baja	falso
-alto	abierta	abundante	corto	aburrido
-atractiva	aceptado	académico	enferma	agresivo
-atractivo	activa	aceptable	femenino	arrogante
-bella	activo	actual	gordo	básica
-bello	adecuada	adoptada	masculina	básico
-blanca	adecuado	adultos	bajo	callado
-blanco	admirable	alemán	corta	cansada
-bonita	agradable	alemana	gorda	complicada
-bonito	agradecido	amarilla	lenta	complicado
-brillante	alegre	amenazada	lento	confuso
-británica	amable	americana	redonda	culpable
-divino	apasionada	americano	sucio	débil
-elegante	apropiado	amplio		desconocido
-enorme	apto	antigua		difícil
-femenina	atenta	antiguo		dominante
-fina	atento	argentina		dramática
-fuerte	auténtica	argentino		dura
-fuertes	auténtico	asesinado		duro
-grande	autónoma	azul		escasa
-grandes	buena	barata		espantoso
-guapa	buenas	barato		estricta
-guapo	bueno	británico		excesiva
-hermosa	buenos	buen		excesivo
-hermoso	capaz	caballero		exigente
-larga	cariñoso	caliente		extraña
-largo	cercano	cantante		extraño
-masculino	clara	caro		falsa
-mona	claro	casada		feroz
-pequeña	competente	catalán		genérico
-pequeño	completa	catalana		horrible
-rubia	completo	cercana		ilegal
-rubio	conocida	china		imposible
-sexy	conocido	chino		inestable
-	constante	ciega		infantil
-	contento	ciego		inmortal
-	correcta	cierta		insoportable
-	correcto	cierto		intensa
-	curiosa	clásica		intenso
-	curioso	clásico		invisible
-	determinado	cómoda		irregular
-	diferente	cómodo		limitada
-	disponible	competitivo		loca
-	distinta	compleja		loco
-	distinto	complejo		mala
-	divertida	común		malo
-	divertido	consciente		negativa
-	educativo	conservador		negativo
-	efectivo	contrario		orgullosa
-	eficaz	creativa		orgulloso
-	eficiente	creativo		peligrosa
-	emocionante	cristiana		peligroso
-	encantador	cristiano		perdida
-	esencial	crítica		pobre
-	especial	crítico		radical
-	espectacular	cubana		rara
-	esperado	definido		raro
-	espontánea	definitivo		rechazada
-	estable	desnudo		salvaje
-	excelente	dicha		serio
-	excepcional	diferentes		severo
-	exitosa	digital		terrible
-	fácil	diversa		tonta
-	familiar	doble		tonto
-	famosa	eléctrica		triste
-	famoso	electrónica		violento
-	feliz	electrónico		violento
-	fiable	español		
-	fiel	española		
-	flexible	estadounidense		
-	funcional	este		
-	fundamental	evidente		
-	ganadora	exacto		
-	generosa	experto		
-	genial	extranjera		
-	gentil	extranjero		
-	honesto	famosos		
-	humilde	favorable		
-	ideal	física		
-	idóneo	físico		
-	importante	francés		
-	imprescindible	francesa		
-	impresionante	frecuente		
-	independiente	general		
-	indicada	gratuita		
-	indicado	grave		
-	indispensable	histórica		
-	inocente	holandesa		
-	inteligente	homosexual		
-	interesante	humana		
-	justo	humano		
-	leal	humanos		
-	legal	identificado		
-	liberal	igual		
-	libre	increíble		
-	lindo	independentista		
-	lista	indiferente		
-	listo	individual		
-	maduro	influyente		
-	maravilloso	informático		
-	mejor	inglés		
-	misterioso	inglesa		
-	modesta	insuficiente		
-	natural	internacional		
-	necesaria	investigador		
-	necesario	investigadora		
-	noble	italiana		
-	objetivo	italiano		
-	optimista	japonés		
-	original	japonesa		
-	paciente	joven		
-	perfecto	jóvenes		
-	personal	judía		
-	plural	libres		
-	poderosa	licenciada		
-	poderoso	llamado		
-	popular	maestra		
-	positiva	mayor		
-	positivo	media		
-	práctico	médico		
-	preciso	medio		
-	productivo	mejores		
-	profesional	menor		
-	profundo	mexicana		
-	puntual	mexicano		
-	pura	militar		
-	puro	mínima		
-	querido	mismo		
-	rápida	mixta		
-	rápido	mixto		
-	razonable	moderna		
-	recomendable	moderno		
-	relevante	moral		
-	responsable	mortal		
-	responsables	móvil		
-	rica	móviles		
-	rico	muda		
-	romántica	muerta		
-	romántico	muerto		
-	sabio	nacional		
-	saludable	negra		
-	sano	negro		
-	segura	normal		
-	seguro	nueva		
-	sencilla	nuevo		
-	sencillo	nuevos		
-	sensible	obligatorio		
-	simpática	oficial		
-	sincera	oscuro		
-	tierno	parecido		
-	tímida	pequeños		
-	tímido	permanente		
-	trabajadora	pesado		
-	tranquila	polaca		
-	tranquilo	polaco		
-	transparente	política		
-	única	portugués		
-	único	posible		
-	útil	presente		
-	válido	privada		
-	valiente	probable		
-	valioso	propietaria		
-	valioso	propio		
+alta	VERDADERO	abandonado	baja	FALSO
+alto	abierta	absoluta	bajo	aburrido
+altos	accesible	absoluto	bajos	afectada
+atractiva	aceptado	abundante	corta	afectado
+atractivo	acertado	académico	corto	agresiva
+bella	activa	aceptable	enferma	agresivo
+bello	activo	actual	femenino	ajena
+blanca	activos	acusada	gorda	anormal
+blanco	adecuada	adoptada	gordo	arriesgado
+bonita	adecuado	adultos	lenta	arrogante
+bonito	admirable	aficionado	lento	aterrador
+brillante	agradable	alemán	lesionado	ausente
+británica	agradecido	alemana	masculina	básica
+divina	alegre	alternativa	redonda	básico
+divino	amable	amarilla	seco	callado
+elegante	amistoso	ambiental	sucio	cansada
+enorme	amoroso	amenazada		complicada
+femenina	apasionada	americana		complicado
+fina	aplicado	americano		condenada
+fuerte	apropiada	amigas		confuso
+fuertes	apropiado	amplia		corrupta
+grande	apto	amplio		corrupto
+grandes	atenta	antigua		costosa
+guapa	atento	antiguo		costoso
+guapo	auténtica	antiguos		criminal
+hermosa	auténtico	aprobada		cruel
+hermoso	autónoma	aprobado		culpable
+larga	avanzada	árabe		débil
+largo	buena	argentina		deficiente
+masculino	buenas	argentino		dependiente
+mona	bueno	asesinado		desagradable
+pequeña	buenos	autónomo		desconocido
+pequeño	capacitado	azul		desesperada
+rubia	capaz	barata		detenida
+rubio	cariñoso	barato		detenido
+sexy	cercano	biológica		difícil
+	civil	biológico		difíciles
+	clara	brasileña		dominante
+	claro	breve		dramática
+	coherente	británico		dura
+	competente	buen		duro
+	completa	caballero		enemigo
+	completo	caliente		equivocada
+	comprometida	callada		equivocado
+	concentrado	cantante		escasa
+	conocida	caro		espantoso
+	conocido	casada		estricta
+	considerada	catalán		estúpido
+	considerado	catalana		excesiva
+	constante	céntrica		excesivo
+	contento	cercana		exigente
+	conveniente	cerrado		explosiva
+	correcta	china		extraña
+	correcto	chino		extraño
+	cualificada	ciega		extraños
+	cualificado	ciego		extrema
+	cultural	científica		falsa
+	curiosa	científico		feroz
+	curioso	cierta		firme
+	dedicada	cierto		flojo
+	determinado	clásica		frágil
+	diferente	clásico		fría
+	directa	colombiana		frío
+	disponible	comercial		genérico
+	distinta	cómoda		horrible
+	distinto	cómodo		ilegal
+	divertida	competitiva		implacable
+	divertido	competitivo		imposible
+	económica	compleja		incómoda
+	económico	complejo		inestable
+	educativo	común		infantil
+	efectivo	comunista		inferior
+	eficaz	confidencial		injusta
+	eficiente	conforme		injusto
+	emocionante	conjunto		inmortal
+	encantador	consciente		insoportable
+	entusiasta	conservador		intensa
+	equilibrada	conservadora		intenso
+	equilibrado	contrario		inútil
+	esencial	contratado		invisible
+	especial	convencida		irregular
+	espectacular	convencido		limitada
+	esperada	corriente		limitado
+	esperado	creativa		loca
+	espontánea	creativo		loco
+	estable	cristiana		locos
+	excelente	cristiano		mala
+	excepcional	crítica		malas
+	exitosa	críticas		malo
+	exitoso	crítico		malos
+	experimentado	críticos		mediocre
+	extraordinaria	cubana		molesto
+	fácil	cubierta		negativa
+	familiar	cuidado		negativo
+	famosa	danesa		nerviosa
+	famoso	decente		nervioso
+	fantástico	definido		nulo
+	felices	definitivo		ofensivo
+	feliz	delicada		orgullosa
+	fiable	derecha		orgulloso
+	fiel	derecho		oscura
+	flexible	desaparecida		particular
+	formado	desnudo		peligrosa
+	formal	destruida		peligroso
+	fresco	destruido		peor
+	funcional	dicha		perdedor
+	fundamental	diferentes		perdida
+	ganadora	digital		perdido
+	generosa	disminuido		perjudicial
+	generoso	diversa		pesada
+	genial	diverso		pesimista
+	gentil	doble		pobre
+	hábil	doméstica		pobres
+	honesto	dudoso		polémica
+	humilde	ebrio		preocupada
+	ideal	educado		preocupado
+	idóneo	educativa		problemática
+	imparcial	efectiva		racista
+	impecable	ejemplar		radical
+	importante	eléctrica		rara
+	importantes	eléctrico		raro
+	imprescindible	electrónica		rechazada
+	impresionante	electrónico		retrasado
+	increíble	elegida		salvaje
+	independiente	elegido		seria
+	indicada	elemental		serio
+	indicado	elevada		severa
+	indispensable	elevado		severo
+	inocente	eliminado		sospechosa
+	inteligente	emocionada		terrible
+	interesante	enamorado		tonta
+	justa	encontrada		tonto
+	justo	entera		torpe
+	leal	entero		triste
+	legal	entregada		violenta
+	legítimo	escolar		violento
+	liberal	escrito		violento
+	libre	español		vulgar
+	lindo	española		indiferente
+	lista	españoles		
+	listo	espiritual		
+	madura	estadounidense		
+	maduro	este		
+	maravilloso	estéril		
+	mejor	eterna		
+	misterioso	eterno		
+	modesta	evidente		
+	natural	exacto		
+	necesaria	experto		
+	necesario	extranjera		
+	noble	extranjero		
+	objetivo	factible		
+	optimista	fallecido		
+	original	famosos		
+	paciente	farmacéutico		
+	pacífica	favorable		
+	participante	favorito		
+	perfecto	fijo		
+	persistente	finalista		
+	personal	fino		
+	plural	física		
+	poderosa	físico		
+	poderoso	francés		
+	popular	francesa		
+	populares	frecuente		
+	positiva	futuro		
+	positivo	general		
+	práctico	global		
+	precisa	gran		
+	preciso	gratuita		
+	preparada	grave		
+	preparado	gris		
+	prestigiosa	habitual		
+	productivo	herido		
+	profesional	hindú		
+	profundo	hispanos		
+	puntual	histórica		
+	pura	holandesa		
+	puro	homosexual		
+	querido	humana		
+	rápida	humano		
+	rápido	humanos		
+	razonable	idéntico		
+	realizada	identificado		
+	realizado	ignorado		
+	recomendable	igual		
+	relevante	ilusionado		
+	resistente	improbable		
+	respetuoso	incapaz		
+	responsable	incondicional		
+	responsables	independentista		
+	revolucionario	individual		
+	rica	influyente		
+	rico	informático		
+	romántica	inglés		
+	romántico	inglesa		
+	sabio	iniciado		
+	saludable	insuficiente		
+	sana	internacional		
+	sano	investigador		
+	satisfactorio	investigadora		
+	segura	invitado		
+	seguro	italiana		
+	sencilla	italiano		
+	sencillo	japonés		
+	sensible	japonesa		
+	simpática	joven		
+	sincera	jóvenes		
+	tierno	jubilado		
+	tímida	judía		
+	tímido	jurídica		
+	trabajadora	libres		
+	tranquila	licenciada		
+	tranquilo	ligera		
+	transparente	ligero		
+	única	limpia		
+	único	llamado		
+	útil	local		
+	válido	maestra		
+	valiente	marcado		
+	valioso	mayor		
+	valioso	mecánico		
+	valorada	media		
+	verdadera	médica		
+		médico		
+		medio		
+		mejores		
+		menor		
+		mental		
+		mexicana		
+		mexicano		
+		militar		
+		minero		
+		mínima		
+		mínimo		
+		mismo		
+		mixta		
+		mixto		
+		moderado		
+		moderna		
+		moderno		
+		moral		
+		mortal		
+		motivada		
+		motivado		
+		móvil		
+		móviles		
+		muda		
+		muerta		
+		muerto		
+		mundial		
+		musical		
+		musulmán		
+		nacional		
+		negra		
+		negro		
+		neutral		
+		normal		
+		norteamericana		
+		norteamericano		
+		noruego		
+		notable		
+		nueva		
+		nuevo		
+		nuevos		
+		obligado		
+		obligatorio		
+		ocupada		
+		ocupado		
+		oficial		
+		olvidado		
+		oportuna		
+		oportuno		
+		opuesto		
+		ordenado		
+		oscuro		
+		parcial		
+		parecida		
+		parecido		
+		pariente		
+		pasada		
+		peculiar		
+		pequeños		
+		permanente		
+		pesado		
+		pintada		
+		polaca		
+		polaco		
+		policial		
+		política		
+		político		
+		portugués		
+		portuguesa		
+		posible		
+		potente		
+		práctica		
+		presente		
+		previsible		
+		principal		
+		privada		
+		privado		
+		probable		
+		productor		
+		profunda		
+		propia		
+		propietaria		
+		propio		
 		protagonista		
+		próxima		
 		próximo		
+		pública		
 		público		
+		rápidos		
 		real		
+		recibida		
 		reciente		
 		recto		
+		registrado		
+		regular		
+		relacionado		
+		relajado		
 		religiosa		
+		religioso		
+		rentable		
+		representativa		
+		republicana		
 		republicano		
+		retirado		
 		ricos		
+		robado		
+		roja		
 		rojo		
 		romano		
 		rural		
@@ -179,11 +338,19 @@ sexy	conocido	chino		inestable
 		ruso		
 		sabroso		
 		sagrada		
+		sagrado		
+		santa		
 		satisfecha		
 		satisfecho		
 		secreta		
+		secretario		
 		secundaria		
+		seguido		
 		segunda		
+		segundo		
+		selectivo		
+		sexual		
+		significativo		
 		siguiente		
 		silencioso		
 		similar		
@@ -192,34 +359,66 @@ sexy	conocido	chino		inestable
 		simples		
 		social		
 		socialista		
+		solicitada		
 		solo		
+		sólo		
 		soltero		
 		sordo		
 		sorprendente		
+		sorprendida		
+		sorprendido		
 		sostenible		
+		suave		
+		subjetivo		
 		sueco		
 		suficiente		
 		suicida		
 		suizo		
+		superficial		
 		superior		
+		suprema		
+		supremo		
+		susceptible		
+		suspendido		
+		tardía		
 		técnica		
 		técnico		
 		temporal		
 		temprano		
+		tenso		
+		tenue		
 		tercera		
+		tercero		
+		terrorista		
 		terroristas		
+		titular		
+		total		
 		tradicional		
+		tremenda		
+		uniforme		
+		universal		
 		universitaria		
 		universitario		
+		urbana		
+		urgente		
+		usada		
 		utilizado		
+		vasco		
+		vasto		
 		vecina		
 		vecino		
 		venezolana		
 		venezolano		
 		verde		
+		veterano		
 		viable		
 		vieja		
 		viejo		
+		visitada		
+		visto		
+		visual		
+		vital		
+		viva		
 		vivo		
 		vocal		
 		votada		
